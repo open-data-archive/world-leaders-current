@@ -17,6 +17,7 @@ const TEMPLATES = join(ROOT, 'build', 'templates', 'html');
 const DOCS = join(ROOT, 'docs');
 const AI_CONTENT = join(ROOT, 'build', 'ai-content', 'countries');
 const BASE_URL = 'https://open-data-archive.github.io/world-leaders-current';
+const BASE_PATH = process.env.BASE_PATH || '/world-leaders-current/';
 
 function isoToFlag(iso) {
   if (!iso || iso.length < 2) return '';
@@ -60,7 +61,8 @@ export async function generateHTML(allCountryData, countriesConfig) {
   const countryTpl = await readFile(join(TEMPLATES, 'country.ejs'), 'utf-8');
 
   // --- Index page ---
-  const indexContent = ejs.render(indexTpl, { leaders, flags, snapshotDate, countriesCount }, { filename: join(TEMPLATES, 'index.ejs') });
+  const basePath = BASE_PATH;
+  const indexContent = ejs.render(indexTpl, { leaders, flags, snapshotDate, countriesCount, basePath }, { filename: join(TEMPLATES, 'index.ejs') });
   const indexJsonLd = JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'Dataset',
@@ -76,7 +78,8 @@ export async function generateHTML(allCountryData, countriesConfig) {
     canonical: '',
     jsonLd: indexJsonLd,
     content: indexContent,
-    snapshotDate
+    snapshotDate,
+    basePath
   }, { filename: join(TEMPLATES, 'layout.ejs') });
 
   await mkdir(DOCS, { recursive: true });
@@ -98,7 +101,7 @@ export async function generateHTML(allCountryData, countriesConfig) {
     }
 
     const countryContent = ejs.render(countryTpl, {
-      config, data, flag, aiContent, snapshotDate, countryCode: code
+      config, data, flag, aiContent, snapshotDate, countryCode: code, basePath
     }, { filename: join(TEMPLATES, 'country.ejs') });
 
     const hogName = data.positions?.head_of_government?.current_holder?.name_en;
@@ -120,7 +123,8 @@ export async function generateHTML(allCountryData, countriesConfig) {
       canonical: `countries/${code}/`,
       jsonLd: jsonLd,
       content: countryContent,
-      snapshotDate
+      snapshotDate,
+      basePath
     }, { filename: join(TEMPLATES, 'layout.ejs') });
 
     const countryDir = join(countriesDir, code);
@@ -133,7 +137,7 @@ export async function generateHTML(allCountryData, countriesConfig) {
 <ul>
 ${Object.entries(countriesConfig).map(([code, config]) => {
   const flag = flags[config.iso_code] || '';
-  return `  <li>${flag} <a href="/world-leaders-current/countries/${code}/">${config.name_en}</a></li>`;
+  return `  <li>${flag} <a href="${basePath}countries/${code}/">${config.name_en}</a></li>`;
 }).join('\n')}
 </ul>`;
   const countriesIndexHtml = ejs.render(layoutTpl, {
@@ -142,7 +146,8 @@ ${Object.entries(countriesConfig).map(([code, config]) => {
     canonical: 'countries/',
     jsonLd: '{}',
     content: countriesIndexContent,
-    snapshotDate
+    snapshotDate,
+    basePath
   }, { filename: join(TEMPLATES, 'layout.ejs') });
   await writeFile(join(countriesDir, 'index.html'), countriesIndexHtml);
 
