@@ -1,0 +1,19 @@
+{
+  "name": "world-leaders-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for fetching and updating world leaders data from Wikidata/Wikipedia",
+  "type": "module",
+  "scripts": {
+    "bootstrap": "node bootstrap.js",
+    "daily": "node main.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.10"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "CC-BY-SA-4.0"
+}

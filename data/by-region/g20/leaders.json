@@ -1,0 +1,191 @@
+{
+  "indonesia": {
+    "iso_code": "ID",
+    "name_en": "Indonesia",
+    "head_of_government": "Prabowo Subianto",
+    "hog_since": "2024-10-20",
+    "head_of_state": "Prabowo Subianto",
+    "hos_since": "2024-10-20",
+    "head_of_state_display": "(Same — President)"
+  },
+  "argentina": {
+    "iso_code": "AR",
+    "name_en": "Argentina",
+    "head_of_government": "Javier Milei",
+    "hog_since": "2023-12-10",
+    "head_of_state": "Javier Milei",
+    "hos_since": "2023-12-10",
+    "head_of_state_display": "(Same — President)"
+  },
+  "australia": {
+    "iso_code": "AU",
+    "name_en": "Australia",
+    "head_of_government": "Anthony Albanese",
+    "hog_since": "2022-05-23",
+    "head_of_state": "Charles III",
+    "hos_since": "2022-09-08",
+    "head_of_state_display": "Charles III"
+  },
+  "brazil": {
+    "iso_code": "BR",
+    "name_en": "Brazil",
+    "head_of_government": "Luiz Inácio Lula da Silva",
+    "hog_since": "2023-01-01",
+    "head_of_state": "Luiz Inácio Lula da Silva",
+    "hos_since": "2023-01-01",
+    "head_of_state_display": "(Same — President)"
+  },
+  "canada": {
+    "iso_code": "CA",
+    "name_en": "Canada",
+    "head_of_government": "Mark Carney",
+    "hog_since": null,
+    "head_of_state": "Charles III",
+    "hos_since": "2022-09-08",
+    "head_of_state_display": "Charles III"
+  },
+  "china": {
+    "iso_code": "CN",
+    "name_en": "China",
+    "head_of_government": "Li Qiang",
+    "hog_since": "2023-03-11",
+    "head_of_state": "Xi Jinping",
+    "hos_since": "2013-03-14",
+    "head_of_state_display": "Xi Jinping"
+  },
+  "france": {
+    "iso_code": "FR",
+    "name_en": "France",
+    "head_of_government": "Sébastien Lecornu",
+    "hog_since": "2025-09-09",
+    "head_of_state": "Emmanuel Macron",
+    "hos_since": "2017-05-14",
+    "head_of_state_display": "Emmanuel Macron"
+  },
+  "germany": {
+    "iso_code": "DE",
+    "name_en": "Germany",
+    "head_of_government": "Friedrich Merz",
+    "hog_since": "2025-05-06",
+    "head_of_state": "Frank-Walter Steinmeier",
+    "hos_since": "2017-03-19",
+    "head_of_state_display": "Frank-Walter Steinmeier"
+  },
+  "india": {
+    "iso_code": "IN",
+    "name_en": "India",
+    "head_of_government": "Narendra Modi",
+    "hog_since": "2014-05-26",
+    "head_of_state": "Droupadi Murmu",
+    "hos_since": "2022-07-25",
+    "head_of_state_display": "Droupadi Murmu"
+  },
+  "italy": {
+    "iso_code": "IT",
+    "name_en": "Italy",
+    "head_of_government": "Giorgia Meloni",
+    "hog_since": "2022-10-22",
+    "head_of_state": "Sergio Mattarella",
+    "hos_since": "2015-02-03",
+    "head_of_state_display": "Sergio Mattarella"
+  },
+  "japan": {
+    "iso_code": "JP",
+    "name_en": "Japan",
+    "head_of_government": "Sanae Takaichi",
+    "hog_since": "2025-10-21",
+    "head_of_state": "Naruhito",
+    "hos_since": "2019-05-01",
+    "head_of_state_display": "Naruhito"
+  },
+  "mexico": {
+    "iso_code": "MX",
+    "name_en": "Mexico",
+    "head_of_government": "Claudia Sheinbaum",
+    "hog_since": "2024-10-01",
+    "head_of_state": "Claudia Sheinbaum",
+    "hos_since": "2024-10-01",
+    "head_of_state_display": "(Same — President)"
+  },
+  "russia": {
+    "iso_code": "RU",
+    "name_en": "Russia",
+    "head_of_government": "Mikhail Mishustin",
+    "hog_since": "2020-01-16",
+    "head_of_state": "Vladimir Putin",
+    "hos_since": "2012-05-07",
+    "head_of_state_display": "Vladimir Putin"
+  },
+  "saudi_arabia": {
+    "iso_code": "SA",
+    "name_en": "Saudi Arabia",
+    "head_of_government": "Mohammed bin Salman",
+    "hog_since": "2022-09-27",
+    "head_of_state": "Mohammed bin Salman",
+    "hos_since": "2022-09-27",
+    "head_of_state_display": "(Same — Prime Minister (King))"
+  },
+  "south_africa": {
+    "iso_code": "ZA",
+    "name_en": "South Africa",
+    "head_of_government": "Cyril Ramaphosa",
+    "hog_since": "2018-02-15",
+    "head_of_state": "Cyril Ramaphosa",
+    "hos_since": "2018-02-15",
+    "head_of_state_display": "(Same — President)"
+  },
+  "south_korea": {
+    "iso_code": "KR",
+    "name_en": "South Korea",
+    "head_of_government": "Lee Jae Myung",
+    "hog_since": "2025-06-04",
+    "head_of_state": "Lee Jae Myung",
+    "hos_since": "2025-06-04",
+    "head_of_state_display": "(Same — President)"
+  },
+  "turkey": {
+    "iso_code": "TR",
+    "name_en": "Turkey",
+    "head_of_government": "Recep Tayyip Erdoğan",
+    "hog_since": "2014-08-28",
+    "head_of_state": "Recep Tayyip Erdoğan",
+    "hos_since": "2014-08-28",
+    "head_of_state_display": "(Same — President)"
+  },
+  "uk": {
+    "iso_code": "GB",
+    "name_en": "United Kingdom",
+    "head_of_government": "Keir Starmer",
+    "hog_since": "2024-07-05",
+    "head_of_state": "Charles III",
+    "hos_since": "2022-09-08",
+    "head_of_state_display": "Charles III"
+  },
+  "usa": {
+    "iso_code": "US",
+    "name_en": "United States",
+    "head_of_government": "Donald Trump",
+    "hog_since": "2025-01-20",
+    "head_of_state": "Donald Trump",
+    "hos_since": "2025-01-20",
+    "head_of_state_display": "(Same — President)"
+  },
+  "european_union": {
+    "iso_code": "EU",
+    "name_en": "European Union",
+    "head_of_government": "Ursula von der Leyen",
+    "hog_since": "2019-12-01",
+    "head_of_state": "António Costa",
+    "hos_since": "2024-12-01",
+    "head_of_state_display": "António Costa"
+  },
+  "african_union": {
+    "iso_code": "AU_AF",
+    "name_en": "African Union",
+    "head_of_government": "Mahamoud Ali Youssouf",
+    "hog_since": "2025-03-13",
+    "head_of_state": "Évariste Ndayishimiye",
+    "hos_since": "2026-02-14",
+    "head_of_state_display": "Évariste Ndayishimiye"
+  }
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "country_code": "indonesia",
+    "country_name": "Indonesia",
+    "iso_code": "ID",
+    "name": "Prabowo Subianto",
+    "since": "2024-10-20"
+  },
+  {
+    "country_code": "laos",
+    "country_name": "Laos",
+    "iso_code": "LA",
+    "name": "Thongloun Sisoulith",
+    "since": "2021-03-22"
+  },
+  {
+    "country_code": "myanmar",
+    "country_name": "Myanmar",
+    "iso_code": "MM",
+    "name": "Min Aung Hlaing",
+    "since": "2026-04-10"
+  },
+  {
+    "country_code": "philippines",
+    "country_name": "Philippines",
+    "iso_code": "PH",
+    "name": "Bongbong Marcos",
+    "since": "2022-06-30"
+  },
+  {
+    "country_code": "singapore",
+    "country_name": "Singapore",
+    "iso_code": "SG",
+    "name": "Tharman Shanmugaratnam",
+    "since": "2023-09-14"
+  },
+  {
+    "country_code": "vietnam",
+    "country_name": "Vietnam",
+    "iso_code": "VN",
+    "name": "Tô Lâm",
+    "since": "2026-04-07"
+  },
+  {
+    "country_code": "argentina",
+    "country_name": "Argentina",
+    "iso_code": "AR",
+    "name": "Javier Milei",
+    "since": "2023-12-10"
+  },
+  {
+    "country_code": "brazil",
+    "country_name": "Brazil",
+    "iso_code": "BR",
+    "name": "Luiz Inácio Lula da Silva",
+    "since": "2023-01-01"
+  },
+  {
+    "country_code": "china",
+    "country_name": "China",
+    "iso_code": "CN",
+    "name": "Xi Jinping",
+    "since": "2013-03-14"
+  },
+  {
+    "country_code": "france",
+    "country_name": "France",
+    "iso_code": "FR",
+    "name": "Emmanuel Macron",
+    "since": "2017-05-14"
+  },
+  {
+    "country_code": "germany",
+    "country_name": "Germany",
+    "iso_code": "DE",
+    "name": "Frank-Walter Steinmeier",
+    "since": "2017-03-19"
+  },
+  {
+    "country_code": "india",
+    "country_name": "India",
+    "iso_code": "IN",
+    "name": "Droupadi Murmu",
+    "since": "2022-07-25"
+  },
+  {
+    "country_code": "italy",
+    "country_name": "Italy",
+    "iso_code": "IT",
+    "name": "Sergio Mattarella",
+    "since": "2015-02-03"
+  },
+  {
+    "country_code": "mexico",
+    "country_name": "Mexico",
+    "iso_code": "MX",
+    "name": "Claudia Sheinbaum",
+    "since": "2024-10-01"
+  },
+  {
+    "country_code": "russia",
+    "country_name": "Russia",
+    "iso_code": "RU",
+    "name": "Vladimir Putin",
+    "since": "2012-05-07"
+  },
+  {
+    "country_code": "south_africa",
+    "country_name": "South Africa",
+    "iso_code": "ZA",
+    "name": "Cyril Ramaphosa",
+    "since": "2018-02-15"
+  },
+  {
+    "country_code": "south_korea",
+    "country_name": "South Korea",
+    "iso_code": "KR",
+    "name": "Lee Jae Myung",
+    "since": "2025-06-04"
+  },
+  {
+    "country_code": "turkey",
+    "country_name": "Turkey",
+    "iso_code": "TR",
+    "name": "Recep Tayyip Erdoğan",
+    "since": "2014-08-28"
+  },
+  {
+    "country_code": "usa",
+    "country_name": "United States",
+    "iso_code": "US",
+    "name": "Donald Trump",
+    "since": "2025-01-20"
+  },
+  {
+    "country_code": "european_union",
+    "country_name": "European Union",
+    "iso_code": "EU",
+    "name": "Ursula von der Leyen",
+    "since": "2019-12-01"
+  },
+  {
+    "country_code": "european_union",
+    "country_name": "European Union",
+    "iso_code": "EU",
+    "name": "António Costa",
+    "since": "2024-12-01"
+  },
+  {
+    "country_code": "african_union",
+    "country_name": "African Union",
+    "iso_code": "AU_AF",
+    "name": "Mahamoud Ali Youssouf",
+    "since": "2025-03-13"
+  },
+  {
+    "country_code": "african_union",
+    "country_name": "African Union",
+    "iso_code": "AU_AF",
+    "name": "Évariste Ndayishimiye",
+    "since": "2026-02-14"
+  }
+]

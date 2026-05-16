@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "LA",
+    "name_en": "Laos",
+    "name_local": "ลາວ"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "ນາຍົກລັດຖະມົນຕຣີ",
+      "current_holder": {
+        "name_en": "Sonexay Siphandone",
+        "name_local": "ສອນໄຊ ສີພັນດອນ",
+        "wikidata_id": "Q104914585",
+        "since": "2022-12-30",
+        "party": null,
+        "party_local": null,
+        "born": "1966-01-26",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Sonexay_Siphandone",
+        "wikipedia_local": "https://lo.wikipedia.org/wiki/%E0%BA%AA%E0%BA%AD%E0%BA%99%E0%BB%84%E0%BA%8A_%E0%BA%AA%E0%BA%B5%E0%BA%9E%E0%BA%B1%E0%BA%99%E0%BA%94%E0%BA%AD%E0%BA%99"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Laos",
+      "office_wikipedia_local": null
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "ປະທານ",
+      "current_holder": {
+        "name_en": "Thongloun Sisoulith",
+        "name_local": "ທອງລຸນ ສີສຸລິດ",
+        "wikidata_id": "Q58323",
+        "since": "2021-03-22",
+        "party": "Lao People's Revolutionary Party",
+        "party_local": "ພັກປະຊາຊົນປະຕິວັດລາວ",
+        "born": "1945-11-10",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Thongloun_Sisoulith",
+        "wikipedia_local": "https://lo.wikipedia.org/wiki/%E0%BA%97%E0%BA%AD%E0%BA%87%E0%BA%A5%E0%BA%B8%E0%BA%99_%E0%BA%AA%E0%BA%B5%E0%BA%AA%E0%BA%B8%E0%BA%A5%E0%BA%B4%E0%BA%94"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Laos",
+      "office_wikipedia_local": null
+    }
+  },
+  "last_change": null
+}

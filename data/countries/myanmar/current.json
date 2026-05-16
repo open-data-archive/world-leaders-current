@@ -1,0 +1,34 @@
+{
+  "country": {
+    "iso_code": "MM",
+    "name_en": "Myanmar",
+    "name_local": "မြန်မာ"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "ဝန်ကြီးစာရင်",
+      "current_holder": null
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "နိုင်ငံတော်သမ္မတ",
+      "current_holder": {
+        "name_en": "Min Aung Hlaing",
+        "name_local": "မင်းအောင်လှိုင်",
+        "wikidata_id": "Q3462649",
+        "since": "2026-04-10",
+        "party": "Union Solidarity and Development Party",
+        "party_local": "ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့် ဖွံ့ဖြိုးရေးပါတီ",
+        "born": "1956-07-03",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+        "wikipedia_local": "https://my.wikipedia.org/wiki/%E1%80%99%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9C%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Myanmar",
+      "office_wikipedia_local": null
+    }
+  },
+  "last_change": null
+}

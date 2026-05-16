@@ -1,0 +1,87 @@
+# World Leaders Current
+
+> Current heads of state and government for ASEAN + G20 countries.
+> Updated daily from Wikidata and Wikipedia.
+> License: CC-BY-SA-4.0
+
+## Navigation
+
+- Root: README.md — Quick reference table of all leaders
+- Data: data/current/all-leaders.json — All leaders in JSON
+- Countries: data/countries/{country}/README.md — Per-country bilingual pages
+- Regions: data/by-region/{region}/README.md — Regional groupings
+- Changes: data/changes/README.md — Leadership change log
+- Full summary: docs/llms-full.txt — Comprehensive data dump
+
+## Countries Covered (30)
+
+### ASEAN (10)
+- Brunei
+- Cambodia
+- Indonesia
+- Laos
+- Malaysia
+- Myanmar
+- Philippines
+- Singapore
+- Thailand
+- Vietnam
+
+
+### G20 (unique, + EU, African Union)
+- Indonesia
+- Argentina
+- Australia
+- Brazil
+- Canada
+- China
+- France
+- Germany
+- India
+- Italy
+- Japan
+- Mexico
+- Russia
+- Saudi Arabia
+- South Africa
+- South Korea
+- Turkey
+- United Kingdom
+- United States
+- European Union
+- African Union
+
+
+## Quick Data
+
+- Brunei: HoG=Hassanal Bolkiah, HoS=Hassanal Bolkiah
+- Cambodia: HoG=Hun Manet, HoS=Norodom Sihamoni
+- Indonesia: HoG=Prabowo Subianto, HoS=Prabowo Subianto
+- Laos: HoG=Sonexay Siphandone, HoS=Thongloun Sisoulith
+- Malaysia: HoG=Anwar Ibrahim, HoS=Anwar Ibrahim
+- Myanmar: HoG=?, HoS=Min Aung Hlaing
+- Philippines: HoG=Bongbong Marcos, HoS=Bongbong Marcos
+- Singapore: HoG=Lawrence Wong, HoS=Tharman Shanmugaratnam
+- Thailand: HoG=Anutin Charnvirakul, HoS=Vajiralongkorn
+- Vietnam: HoG=Lê Minh Hưng, HoS=Tô Lâm
+- Argentina: HoG=Javier Milei, HoS=Javier Milei
+- Australia: HoG=Anthony Albanese, HoS=Charles III
+- Brazil: HoG=Luiz Inácio Lula da Silva, HoS=Luiz Inácio Lula da Silva
+- Canada: HoG=Mark Carney, HoS=Charles III
+- China: HoG=Li Qiang, HoS=Xi Jinping
+- France: HoG=Sébastien Lecornu, HoS=Emmanuel Macron
+- Germany: HoG=Friedrich Merz, HoS=Frank-Walter Steinmeier
+- India: HoG=Narendra Modi, HoS=Droupadi Murmu
+- Italy: HoG=Giorgia Meloni, HoS=Sergio Mattarella
+- Japan: HoG=Sanae Takaichi, HoS=Naruhito
+- Mexico: HoG=Claudia Sheinbaum, HoS=Claudia Sheinbaum
+- Russia: HoG=Mikhail Mishustin, HoS=Vladimir Putin
+- Saudi Arabia: HoG=Mohammed bin Salman, HoS=Mohammed bin Salman
+- South Africa: HoG=Cyril Ramaphosa, HoS=Cyril Ramaphosa
+- South Korea: HoG=Lee Jae Myung, HoS=Lee Jae Myung
+- Turkey: HoG=Recep Tayyip Erdoğan, HoS=Recep Tayyip Erdoğan
+- United Kingdom: HoG=Keir Starmer, HoS=Charles III
+- United States: HoG=Donald Trump, HoS=Donald Trump
+- European Union: HoG=Ursula von der Leyen, HoS=António Costa
+- African Union: HoG=Mahamoud Ali Youssouf, HoS=Évariste Ndayishimiye
+

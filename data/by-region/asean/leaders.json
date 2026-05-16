@@ -1,0 +1,92 @@
+{
+  "brunei": {
+    "iso_code": "BN",
+    "name_en": "Brunei",
+    "head_of_government": "Hassanal Bolkiah",
+    "hog_since": "1984-01-01",
+    "head_of_state": "Hassanal Bolkiah",
+    "hos_since": "1984-01-01",
+    "head_of_state_display": "(Same — Sultan and Prime Minister)"
+  },
+  "cambodia": {
+    "iso_code": "KH",
+    "name_en": "Cambodia",
+    "head_of_government": "Hun Manet",
+    "hog_since": "2023-08-22",
+    "head_of_state": "Norodom Sihamoni",
+    "hos_since": "2004-10-29",
+    "head_of_state_display": "Norodom Sihamoni"
+  },
+  "indonesia": {
+    "iso_code": "ID",
+    "name_en": "Indonesia",
+    "head_of_government": "Prabowo Subianto",
+    "hog_since": "2024-10-20",
+    "head_of_state": "Prabowo Subianto",
+    "hos_since": "2024-10-20",
+    "head_of_state_display": "(Same — President)"
+  },
+  "laos": {
+    "iso_code": "LA",
+    "name_en": "Laos",
+    "head_of_government": "Sonexay Siphandone",
+    "hog_since": "2022-12-30",
+    "head_of_state": "Thongloun Sisoulith",
+    "hos_since": "2021-03-22",
+    "head_of_state_display": "Thongloun Sisoulith"
+  },
+  "malaysia": {
+    "iso_code": "MY",
+    "name_en": "Malaysia",
+    "head_of_government": "Anwar Ibrahim",
+    "hog_since": "2022-11-24",
+    "head_of_state": null,
+    "hos_since": null,
+    "head_of_state_display": null
+  },
+  "myanmar": {
+    "iso_code": "MM",
+    "name_en": "Myanmar",
+    "head_of_government": null,
+    "hog_since": null,
+    "head_of_state": "Min Aung Hlaing",
+    "hos_since": "2026-04-10",
+    "head_of_state_display": "Min Aung Hlaing"
+  },
+  "philippines": {
+    "iso_code": "PH",
+    "name_en": "Philippines",
+    "head_of_government": "Bongbong Marcos",
+    "hog_since": "2022-06-30",
+    "head_of_state": "Bongbong Marcos",
+    "hos_since": "2022-06-30",
+    "head_of_state_display": "(Same — President)"
+  },
+  "singapore": {
+    "iso_code": "SG",
+    "name_en": "Singapore",
+    "head_of_government": "Lawrence Wong",
+    "hog_since": "2024-05-15",
+    "head_of_state": "Tharman Shanmugaratnam",
+    "hos_since": "2023-09-14",
+    "head_of_state_display": "Tharman Shanmugaratnam"
+  },
+  "thailand": {
+    "iso_code": "TH",
+    "name_en": "Thailand",
+    "head_of_government": "Anutin Charnvirakul",
+    "hog_since": "2025-09-07",
+    "head_of_state": "Vajiralongkorn",
+    "hos_since": "2016-10-13",
+    "head_of_state_display": "Vajiralongkorn"
+  },
+  "vietnam": {
+    "iso_code": "VN",
+    "name_en": "Vietnam",
+    "head_of_government": "Lê Minh Hưng",
+    "hog_since": "2026-04-07",
+    "head_of_state": "Tô Lâm",
+    "hos_since": "2026-04-07",
+    "head_of_state_display": "Tô Lâm"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "IN",
+    "name_en": "India",
+    "name_local": "भारत"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "प्रधानमंत्री",
+      "current_holder": {
+        "name_en": "Narendra Modi",
+        "name_local": "नरेन्द्र मोदी",
+        "wikidata_id": "Q1058",
+        "since": "2014-05-26",
+        "party": "Bharatiya Janata Party",
+        "party_local": "भारतीय जनता पार्टी",
+        "born": "1950-09-17",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Narendra_Modi",
+        "wikipedia_local": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_India",
+      "office_wikipedia_local": "https://hi.wikipedia.org/wiki/भारत_के_प्रधानमंत्री"
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "राष्ट्रपति",
+      "current_holder": {
+        "name_en": "Droupadi Murmu",
+        "name_local": "द्रौपदी मुर्मू",
+        "wikidata_id": "Q19901232",
+        "since": "2022-07-25",
+        "party": "Bharatiya Janata Party",
+        "party_local": "भारतीय जनता पार्टी",
+        "born": "1958-06-20",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Droupadi_Murmu",
+        "wikipedia_local": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%AA%E0%A4%A6%E0%A5%80_%E0%A4%AE%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%82"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_India",
+      "office_wikipedia_local": "https://hi.wikipedia.org/wiki/भारत_के_राष्ट्रपति"
+    }
+  },
+  "last_change": null
+}

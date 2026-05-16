@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "EU",
+    "name_en": "European Union",
+    "name_local": "European Union"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "President of the European Commission",
+      "title_local": "President of the European Commission",
+      "current_holder": {
+        "name_en": "Ursula von der Leyen",
+        "name_local": null,
+        "wikidata_id": "Q57641",
+        "since": "2019-12-01",
+        "party": "Fidesz",
+        "party_local": null,
+        "born": "1963-05-31",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen",
+        "wikipedia_local": null
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_European_Commission",
+      "office_wikipedia_local": null
+    },
+    "head_of_state": {
+      "title_en": "President of the European Council",
+      "title_local": "President of the European Council",
+      "current_holder": {
+        "name_en": "António Costa",
+        "name_local": null,
+        "wikidata_id": "Q2347236",
+        "since": "2024-12-01",
+        "party": null,
+        "party_local": null,
+        "born": null,
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa",
+        "wikipedia_local": null
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_European_Council",
+      "office_wikipedia_local": null
+    }
+  },
+  "last_change": null
+}

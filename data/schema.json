@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Country Current Leaders",
+  "description": "Schema for per-country current leaders data file",
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "object",
+      "properties": {
+        "iso_code": { "type": "string", "pattern": "^[A-Z]{2}$" },
+        "name_en": { "type": "string" },
+        "name_local": { "type": "string" }
+      },
+      "required": ["iso_code", "name_en", "name_local"]
+    },
+    "captured_at": { "type": "string", "format": "date-time" },
+    "data_source": { "type": "string", "enum": ["Wikidata", "Wikipedia", "Wikidata+Wikipedia"] },
+    "positions": {
+      "type": "object",
+      "properties": {
+        "head_of_government": { "$ref": "#/$defs/position" },
+        "head_of_state": { "$ref": "#/$defs/position" }
+      },
+      "required": ["head_of_government", "head_of_state"]
+    },
+    "last_change": {
+      "type": ["object", "null"],
+      "properties": {
+        "position": { "type": "string" },
+        "change_date": { "type": "string", "format": "date" },
+        "predecessor_en": { "type": "string" },
+        "predecessor_local": { "type": ["string", "null"] }
+      }
+    }
+  },
+  "required": ["country", "captured_at", "data_source", "positions"],
+  "$defs": {
+    "position": {
+      "type": "object",
+      "properties": {
+        "title_en": { "type": "string" },
+        "title_local": { "type": ["string", "null"] },
+        "is_same_as_head_of_state": { "type": "boolean" },
+        "is_monarchy": { "type": "boolean" },
+        "current_holder": { "$ref": "#/$defs/person" },
+        "office_wikipedia_en": { "type": "string", "format": "uri" },
+        "office_wikipedia_local": { "type": ["string", "null"], "format": "uri" }
+      },
+      "required": ["title_en", "current_holder"]
+    },
+    "person": {
+      "type": "object",
+      "properties": {
+        "name_en": { "type": "string" },
+        "name_local": { "type": ["string", "null"] },
+        "wikidata_id": { "type": "string", "pattern": "^Q[0-9]+$" },
+        "since": { "type": ["string", "null"], "format": "date" },
+        "party": { "type": ["string", "null"] },
+        "party_local": { "type": ["string", "null"] },
+        "born": { "type": ["string", "null"], "format": "date" },
+        "regnal_name_en": { "type": ["string", "null"] },
+        "wikipedia_en": { "type": ["string", "null"], "format": "uri" },
+        "wikipedia_local": { "type": ["string", "null"], "format": "uri" }
+      },
+      "required": ["name_en"]
+    }
+  }
+}

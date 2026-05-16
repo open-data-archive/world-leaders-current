@@ -1,0 +1,121 @@
+[
+  {
+    "country_code": "brunei",
+    "country_name": "Brunei",
+    "iso_code": "BN",
+    "name": "Hassanal Bolkiah",
+    "since": "1984-01-01"
+  },
+  {
+    "country_code": "cambodia",
+    "country_name": "Cambodia",
+    "iso_code": "KH",
+    "name": "Hun Manet",
+    "since": "2023-08-22"
+  },
+  {
+    "country_code": "laos",
+    "country_name": "Laos",
+    "iso_code": "LA",
+    "name": "Sonexay Siphandone",
+    "since": "2022-12-30"
+  },
+  {
+    "country_code": "malaysia",
+    "country_name": "Malaysia",
+    "iso_code": "MY",
+    "name": "Anwar Ibrahim",
+    "since": "2022-11-24"
+  },
+  {
+    "country_code": "singapore",
+    "country_name": "Singapore",
+    "iso_code": "SG",
+    "name": "Lawrence Wong",
+    "since": "2024-05-15"
+  },
+  {
+    "country_code": "thailand",
+    "country_name": "Thailand",
+    "iso_code": "TH",
+    "name": "Anutin Charnvirakul",
+    "since": "2025-09-07"
+  },
+  {
+    "country_code": "vietnam",
+    "country_name": "Vietnam",
+    "iso_code": "VN",
+    "name": "Lê Minh Hưng",
+    "since": "2026-04-07"
+  },
+  {
+    "country_code": "australia",
+    "country_name": "Australia",
+    "iso_code": "AU",
+    "name": "Anthony Albanese",
+    "since": "2022-05-23"
+  },
+  {
+    "country_code": "canada",
+    "country_name": "Canada",
+    "iso_code": "CA",
+    "name": "Mark Carney",
+    "since": null
+  },
+  {
+    "country_code": "china",
+    "country_name": "China",
+    "iso_code": "CN",
+    "name": "Li Qiang",
+    "since": "2023-03-11"
+  },
+  {
+    "country_code": "france",
+    "country_name": "France",
+    "iso_code": "FR",
+    "name": "Sébastien Lecornu",
+    "since": "2025-09-09"
+  },
+  {
+    "country_code": "india",
+    "country_name": "India",
+    "iso_code": "IN",
+    "name": "Narendra Modi",
+    "since": "2014-05-26"
+  },
+  {
+    "country_code": "italy",
+    "country_name": "Italy",
+    "iso_code": "IT",
+    "name": "Giorgia Meloni",
+    "since": "2022-10-22"
+  },
+  {
+    "country_code": "japan",
+    "country_name": "Japan",
+    "iso_code": "JP",
+    "name": "Sanae Takaichi",
+    "since": "2025-10-21"
+  },
+  {
+    "country_code": "russia",
+    "country_name": "Russia",
+    "iso_code": "RU",
+    "name": "Mikhail Mishustin",
+    "since": "2020-01-16"
+  },
+  {
+    "country_code": "saudi_arabia",
+    "country_name": "Saudi Arabia",
+    "iso_code": "SA",
+    "name": "Mohammed bin Salman",
+    "since": "2022-09-27"
+  },
+  {
+    "country_code": "uk",
+    "country_name": "United Kingdom",
+    "iso_code": "GB",
+    "name": "Keir Starmer",
+    "since": "2024-07-05"
+  }
+]

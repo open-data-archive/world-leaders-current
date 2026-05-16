@@ -1,0 +1,25 @@
+# Current World Leaders
+
+> Snapshot of all tracked heads of state and government
+>
+> Last updated: **<%= lastUpdated %>** | Countries: **<%= countriesCount %>**
+
+## All Leaders
+
+| Country | Head of Government | Since | Head of State | Since |
+|---------|-------------------|-------|---------------|-------|
+<% for (const [code, country] of Object.entries(leaders)) { %><% const flag = flags[country.iso_code] || '' %>| <%= flag %> [<%= country.name_en %>](../countries/<%= code %>/) | <%= country.head_of_government || '—' %> | <%= country.hog_since || '—' %> | <%= country.head_of_state_display || '—' %> | <%= country.hos_since || '—' %> |
+<% } %>
+
+## Data Files
+
+- [all-leaders.json](./all-leaders.json) — All countries (JSON)
+- [all-leaders.csv](./all-leaders.csv) — All countries (CSV)
+- [by-position.json](./by-position.json) — Grouped by role type
+- [last-updated.json](./last-updated.json) — Update metadata
+
+## Related
+
+- [By region](../by-region/)
+- [By position](../by-position/)
+- [Changes log](../changes/)

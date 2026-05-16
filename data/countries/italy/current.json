@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "IT",
+    "name_en": "Italy",
+    "name_local": "Italia"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "Presidente del Consiglio dei ministri",
+      "current_holder": {
+        "name_en": "Giorgia Meloni",
+        "name_local": "Giorgia Meloni",
+        "wikidata_id": "Q451791",
+        "since": "2022-10-22",
+        "party": "Brothers of Italy",
+        "party_local": "Fratelli d'Italia",
+        "born": "1977-01-15",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Giorgia_Meloni",
+        "wikipedia_local": "https://it.wikipedia.org/wiki/Giorgia_Meloni"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Italy",
+      "office_wikipedia_local": "https://it.wikipedia.org/wiki/Presidente_del_Consiglio_dei_ministri_della_Repubblica_Italiana"
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "Presidente della Repubblica",
+      "current_holder": {
+        "name_en": "Sergio Mattarella",
+        "name_local": "Sergio Mattarella",
+        "wikidata_id": "Q3956186",
+        "since": "2015-02-03",
+        "party": "independent politician",
+        "party_local": "indipendente",
+        "born": "1941-07-23",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Sergio_Mattarella",
+        "wikipedia_local": "https://it.wikipedia.org/wiki/Sergio_Mattarella"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Italy",
+      "office_wikipedia_local": "https://it.wikipedia.org/wiki/Presidente_della_Repubblica_Italiana"
+    }
+  },
+  "last_change": null
+}

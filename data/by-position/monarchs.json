@@ -1,0 +1,44 @@
+[
+  {
+    "country_code": "cambodia",
+    "country_name": "Cambodia",
+    "iso_code": "KH",
+    "name": "Norodom Sihamoni",
+    "since": "2004-10-29"
+  },
+  {
+    "country_code": "thailand",
+    "country_name": "Thailand",
+    "iso_code": "TH",
+    "name": "Vajiralongkorn",
+    "since": "2016-10-13"
+  },
+  {
+    "country_code": "australia",
+    "country_name": "Australia",
+    "iso_code": "AU",
+    "name": "Charles III",
+    "since": "2022-09-08"
+  },
+  {
+    "country_code": "canada",
+    "country_name": "Canada",
+    "iso_code": "CA",
+    "name": "Charles III",
+    "since": "2022-09-08"
+  },
+  {
+    "country_code": "japan",
+    "country_name": "Japan",
+    "iso_code": "JP",
+    "name": "Naruhito",
+    "since": "2019-05-01"
+  },
+  {
+    "country_code": "uk",
+    "country_name": "United Kingdom",
+    "iso_code": "GB",
+    "name": "Charles III",
+    "since": "2022-09-08"
+  }
+]

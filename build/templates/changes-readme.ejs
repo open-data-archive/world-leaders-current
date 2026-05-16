@@ -1,0 +1,29 @@
+# Recent Leadership Changes
+
+> Tracking changes in heads of state/government across ASEAN + G20 countries
+>
+> Last updated: <%= lastUpdated %>
+
+<% for (const [year, yearChanges] of Object.entries(changesByYear).sort((a, b) => b[0] - a[0])) { %>
+## <%= year %> Changes
+
+<% if (yearChanges.length === 0) { %>
+No changes detected in <%= year %>.
+<% } else { %>
+| Date | Country | Position | New Leader | Previous |
+|------|---------|----------|------------|----------|
+<% for (const c of yearChanges) { %>| <%= c.change_date || '—' %> | [<%= c.country_name_en %>](../countries/<%= c.country %>/) | <%= c.position_title || c.position %> | <%= c.new_holder_en %> | <%= c.old_holder_en %> |
+<% } %>
+<% } %>
+
+<% } %>
+
+## How We Detect Changes
+
+Every daily run compares current Wikidata/Wikipedia data against the previous snapshot.
+If the incumbent has changed, we log it here and update the affected country page.
+
+## Data
+
+<% for (const year of Object.keys(changesByYear).sort((a, b) => b - a)) { %>- [<%= year %>.json](./<%= year %>.json)
+<% } %>

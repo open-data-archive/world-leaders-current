@@ -1,0 +1,25 @@
+# Countries Index
+
+> All tracked countries with current leaders
+>
+> Last updated: <%= lastUpdated %>
+
+## ASEAN Countries
+
+| Country | Head of Government | Head of State | System |
+|---------|-------------------|---------------|--------|
+<% for (const [code, country] of asean) { %><% const flag = flags[country.iso_code] || '' %>| <%= flag %> [<%= country.name_en %>](./<%= code %>/) | <%= country.head_of_government || '—' %> | <%= country.head_of_state_display || '—' %> | <%= country.government_system %> |
+<% } %>
+
+## G20 Members
+
+| Country | Head of Government | Head of State | System |
+|---------|-------------------|---------------|--------|
+<% for (const [code, country] of g20) { %><% const flag = flags[country.iso_code] || '' %>| <%= flag %> [<%= country.name_en %>](./<%= code %>/) | <%= country.head_of_government || '—' %> | <%= country.head_of_state_display || '—' %> | <%= country.government_system %> |
+<% } %>
+
+## Related
+
+- [By region](../by-region/)
+- [By position](../by-position/)
+- [Changes log](../changes/)

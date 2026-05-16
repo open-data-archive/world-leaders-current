@@ -1,0 +1,543 @@
+# World Leaders Current — Full Summary
+
+> Generated: 2026-05-16
+> Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
+> Countries: 30
+
+This file contains a comprehensive summary of all tracked world leaders for AI consumption.
+
+
+## Brunei (Brunei Darussalam)
+
+
+
+### Sultan and Prime Minister
+- Name: Hassanal Bolkiah / Sultan Hassanal Bolkiah
+- Since: 1984-01-01
+
+- Wikipedia: https://en.wikipedia.org/wiki/Hassanal_Bolkiah
+
+
+
+
+
+
+## Cambodia (កម្ពុជា)
+
+
+
+### Prime Minister
+- Name: Hun Manet / ហ៊ុន ម៉ាណែត
+- Since: 2023-08-22
+- Party: Cambodian People&#39;s Party
+- Wikipedia: https://en.wikipedia.org/wiki/Hun_Manet
+
+
+
+
+### King
+- Name: Norodom Sihamoni / នរោត្ដម សីហមុនី
+- Since: 2004-10-29
+- Wikipedia: https://en.wikipedia.org/wiki/Norodom_Sihamoni
+
+
+
+## Indonesia
+
+
+
+### President
+- Name: Prabowo Subianto / Prabowo Subianto
+- Since: 2024-10-20
+- Party: Great Indonesia Movement Party
+- Wikipedia: https://en.wikipedia.org/wiki/Prabowo_Subianto
+
+
+
+
+
+
+## Laos (ลາວ)
+
+
+
+### Prime Minister
+- Name: Sonexay Siphandone / ສອນໄຊ ສີພັນດອນ
+- Since: 2022-12-30
+
+- Wikipedia: https://en.wikipedia.org/wiki/Sonexay_Siphandone
+
+
+
+
+### President
+- Name: Thongloun Sisoulith / ທອງລຸນ ສີສຸລິດ
+- Since: 2021-03-22
+- Wikipedia: https://en.wikipedia.org/wiki/Thongloun_Sisoulith
+
+
+
+## Malaysia
+
+
+
+### Prime Minister
+- Name: Anwar Ibrahim / Anwar Ibrahim
+- Since: 2022-11-24
+- Party: People&#39;s Justice Party
+- Wikipedia: https://en.wikipedia.org/wiki/Anwar_Ibrahim
+
+
+
+
+
+
+## Myanmar (မြန်မာ)
+
+
+
+
+
+
+### President
+- Name: Min Aung Hlaing / မင်းအောင်လှိုင်
+- Since: 2026-04-10
+- Wikipedia: https://en.wikipedia.org/wiki/Min_Aung_Hlaing
+
+
+
+## Philippines (Pilipinas)
+
+
+
+### President
+- Name: Bongbong Marcos / Bongbong Marcos
+- Since: 2022-06-30
+- Party: Partido Federal ng Pilipinas
+- Wikipedia: https://en.wikipedia.org/wiki/Bongbong_Marcos
+
+
+
+
+
+
+## Singapore
+
+
+
+### Prime Minister
+- Name: Lawrence Wong
+- Since: 2024-05-15
+- Party: People&#39;s Action Party
+- Wikipedia: https://en.wikipedia.org/wiki/Lawrence_Wong
+
+
+
+
+### President
+- Name: Tharman Shanmugaratnam
+- Since: 2023-09-14
+- Wikipedia: https://en.wikipedia.org/wiki/Tharman_Shanmugaratnam
+
+
+
+## Thailand (ประเทศไทย)
+
+
+
+### Prime Minister
+- Name: Anutin Charnvirakul / อนุทิน ชาญวีรกูล
+- Since: 2025-09-07
+- Party: Bhumjaithai Party
+- Wikipedia: https://en.wikipedia.org/wiki/Anutin_Charnvirakul
+
+
+
+
+### King
+- Name: Vajiralongkorn / พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว
+- Since: 2016-10-13
+- Wikipedia: https://en.wikipedia.org/wiki/Vajiralongkorn
+
+
+
+## Vietnam (Việt Nam)
+
+
+
+### Prime Minister
+- Name: Lê Minh Hưng / Lê Minh Hưng
+- Since: 2026-04-07
+
+- Wikipedia: https://en.wikipedia.org/wiki/L%C3%AA_Minh_H%C6%B0ng
+
+
+
+
+### President
+- Name: Tô Lâm / Tô Lâm
+- Since: 2026-04-07
+- Wikipedia: https://en.wikipedia.org/wiki/T%C3%B4_L%C3%A2m
+
+
+
+## Argentina
+
+
+
+### President
+- Name: Javier Milei / Javier Milei
+- Since: 2023-12-10
+- Party: Freedom Advances
+- Wikipedia: https://en.wikipedia.org/wiki/Javier_Milei
+
+
+
+
+
+
+## Australia
+
+
+
+### Prime Minister
+- Name: Anthony Albanese
+- Since: 2022-05-23
+- Party: Australian Labor Party
+- Wikipedia: https://en.wikipedia.org/wiki/Anthony_Albanese
+
+
+
+
+### Monarch
+- Name: Charles III
+- Since: 2022-09-08
+- Wikipedia: https://en.wikipedia.org/wiki/Charles_III
+
+
+
+## Brazil (Brasil)
+
+
+
+### President
+- Name: Luiz Inácio Lula da Silva / Luiz Inácio Lula da Silva
+- Since: 2023-01-01
+- Party: Workers&#39; Party
+- Wikipedia: https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+
+
+
+
+
+
+## Canada
+
+
+
+### Prime Minister
+- Name: Mark Carney
+- Since: unknown
+- Party: Liberal Party of Canada
+- Wikipedia: https://en.wikipedia.org/wiki/Mark_Carney
+
+
+
+
+### Monarch
+- Name: Charles III
+- Since: 2022-09-08
+- Wikipedia: https://en.wikipedia.org/wiki/Charles_III
+
+
+
+## China (中国)
+
+
+
+### Premier
+- Name: Li Qiang / 李强
+- Since: 2023-03-11
+- Party: Chinese Communist Party
+- Wikipedia: https://en.wikipedia.org/wiki/Li_Qiang
+
+
+
+
+### President
+- Name: Xi Jinping / 习近平
+- Since: 2013-03-14
+- Wikipedia: https://en.wikipedia.org/wiki/Xi_Jinping
+
+
+
+## France
+
+
+
+### Prime Minister
+- Name: Sébastien Lecornu / Sébastien Lecornu
+- Since: 2025-09-09
+- Party: Renaissance
+- Wikipedia: https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu
+
+
+
+
+### President
+- Name: Emmanuel Macron / Emmanuel Macron
+- Since: 2017-05-14
+- Wikipedia: https://en.wikipedia.org/wiki/Emmanuel_Macron
+
+
+
+## Germany (Deutschland)
+
+
+
+### Chancellor
+- Name: Friedrich Merz / Friedrich Merz
+- Since: 2025-05-06
+- Party: Christian Democratic Union
+- Wikipedia: https://en.wikipedia.org/wiki/Friedrich_Merz
+
+
+
+
+### President
+- Name: Frank-Walter Steinmeier / Frank-Walter Steinmeier
+- Since: 2017-03-19
+- Wikipedia: https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier
+
+
+
+## India (भारत)
+
+
+
+### Prime Minister
+- Name: Narendra Modi / नरेन्द्र मोदी
+- Since: 2014-05-26
+- Party: Bharatiya Janata Party
+- Wikipedia: https://en.wikipedia.org/wiki/Narendra_Modi
+
+
+
+
+### President
+- Name: Droupadi Murmu / द्रौपदी मुर्मू
+- Since: 2022-07-25
+- Wikipedia: https://en.wikipedia.org/wiki/Droupadi_Murmu
+
+
+
+## Italy (Italia)
+
+
+
+### Prime Minister
+- Name: Giorgia Meloni / Giorgia Meloni
+- Since: 2022-10-22
+- Party: Brothers of Italy
+- Wikipedia: https://en.wikipedia.org/wiki/Giorgia_Meloni
+
+
+
+
+### President
+- Name: Sergio Mattarella / Sergio Mattarella
+- Since: 2015-02-03
+- Wikipedia: https://en.wikipedia.org/wiki/Sergio_Mattarella
+
+
+
+## Japan (日本)
+
+
+
+### Prime Minister
+- Name: Sanae Takaichi / 高市早苗
+- Since: 2025-10-21
+- Party: Liberal Democratic Party
+- Wikipedia: https://en.wikipedia.org/wiki/Sanae_Takaichi
+
+
+
+
+### Emperor
+- Name: Naruhito / 徳仁
+- Since: 2019-05-01
+- Wikipedia: https://en.wikipedia.org/wiki/Naruhito
+
+
+
+## Mexico (México)
+
+
+
+### President
+- Name: Claudia Sheinbaum
+- Since: 2024-10-01
+- Party: Morena
+- Wikipedia: https://en.wikipedia.org/wiki/Claudia_Sheinbaum
+
+
+
+
+
+
+## Russia (Россия)
+
+
+
+### Prime Minister
+- Name: Mikhail Mishustin / Михаил Владимирович Мишустин
+- Since: 2020-01-16
+
+- Wikipedia: https://en.wikipedia.org/wiki/Mikhail_Mishustin
+
+
+
+
+### President
+- Name: Vladimir Putin / Владимир Владимирович Путин
+- Since: 2012-05-07
+- Wikipedia: https://en.wikipedia.org/wiki/Vladimir_Putin
+
+
+
+## Saudi Arabia (المملكة العربية السعودية)
+
+
+
+### Prime Minister (King)
+- Name: Mohammed bin Salman / محمد بن سلمان آل سعود
+- Since: 2022-09-27
+
+- Wikipedia: https://en.wikipedia.org/wiki/Mohammed_bin_Salman
+
+
+
+
+
+
+## South Africa
+
+
+
+### President
+- Name: Cyril Ramaphosa
+- Since: 2018-02-15
+- Party: African National Congress
+- Wikipedia: https://en.wikipedia.org/wiki/Cyril_Ramaphosa
+
+
+
+
+
+
+## South Korea (대한민국)
+
+
+
+### President
+- Name: Lee Jae Myung / 이재명
+- Since: 2025-06-04
+- Party: Democratic Party of Korea
+- Wikipedia: https://en.wikipedia.org/wiki/Lee_Jae_Myung
+
+
+
+
+
+
+## Turkey (Türkiye)
+
+
+
+### President
+- Name: Recep Tayyip Erdoğan / Recep Tayyip Erdoğan
+- Since: 2014-08-28
+- Party: Justice and Development Party
+- Wikipedia: https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+
+
+
+
+
+
+## United Kingdom
+
+
+
+### Prime Minister
+- Name: Keir Starmer
+- Since: 2024-07-05
+- Party: Labour Party
+- Wikipedia: https://en.wikipedia.org/wiki/Keir_Starmer
+
+
+
+
+### Monarch
+- Name: Charles III
+- Since: 2022-09-08
+- Wikipedia: https://en.wikipedia.org/wiki/Charles_III
+
+
+
+## United States
+
+
+
+### President
+- Name: Donald Trump
+- Since: 2025-01-20
+- Party: Republican Party
+- Wikipedia: https://en.wikipedia.org/wiki/Donald_Trump
+
+
+
+
+
+
+## European Union
+
+
+
+### President of the European Commission
+- Name: Ursula von der Leyen
+- Since: 2019-12-01
+- Party: Fidesz
+- Wikipedia: https://en.wikipedia.org/wiki/Ursula_von_der_Leyen
+
+
+
+
+### President of the European Council
+- Name: António Costa
+- Since: 2024-12-01
+- Wikipedia: https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa
+
+
+
+## African Union
+
+
+
+### Chairperson of the African Union Commission
+- Name: Mahamoud Ali Youssouf
+- Since: 2025-03-13
+
+- Wikipedia: https://en.wikipedia.org/wiki/Mahamoud_Ali_Youssouf
+
+
+
+
+### Chairperson of the African Union
+- Name: Évariste Ndayishimiye
+- Since: 2026-02-14
+- Wikipedia: https://en.wikipedia.org/wiki/%C3%89variste_Ndayishimiye
+
+
+

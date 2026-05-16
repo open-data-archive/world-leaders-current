@@ -1,0 +1,217 @@
+{
+  "snapshot_date": "2026-05-16",
+  "captured_at": "2026-05-16T04:47:16.463Z",
+  "countries_count": 30,
+  "leaders": {
+    "brunei": {
+      "head_of_government": "Hassanal Bolkiah",
+      "head_of_government_since": "1984-01-01",
+      "head_of_state": "Hassanal Bolkiah",
+      "head_of_state_since": "1984-01-01",
+      "is_same": true
+    },
+    "cambodia": {
+      "head_of_government": "Hun Manet",
+      "head_of_government_since": "2023-08-22",
+      "head_of_state": "Norodom Sihamoni",
+      "head_of_state_since": "2004-10-29",
+      "is_same": false
+    },
+    "indonesia": {
+      "head_of_government": "Prabowo Subianto",
+      "head_of_government_since": "2024-10-20",
+      "head_of_state": "Prabowo Subianto",
+      "head_of_state_since": "2024-10-20",
+      "is_same": true
+    },
+    "laos": {
+      "head_of_government": "Sonexay Siphandone",
+      "head_of_government_since": "2022-12-30",
+      "head_of_state": "Thongloun Sisoulith",
+      "head_of_state_since": "2021-03-22",
+      "is_same": false
+    },
+    "malaysia": {
+      "head_of_government": "Anwar Ibrahim",
+      "head_of_government_since": "2022-11-24",
+      "head_of_state": "Anwar Ibrahim",
+      "head_of_state_since": "2022-11-24",
+      "is_same": false
+    },
+    "myanmar": {
+      "head_of_government": null,
+      "head_of_government_since": null,
+      "head_of_state": "Min Aung Hlaing",
+      "head_of_state_since": "2026-04-10",
+      "is_same": false
+    },
+    "philippines": {
+      "head_of_government": "Bongbong Marcos",
+      "head_of_government_since": "2022-06-30",
+      "head_of_state": "Bongbong Marcos",
+      "head_of_state_since": "2022-06-30",
+      "is_same": true
+    },
+    "singapore": {
+      "head_of_government": "Lawrence Wong",
+      "head_of_government_since": "2024-05-15",
+      "head_of_state": "Tharman Shanmugaratnam",
+      "head_of_state_since": "2023-09-14",
+      "is_same": false
+    },
+    "thailand": {
+      "head_of_government": "Anutin Charnvirakul",
+      "head_of_government_since": "2025-09-07",
+      "head_of_state": "Vajiralongkorn",
+      "head_of_state_since": "2016-10-13",
+      "is_same": false
+    },
+    "vietnam": {
+      "head_of_government": "Lê Minh Hưng",
+      "head_of_government_since": "2026-04-07",
+      "head_of_state": "Tô Lâm",
+      "head_of_state_since": "2026-04-07",
+      "is_same": false
+    },
+    "argentina": {
+      "head_of_government": "Javier Milei",
+      "head_of_government_since": "2023-12-10",
+      "head_of_state": "Javier Milei",
+      "head_of_state_since": "2023-12-10",
+      "is_same": true
+    },
+    "australia": {
+      "head_of_government": "Anthony Albanese",
+      "head_of_government_since": "2022-05-23",
+      "head_of_state": "Charles III",
+      "head_of_state_since": "2022-09-08",
+      "is_same": false
+    },
+    "brazil": {
+      "head_of_government": "Luiz Inácio Lula da Silva",
+      "head_of_government_since": "2023-01-01",
+      "head_of_state": "Luiz Inácio Lula da Silva",
+      "head_of_state_since": "2023-01-01",
+      "is_same": true
+    },
+    "canada": {
+      "head_of_government": "Mark Carney",
+      "head_of_government_since": null,
+      "head_of_state": "Charles III",
+      "head_of_state_since": "2022-09-08",
+      "is_same": false
+    },
+    "china": {
+      "head_of_government": "Li Qiang",
+      "head_of_government_since": "2023-03-11",
+      "head_of_state": "Xi Jinping",
+      "head_of_state_since": "2013-03-14",
+      "is_same": false
+    },
+    "france": {
+      "head_of_government": "Sébastien Lecornu",
+      "head_of_government_since": "2025-09-09",
+      "head_of_state": "Emmanuel Macron",
+      "head_of_state_since": "2017-05-14",
+      "is_same": false
+    },
+    "germany": {
+      "head_of_government": "Friedrich Merz",
+      "head_of_government_since": "2025-05-06",
+      "head_of_state": "Frank-Walter Steinmeier",
+      "head_of_state_since": "2017-03-19",
+      "is_same": false
+    },
+    "india": {
+      "head_of_government": "Narendra Modi",
+      "head_of_government_since": "2014-05-26",
+      "head_of_state": "Droupadi Murmu",
+      "head_of_state_since": "2022-07-25",
+      "is_same": false
+    },
+    "italy": {
+      "head_of_government": "Giorgia Meloni",
+      "head_of_government_since": "2022-10-22",
+      "head_of_state": "Sergio Mattarella",
+      "head_of_state_since": "2015-02-03",
+      "is_same": false
+    },
+    "japan": {
+      "head_of_government": "Sanae Takaichi",
+      "head_of_government_since": "2025-10-21",
+      "head_of_state": "Naruhito",
+      "head_of_state_since": "2019-05-01",
+      "is_same": false
+    },
+    "mexico": {
+      "head_of_government": "Claudia Sheinbaum",
+      "head_of_government_since": "2024-10-01",
+      "head_of_state": "Claudia Sheinbaum",
+      "head_of_state_since": "2024-10-01",
+      "is_same": true
+    },
+    "russia": {
+      "head_of_government": "Mikhail Mishustin",
+      "head_of_government_since": "2020-01-16",
+      "head_of_state": "Vladimir Putin",
+      "head_of_state_since": "2012-05-07",
+      "is_same": false
+    },
+    "saudi_arabia": {
+      "head_of_government": "Mohammed bin Salman",
+      "head_of_government_since": "2022-09-27",
+      "head_of_state": "Mohammed bin Salman",
+      "head_of_state_since": "2022-09-27",
+      "is_same": true
+    },
+    "south_africa": {
+      "head_of_government": "Cyril Ramaphosa",
+      "head_of_government_since": "2018-02-15",
+      "head_of_state": "Cyril Ramaphosa",
+      "head_of_state_since": "2018-02-15",
+      "is_same": true
+    },
+    "south_korea": {
+      "head_of_government": "Lee Jae Myung",
+      "head_of_government_since": "2025-06-04",
+      "head_of_state": "Lee Jae Myung",
+      "head_of_state_since": "2025-06-04",
+      "is_same": true
+    },
+    "turkey": {
+      "head_of_government": "Recep Tayyip Erdoğan",
+      "head_of_government_since": "2014-08-28",
+      "head_of_state": "Recep Tayyip Erdoğan",
+      "head_of_state_since": "2014-08-28",
+      "is_same": true
+    },
+    "uk": {
+      "head_of_government": "Keir Starmer",
+      "head_of_government_since": "2024-07-05",
+      "head_of_state": "Charles III",
+      "head_of_state_since": "2022-09-08",
+      "is_same": false
+    },
+    "usa": {
+      "head_of_government": "Donald Trump",
+      "head_of_government_since": "2025-01-20",
+      "head_of_state": "Donald Trump",
+      "head_of_state_since": "2025-01-20",
+      "is_same": true
+    },
+    "european_union": {
+      "head_of_government": "Ursula von der Leyen",
+      "head_of_government_since": "2019-12-01",
+      "head_of_state": "António Costa",
+      "head_of_state_since": "2024-12-01",
+      "is_same": false
+    },
+    "african_union": {
+      "head_of_government": "Mahamoud Ali Youssouf",
+      "head_of_government_since": "2025-03-13",
+      "head_of_state": "Évariste Ndayishimiye",
+      "head_of_state_since": "2026-02-14",
+      "is_same": false
+    }
+  }
+}

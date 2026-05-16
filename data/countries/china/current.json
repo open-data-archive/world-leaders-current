@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "CN",
+    "name_en": "China",
+    "name_local": "中国"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Premier",
+      "title_local": "国务院总理",
+      "current_holder": {
+        "name_en": "Li Qiang",
+        "name_local": "李强",
+        "wikidata_id": "Q4414390",
+        "since": "2023-03-11",
+        "party": "Chinese Communist Party",
+        "party_local": "中国共产党",
+        "born": "1959-07-23",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Li_Qiang",
+        "wikipedia_local": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BC%BA_(1959%E5%B9%B4)"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Premier_of_China",
+      "office_wikipedia_local": "https://zh.wikipedia.org/wiki/中华人民共和国国务院总理"
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "国家主席",
+      "current_holder": {
+        "name_en": "Xi Jinping",
+        "name_local": "习近平",
+        "wikidata_id": "Q15031",
+        "since": "2013-03-14",
+        "party": "Chinese Communist Party",
+        "party_local": "中国共产党",
+        "born": "1953-06-15",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Xi_Jinping",
+        "wikipedia_local": "https://zh.wikipedia.org/wiki/%E4%B9%A0%E8%BF%91%E5%B9%B3"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_China",
+      "office_wikipedia_local": "https://zh.wikipedia.org/wiki/中华人民共和国主席"
+    }
+  },
+  "last_change": null
+}

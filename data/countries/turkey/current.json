@@ -1,0 +1,48 @@
+{
+  "country": {
+    "iso_code": "TR",
+    "name_en": "Turkey",
+    "name_local": "Türkiye"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "President",
+      "title_local": "Cumhurbaşkanı",
+      "current_holder": {
+        "name_en": "Recep Tayyip Erdoğan",
+        "name_local": "Recep Tayyip Erdoğan",
+        "wikidata_id": "Q39259",
+        "since": "2014-08-28",
+        "party": "Justice and Development Party",
+        "party_local": "Adalet ve Kalkınma Partisi",
+        "born": "1954-02-26",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+        "wikipedia_local": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Turkey",
+      "office_wikipedia_local": "https://tr.wikipedia.org/wiki/Türkiye_cumhurbaşkanı",
+      "is_same_as_head_of_state": true
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "Cumhurbaşkanı",
+      "current_holder": {
+        "name_en": "Recep Tayyip Erdoğan",
+        "name_local": "Recep Tayyip Erdoğan",
+        "wikidata_id": "Q39259",
+        "since": "2014-08-28",
+        "party": "Justice and Development Party",
+        "party_local": "Adalet ve Kalkınma Partisi",
+        "born": "1954-02-26",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+        "wikipedia_local": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Turkey",
+      "office_wikipedia_local": "https://tr.wikipedia.org/wiki/Türkiye_cumhurbaşkanı",
+      "is_same_as_head_of_state": true
+    }
+  },
+  "last_change": null
+}

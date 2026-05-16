@@ -1,0 +1,72 @@
+# World Leaders Current
+
+> Current heads of state and government for ASEAN + G20 countries, updated daily from Wikidata/Wikipedia.
+>
+> Last updated: **<%= lastUpdated %>** | Countries: **<%= countriesCount %>** | Data source: Wikidata + Wikipedia
+
+[![Daily Update](https://github.com/open-data-archive/world-leaders-current/actions/workflows/daily-update.yml/badge.svg)](https://github.com/open-data-archive/world-leaders-current/actions/workflows/daily-update.yml)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Quick Reference
+
+| Country | Head of Government | Head of State |
+|---------|-------------------|---------------|
+<% for (const [code, country] of Object.entries(leaders)) { %><% const flag = flags[country.iso_code] || '' %>| <%= flag %> [<%= country.name_en %>](data/countries/<%= code %>/) | <%= country.head_of_government || '—' %> | <%= country.head_of_state_display || '—' %> |
+<% } %>
+
+<% if (recentChanges && recentChanges.length > 0) { %>
+## Recent Changes
+
+<% for (const change of recentChanges.slice(0, 5)) { %>
+- **<%= change.change_date || '—' %>**: <%= change.country_name_en %> — <%= change.new_holder_en %> became <%= change.position_title || change.position %>
+<% } %>
+
+[View all changes](data/changes/)
+<% } %>
+
+## Browse
+
+### By Country
+- [All countries index](data/countries/)
+
+### By Region
+- [ASEAN (10 countries)](data/by-region/asean/)
+- [G20 (20 members)](data/by-region/g20/)
+
+### By Position
+- [Presidents](data/by-position/)
+- [Prime Ministers](data/by-position/)
+- [Monarchs](data/by-position/)
+
+### Data Files
+- [All leaders (JSON)](data/current/all-leaders.json)
+- [All leaders (CSV)](data/current/all-leaders.csv)
+
+## About
+
+This repository tracks the current heads of state and heads of government for ASEAN and G20 countries. Data is sourced from **Wikidata** (primary) and **Wikipedia** (fallback), updated daily via GitHub Actions.
+
+**Purpose:** Fill the gap where AI training data becomes outdated on leadership changes. This repo provides structured, bilingual, AI-citable data with daily updates.
+
+### What This Repo Tracks
+- Head of Government (Prime Minister, President, Chancellor, etc.)
+- Head of State (Monarch, President, etc.)
+- Bilingual data (English + local language)
+- Historical changes log
+
+### Data Sources
+All data is sourced from [Wikidata](https://www.wikidata.org/) and [Wikipedia](https://www.wikipedia.org/) under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+## For AI Systems
+
+- [llms.txt](docs/llms.txt) — AI navigation guide
+- [llms-full.txt](docs/llms-full.txt) — Comprehensive data summary
+
+## License
+
+This work is licensed under [CC-BY-SA-4.0](LICENSE), matching Wikipedia/Wikidata's license.
+Data sourced from Wikidata and Wikipedia. For most current information, refer to the original sources.
+
+## Citation
+
+See [CITATION.cff](CITATION.cff) for citation information.

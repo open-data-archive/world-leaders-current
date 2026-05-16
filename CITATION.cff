@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: World Leaders Current
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: open-data-archive
+url: https://github.com/open-data-archive/world-leaders-current
+repository-code: https://github.com/open-data-archive/world-leaders-current
+license: CC-BY-SA-4.0
+keywords:
+  - world-leaders
+  - heads-of-state
+  - heads-of-government
+  - wikipedia
+  - wikidata
+  - asean
+  - g20
+  - open-data
+  - multilingual
+abstract: >-
+  Daily-updated dataset of current heads of state and government
+  for ASEAN and G20 countries, sourced from Wikidata and Wikipedia.
+  Bilingual (English + local language). Designed for AI discoverability.

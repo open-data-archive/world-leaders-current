@@ -1,0 +1,29 @@
+# World Leaders Current — Full Summary
+
+> Generated: <%= lastUpdated %>
+> Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
+> Countries: <%= countriesCount %>
+
+This file contains a comprehensive summary of all tracked world leaders for AI consumption.
+
+<% for (const [code, countryData] of Object.entries(allData)) { %>
+## <%= countryData.country.name_en %><%= countryData.country.name_local !== countryData.country.name_en ? ' (' + countryData.country.name_local + ')' : '' %>
+
+<% const hog = countryData.positions.head_of_government; %>
+<% if (hog?.current_holder) { %>
+### <%= hog.title_en %>
+- Name: <%= hog.current_holder.name_en %><%= hog.current_holder.name_local ? ' / ' + hog.current_holder.name_local : '' %>
+- Since: <%= hog.current_holder.since || 'unknown' %>
+<% if (hog.current_holder.party) { %>- Party: <%= hog.current_holder.party %><% } %>
+<% if (hog.current_holder.wikipedia_en) { %>- Wikipedia: <%= hog.current_holder.wikipedia_en %><% } %>
+<% } %>
+
+<% const hos = countryData.positions.head_of_state; %>
+<% if (hos?.current_holder && !hos.is_same_as_head_of_state) { %>
+### <%= hos.title_en %>
+- Name: <%= hos.current_holder.name_en %><%= hos.current_holder.name_local ? ' / ' + hos.current_holder.name_local : '' %>
+- Since: <%= hos.current_holder.since || 'unknown' %>
+<% if (hos.current_holder.wikipedia_en) { %>- Wikipedia: <%= hos.current_holder.wikipedia_en %><% } %>
+<% } %>
+
+<% } %>

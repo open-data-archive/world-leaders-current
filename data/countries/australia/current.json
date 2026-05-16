@@ -1,0 +1,47 @@
+{
+  "country": {
+    "iso_code": "AU",
+    "name_en": "Australia",
+    "name_local": "Australia"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "Prime Minister",
+      "current_holder": {
+        "name_en": "Anthony Albanese",
+        "name_local": null,
+        "wikidata_id": "Q335697",
+        "since": "2022-05-23",
+        "party": "Australian Labor Party",
+        "party_local": null,
+        "born": "1963-03-02",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+        "wikipedia_local": null
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Australia",
+      "office_wikipedia_local": null
+    },
+    "head_of_state": {
+      "title_en": "Monarch",
+      "title_local": "Monarch",
+      "current_holder": {
+        "name_en": "Charles III",
+        "name_local": null,
+        "wikidata_id": "Q43274",
+        "since": "2022-09-08",
+        "party": null,
+        "party_local": null,
+        "born": "1948-11-14",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Charles_III",
+        "wikipedia_local": null
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Monarchy_of_Australia",
+      "office_wikipedia_local": null,
+      "is_monarchy": true
+    }
+  },
+  "last_change": null
+}

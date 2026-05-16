@@ -1,0 +1,16 @@
+# Current <%= positionTitle %>s (Tracked Countries)
+
+> All <%= positionTitle.toLowerCase() %>s across ASEAN + G20
+>
+> Last updated: <%= lastUpdated %>
+
+## All <%= positionTitle %>s
+
+| Country | Name | Since |
+|---------|------|-------|
+<% for (const leader of leaders) { %><% const flag = flags[leader.iso_code] || '' %>| <%= flag %> [<%= leader.country_name %>](../countries/<%= leader.country_code %>/) | <%= leader.name %> | <%= leader.since || '—' %> |
+<% } %>
+
+## Data
+
+- [<%= filename %>](./<%= filename %>)

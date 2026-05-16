@@ -1,0 +1,773 @@
+{
+  "brunei": {
+    "iso_code": "BN",
+    "name_en": "Brunei",
+    "name_local": "Brunei Darussalam",
+    "local_lang": "ms",
+    "wikidata_id": "Q921",
+    "local_wiki": "https://ms.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Sultan and Prime Minister",
+        "title_local": "Sultan dan Perdana Menteri",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Brunei",
+        "wiki_article_local": "Sultan_Brunei",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "Sultan",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "absolute_monarchy"
+  },
+  "cambodia": {
+    "iso_code": "KH",
+    "name_en": "Cambodia",
+    "name_local": "\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "local_lang": "km",
+    "wikidata_id": "Q424",
+    "local_wiki": "https://km.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u1793\u17b6\u1799\u1780\u179a\u178a\u17d2\u178b\u1798\u1793\u17d2\u178f\u17d2\u179a\u17b8",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Cambodia",
+        "wiki_article_local": "\u1793\u17b6\u1799\u1780\u179a\u178a\u17d2\u178b\u1798\u1793\u17d2\u178f\u17d2\u179a\u17b8\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6"
+      },
+      "head_of_state": {
+        "title_en": "King",
+        "title_local": "\u1796\u17d2\u179a\u17c7\u1798\u17a0\u17b6\u1780\u17d2\u179f\u178f\u17d2\u179a",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Monarchy_of_Cambodia",
+        "wiki_article_local": "\u1796\u17d2\u179a\u17c7\u1798\u17a0\u17b6\u1780\u17d2\u179f\u178f\u17d2\u179a\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "indonesia": {
+    "iso_code": "ID",
+    "name_en": "Indonesia",
+    "name_local": "Indonesia",
+    "local_lang": "id",
+    "wikidata_id": "Q252",
+    "local_wiki": "https://id.wikipedia.org/w/api.php",
+    "region": ["asean", "g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "Presiden",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_Indonesia",
+        "wiki_article_local": "Presiden_Indonesia",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "laos": {
+    "iso_code": "LA",
+    "name_en": "Laos",
+    "name_local": "\u0e25\u0eb2\u0ea7",
+    "local_lang": "lo",
+    "wikidata_id": "Q819",
+    "local_wiki": "https://lo.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u0e99\u0eb2\u0e8d\u0ebb\u0e81\u0ea5\u0eb1\u0e94\u0e96\u0eb0\u0ea1\u0ebb\u0e99\u0e95\u0ea3\u0eb5",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Laos",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "\u0e9b\u0eb0\u0e97\u0eb2\u0e99",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Laos",
+        "wiki_article_local": null
+      }
+    },
+    "government_system": "single_party_socialist_republic"
+  },
+  "malaysia": {
+    "iso_code": "MY",
+    "name_en": "Malaysia",
+    "name_local": "Malaysia",
+    "local_lang": "ms",
+    "wikidata_id": "Q833",
+    "local_wiki": "https://ms.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Perdana Menteri",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Malaysia",
+        "wiki_article_local": "Perdana_Menteri_Malaysia"
+      },
+      "head_of_state": {
+        "title_en": "Yang di-Pertuan Agong",
+        "title_local": "Yang di-Pertuan Agong",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Yang_di-Pertuan_Agong",
+        "wiki_article_local": "Yang_di-Pertuan_Agong",
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "myanmar": {
+    "iso_code": "MM",
+    "name_en": "Myanmar",
+    "name_local": "\u1019\u103c\u1014\u103a\u1019\u102c",
+    "local_lang": "my",
+    "wikidata_id": "Q836",
+    "local_wiki": "https://my.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u101d\u1014\u103a\u1000\u103c\u102e\u1038\u1005\u102c\u101b\u1004\u103a",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Myanmar",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u101e\u1019\u1039\u1019\u1010",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Myanmar",
+        "wiki_article_local": null
+      }
+    },
+    "government_system": "military_government"
+  },
+  "philippines": {
+    "iso_code": "PH",
+    "name_en": "Philippines",
+    "name_local": "Pilipinas",
+    "local_lang": "tl",
+    "wikidata_id": "Q928",
+    "local_wiki": "https://tl.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "Pangulo",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_the_Philippines",
+        "wiki_article_local": "Pangulo_ng_Pilipinas",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "singapore": {
+    "iso_code": "SG",
+    "name_en": "Singapore",
+    "name_local": "Singapore",
+    "local_lang": "en",
+    "wikidata_id": "Q334",
+    "local_wiki": null,
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Prime Minister",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Singapore",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "President",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Singapore",
+        "wiki_article_local": null
+      }
+    },
+    "government_system": "parliamentary_republic"
+  },
+  "thailand": {
+    "iso_code": "TH",
+    "name_en": "Thailand",
+    "name_local": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "local_lang": "th",
+    "wikidata_id": "Q869",
+    "local_wiki": "https://th.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u0e19\u0e32\u0e22\u0e01\u0e23\u0e31\u0e10\u0e21\u0e19\u0e15\u0e23\u0e35",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Thailand",
+        "wiki_article_local": "\u0e19\u0e32\u0e22\u0e01\u0e23\u0e31\u0e10\u0e21\u0e19\u0e15\u0e23\u0e35\u0e44\u0e17\u0e22"
+      },
+      "head_of_state": {
+        "title_en": "King",
+        "title_local": "\u0e1e\u0e23\u0e30\u0e21\u0e2b\u0e32\u0e01\u0e29\u0e31\u0e15\u0e23\u0e34\u0e22\u0e4c",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Monarchy_of_Thailand",
+        "wiki_article_local": "\u0e1e\u0e23\u0e30\u0e21\u0e2b\u0e32\u0e01\u0e29\u0e31\u0e15\u0e23\u0e34\u0e22\u0e4c\u0e44\u0e17\u0e22",
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "vietnam": {
+    "iso_code": "VN",
+    "name_en": "Vietnam",
+    "name_local": "Vi\u1ec7t Nam",
+    "local_lang": "vi",
+    "wikidata_id": "Q881",
+    "local_wiki": "https://vi.wikipedia.org/w/api.php",
+    "region": ["asean"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Th\u1ee7 t\u01b0\u1edbng",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Vietnam",
+        "wiki_article_local": "Th\u1ee7_t\u01b0\u1edbng_Vi\u1ec7t_Nam"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "Ch\u1ee7 t\u1ecbch n\u01b0\u1edbc",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Vietnam",
+        "wiki_article_local": "Ch\u1ee7_t\u1ecbch_n\u01b0\u1edbc_Vi\u1ec7t_Nam"
+      }
+    },
+    "government_system": "single_party_socialist_republic"
+  },
+  "argentina": {
+    "iso_code": "AR",
+    "name_en": "Argentina",
+    "name_local": "Argentina",
+    "local_lang": "es",
+    "wikidata_id": "Q414",
+    "local_wiki": "https://es.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "Presidente",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_Argentina",
+        "wiki_article_local": "Presidente_de_la_Naci\u00f3n_Argentina",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "australia": {
+    "iso_code": "AU",
+    "name_en": "Australia",
+    "name_local": "Australia",
+    "local_lang": "en",
+    "wikidata_id": "Q408",
+    "local_wiki": null,
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Prime Minister",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Australia",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "Monarch",
+        "title_local": "Monarch",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Monarchy_of_Australia",
+        "wiki_article_local": null,
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "brazil": {
+    "iso_code": "BR",
+    "name_en": "Brazil",
+    "name_local": "Brasil",
+    "local_lang": "pt",
+    "wikidata_id": "Q155",
+    "local_wiki": "https://pt.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "Presidente",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_Brazil",
+        "wiki_article_local": "Presidente_do_Brasil",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "canada": {
+    "iso_code": "CA",
+    "name_en": "Canada",
+    "name_local": "Canada",
+    "local_lang": "en",
+    "wikidata_id": "Q16",
+    "local_wiki": null,
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Prime Minister",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Canada",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "Monarch",
+        "title_local": "Monarch",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Monarchy_of_Canada",
+        "wiki_article_local": null,
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "china": {
+    "iso_code": "CN",
+    "name_en": "China",
+    "name_local": "\u4e2d\u56fd",
+    "local_lang": "zh",
+    "wikidata_id": "Q148",
+    "local_wiki": "https://zh.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Premier",
+        "title_local": "\u56fd\u52a1\u9662\u603b\u7406",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Premier_of_China",
+        "wiki_article_local": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u56fd\u52a1\u9662\u603b\u7406"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "\u56fd\u5bb6\u4e3b\u5e2d",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_China",
+        "wiki_article_local": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u4e3b\u5e2d"
+      }
+    },
+    "government_system": "single_party_socialist_republic"
+  },
+  "france": {
+    "iso_code": "FR",
+    "name_en": "France",
+    "name_local": "France",
+    "local_lang": "fr",
+    "wikidata_id": "Q142",
+    "local_wiki": "https://fr.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Premier ministre",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_France",
+        "wiki_article_local": "Premier_ministre_fran\u00e7ais"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "Pr\u00e9sident de la R\u00e9publique",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_France",
+        "wiki_article_local": "Pr\u00e9sident_de_la_R\u00e9publique_fran\u00e7aise"
+      }
+    },
+    "government_system": "semi_presidential_republic"
+  },
+  "germany": {
+    "iso_code": "DE",
+    "name_en": "Germany",
+    "name_local": "Deutschland",
+    "local_lang": "de",
+    "wikidata_id": "Q183",
+    "local_wiki": "https://de.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Chancellor",
+        "title_local": "Bundeskanzler",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Chancellor_of_Germany",
+        "wiki_article_local": "Bundeskanzler_(Deutschland)"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "Bundespr\u00e4sident",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Germany",
+        "wiki_article_local": "Bundespr\u00e4sident_(Deutschland)"
+      }
+    },
+    "government_system": "parliamentary_republic"
+  },
+  "india": {
+    "iso_code": "IN",
+    "name_en": "India",
+    "name_local": "\u092d\u093e\u0930\u0924",
+    "local_lang": "hi",
+    "wikidata_id": "Q668",
+    "local_wiki": "https://hi.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_India",
+        "wiki_article_local": "\u092d\u093e\u0930\u0924_\u0915\u0947_\u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_India",
+        "wiki_article_local": "\u092d\u093e\u0930\u0924_\u0915\u0947_\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f"
+      }
+    },
+    "government_system": "parliamentary_republic"
+  },
+  "italy": {
+    "iso_code": "IT",
+    "name_en": "Italy",
+    "name_local": "Italia",
+    "local_lang": "it",
+    "wikidata_id": "Q38",
+    "local_wiki": "https://it.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Presidente del Consiglio dei ministri",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Italy",
+        "wiki_article_local": "Presidente_del_Consiglio_dei_ministri_della_Repubblica_Italiana"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "Presidente della Repubblica",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Italy",
+        "wiki_article_local": "Presidente_della_Repubblica_Italiana"
+      }
+    },
+    "government_system": "parliamentary_republic"
+  },
+  "japan": {
+    "iso_code": "JP",
+    "name_en": "Japan",
+    "name_local": "\u65e5\u672c",
+    "local_lang": "ja",
+    "wikidata_id": "Q17",
+    "local_wiki": "https://ja.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u5185\u95a3\u7dcf\u7406\u5927\u81e3",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Japan",
+        "wiki_article_local": "\u5185\u95a3\u7dcf\u7406\u5927\u81e3"
+      },
+      "head_of_state": {
+        "title_en": "Emperor",
+        "title_local": "\u5929\u7687",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Emperor_of_Japan",
+        "wiki_article_local": "\u5929\u7687",
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "mexico": {
+    "iso_code": "MX",
+    "name_en": "Mexico",
+    "name_local": "M\u00e9xico",
+    "local_lang": "es",
+    "wikidata_id": "Q96",
+    "local_wiki": "https://es.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "Presidente",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_Mexico",
+        "wiki_article_local": "Presidente_de_M\u00e9xico",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "russia": {
+    "iso_code": "RU",
+    "name_en": "Russia",
+    "name_local": "\u0420\u043e\u0441\u0441\u0438\u044f",
+    "local_lang": "ru",
+    "wikidata_id": "Q159",
+    "local_wiki": "https://ru.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "\u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u041f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Russia",
+        "wiki_article_local": "\u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c_\u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430_\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439_\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438"
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "title_local": "\u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442",
+        "wikidata_property": "P35",
+        "wiki_article_en": "President_of_Russia",
+        "wiki_article_local": "\u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442_\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439_\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438"
+      }
+    },
+    "government_system": "semi_presidential_republic"
+  },
+  "saudi_arabia": {
+    "iso_code": "SA",
+    "name_en": "Saudi Arabia",
+    "name_local": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "local_lang": "ar",
+    "wikidata_id": "Q851",
+    "local_wiki": "https://ar.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister (King)",
+        "title_local": "\u0631\u0626\u064a\u0633 \u0645\u062c\u0644\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_Saudi_Arabia",
+        "wiki_article_local": null,
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "King",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "absolute_monarchy"
+  },
+  "south_africa": {
+    "iso_code": "ZA",
+    "name_en": "South Africa",
+    "name_local": "South Africa",
+    "local_lang": "en",
+    "wikidata_id": "Q258",
+    "local_wiki": null,
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "President",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_South_Africa",
+        "wiki_article_local": null,
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "south_korea": {
+    "iso_code": "KR",
+    "name_en": "South Korea",
+    "name_local": "\ub300\ud55c\ubbfc\uad6d",
+    "local_lang": "ko",
+    "wikidata_id": "Q884",
+    "local_wiki": "https://ko.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "\ub300\ud1b5\ub839",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_South_Korea",
+        "wiki_article_local": "\ub300\ud55c\ubbfc\uad6d\uc758_\ub300\ud1b5\ub839",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "turkey": {
+    "iso_code": "TR",
+    "name_en": "Turkey",
+    "name_local": "T\u00fcrkiye",
+    "local_lang": "tr",
+    "wikidata_id": "Q43",
+    "local_wiki": "https://tr.wikipedia.org/w/api.php",
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "Cumhurba\u015fkan\u0131",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_Turkey",
+        "wiki_article_local": "T\u00fcrkiye_cumhurba\u015fkan\u0131",
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "uk": {
+    "iso_code": "GB",
+    "name_en": "United Kingdom",
+    "name_local": "United Kingdom",
+    "local_lang": "en",
+    "wikidata_id": "Q145",
+    "local_wiki": null,
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "Prime Minister",
+        "title_local": "Prime Minister",
+        "wikidata_property": "P6",
+        "wiki_article_en": "Prime_Minister_of_the_United_Kingdom",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "Monarch",
+        "title_local": "Monarch",
+        "wikidata_property": "P35",
+        "wiki_article_en": "Monarchy_of_the_United_Kingdom",
+        "wiki_article_local": null,
+        "is_monarchy": true
+      }
+    },
+    "government_system": "parliamentary_constitutional_monarchy"
+  },
+  "usa": {
+    "iso_code": "US",
+    "name_en": "United States",
+    "name_local": "United States",
+    "local_lang": "en",
+    "wikidata_id": "Q30",
+    "local_wiki": null,
+    "region": ["g20"],
+    "positions": {
+      "head_of_government": {
+        "title_en": "President",
+        "title_local": "President",
+        "wikidata_property": "P6",
+        "wiki_article_en": "President_of_the_United_States",
+        "wiki_article_local": null,
+        "is_same_as_head_of_state": true
+      },
+      "head_of_state": {
+        "title_en": "President",
+        "_reference": "head_of_government"
+      }
+    },
+    "government_system": "presidential_republic"
+  },
+  "european_union": {
+    "iso_code": "EU",
+    "name_en": "European Union",
+    "name_local": "European Union",
+    "local_lang": "en",
+    "wikidata_id": "Q458",
+    "local_wiki": null,
+    "region": ["g20"],
+    "is_special_entity": true,
+    "positions": {
+      "head_of_government": {
+        "title_en": "President of the European Commission",
+        "title_local": "President of the European Commission",
+        "wikidata_property": "P6",
+        "person_qid_override": "Q57641",
+        "wiki_article_en": "President_of_the_European_Commission",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "President of the European Council",
+        "title_local": "President of the European Council",
+        "wikidata_property": "P35",
+        "person_qid_override": "Q2347236",
+        "wiki_article_en": "President_of_the_European_Council",
+        "wiki_article_local": null
+      }
+    },
+    "government_system": "supranational_union"
+  },
+  "african_union": {
+    "iso_code": "AU_AF",
+    "name_en": "African Union",
+    "name_local": "African Union",
+    "local_lang": "en",
+    "wikidata_id": "Q7159",
+    "local_wiki": null,
+    "region": ["g20"],
+    "is_special_entity": true,
+    "positions": {
+      "head_of_government": {
+        "title_en": "Chairperson of the African Union Commission",
+        "title_local": "Chairperson of the African Union Commission",
+        "wikidata_property": "P6",
+        "person_qid_override": "Q3327822",
+        "wiki_article_en": "Chairperson_of_the_African_Union_Commission",
+        "wiki_article_local": null
+      },
+      "head_of_state": {
+        "title_en": "Chairperson of the African Union",
+        "title_local": "Chairperson of the African Union",
+        "wikidata_property": "P35",
+        "person_qid_override": "Q57557",
+        "wiki_article_en": "Chairperson_of_the_African_Union",
+        "wiki_article_local": null
+      }
+    },
+    "government_system": "intergovernmental_union"
+  }
+}

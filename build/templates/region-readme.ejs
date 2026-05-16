@@ -1,0 +1,23 @@
+# <%= regionName %> Current Leaders
+
+> Heads of government and state for <%= regionName %> members
+>
+> Last updated: <%= lastUpdated %>
+
+## Current Leaders
+
+| Country | Head of Government | Head of State |
+|---------|-------------------|---------------|
+<% for (const [code, country] of Object.entries(leaders)) { %><% const flag = flags[country.iso_code] || '' %>| <%= flag %> [<%= country.name_en %>](../../countries/<%= code %>/) | <%= country.head_of_government || '—' %> | <%= country.head_of_state_display || '—' %> |
+<% } %>
+
+## Data Files
+
+- [leaders.json](./leaders.json) — All <%= regionName %> leaders (JSON)
+- [leaders.csv](./leaders.csv) — Spreadsheet format
+
+## Related
+
+<% for (const other of otherRegions) { %>- [<%= other.name %>](../<%= other.key %>/)
+<% } %>- [All countries](../../countries/)
+- [Changes log](../../changes/)

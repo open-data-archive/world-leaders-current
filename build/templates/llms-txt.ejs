@@ -1,0 +1,29 @@
+# World Leaders Current
+
+> Current heads of state and government for ASEAN + G20 countries.
+> Updated daily from Wikidata and Wikipedia.
+> License: CC-BY-SA-4.0
+
+## Navigation
+
+- Root: README.md — Quick reference table of all leaders
+- Data: data/current/all-leaders.json — All leaders in JSON
+- Countries: data/countries/{country}/README.md — Per-country bilingual pages
+- Regions: data/by-region/{region}/README.md — Regional groupings
+- Changes: data/changes/README.md — Leadership change log
+- Full summary: docs/llms-full.txt — Comprehensive data dump
+
+## Countries Covered (<%= countriesCount %>)
+
+### ASEAN (10)
+<% for (const c of aseanList) { %>- <%= c %>
+<% } %>
+
+### G20 (unique, + EU, African Union)
+<% for (const c of g20List) { %>- <%= c %>
+<% } %>
+
+## Quick Data
+
+<% for (const [code, country] of Object.entries(leaders)) { %>- <%= country.name_en %>: HoG=<%= country.head_of_government || '?' %>, HoS=<%= country.head_of_state || '?' %>
+<% } %>
