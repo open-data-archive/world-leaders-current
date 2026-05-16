@@ -6,7 +6,7 @@
   "scripts": {
     "bootstrap": "node bootstrap.js",
     "daily": "node main.js",
-    "serve": "npx serve ../docs",
+    "serve": "node generate-site.js --local && npx serve ../docs",
     "test": "node test.js"
   },
   "dependencies": {

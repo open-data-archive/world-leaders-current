@@ -17,7 +17,8 @@ const TEMPLATES = join(ROOT, 'build', 'templates', 'html');
 const DOCS = join(ROOT, 'docs');
 const AI_CONTENT = join(ROOT, 'build', 'ai-content', 'countries');
 const BASE_URL = 'https://open-data-archive.github.io/world-leaders-current';
-const BASE_PATH = process.env.BASE_PATH || '/world-leaders-current/';
+// Use --local flag to serve at root, otherwise use GitHub Pages prefix
+const BASE_PATH = process.argv.includes('--local') ? '/' : '/world-leaders-current/';
 
 function isoToFlag(iso) {
   if (!iso || iso.length < 2) return '';
