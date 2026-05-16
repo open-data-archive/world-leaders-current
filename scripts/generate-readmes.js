@@ -314,8 +314,10 @@ function buildLeadersSummary(allCountryData, countriesConfig) {
       iso_code: config.iso_code,
       name_en: config.name_en,
       head_of_government: hog?.name_en || null,
+      hog_title: data.positions?.head_of_government?.title_en || null,
       hog_since: hog?.since || null,
       head_of_state: hos?.name_en || (isSame ? hog?.name_en : null),
+      hos_title: data.positions?.head_of_state?.title_en || (isSame ? data.positions?.head_of_government?.title_en : null),
       hos_since: hos?.since || (isSame ? hog?.since : null),
       head_of_state_display: isSame
         ? `(Same — ${data.positions.head_of_government.title_en})`
@@ -340,13 +342,15 @@ function formatSystem(system) {
 }
 
 function leadersToCsv(leaders) {
-  const rows = [['Country', 'ISO', 'Head of Government', 'HoG Since', 'Head of State', 'HoS Since']];
+  const rows = [['Country', 'ISO', 'HoG Title', 'Head of Government', 'HoG Since', 'HoS Title', 'Head of State', 'HoS Since']];
   for (const [code, l] of Object.entries(leaders)) {
     rows.push([
       l.name_en || code,
       l.iso_code || '',
+      l.hog_title || '',
       l.head_of_government || '',
       l.hog_since || '',
+      l.hos_title || '',
       l.head_of_state || l.head_of_state_display || '',
       l.hos_since || ''
     ]);
