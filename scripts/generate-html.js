@@ -14,7 +14,7 @@ import ejs from 'ejs';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const TEMPLATES = join(ROOT, 'build', 'templates', 'html');
-const DOCS = join(ROOT, 'docs');
+const DOCS = join(ROOT, 'html');
 const AI_CONTENT = join(ROOT, 'build', 'ai-content', 'countries');
 const BASE_URL = 'https://open-data-archive.github.io/world-leaders-current';
 // Use --local flag to serve at root, otherwise use GitHub Pages prefix
