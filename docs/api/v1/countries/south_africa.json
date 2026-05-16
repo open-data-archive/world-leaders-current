@@ -1,0 +1,48 @@
+{
+  "country": {
+    "iso_code": "ZA",
+    "name_en": "South Africa",
+    "name_local": "South Africa"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "President",
+      "title_local": "President",
+      "current_holder": {
+        "name_en": "Cyril Ramaphosa",
+        "name_local": null,
+        "wikidata_id": "Q1148669",
+        "since": "2018-02-15",
+        "party": "African National Congress",
+        "party_local": null,
+        "born": "1952-11-17",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+        "wikipedia_local": null
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_South_Africa",
+      "office_wikipedia_local": null,
+      "is_same_as_head_of_state": true
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "President",
+      "current_holder": {
+        "name_en": "Cyril Ramaphosa",
+        "name_local": null,
+        "wikidata_id": "Q1148669",
+        "since": "2018-02-15",
+        "party": "African National Congress",
+        "party_local": null,
+        "born": "1952-11-17",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+        "wikipedia_local": null
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_South_Africa",
+      "office_wikipedia_local": null,
+      "is_same_as_head_of_state": true
+    }
+  },
+  "last_change": null
+}

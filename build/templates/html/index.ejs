@@ -1,0 +1,28 @@
+<h2>Current World Leaders</h2>
+<p class="meta"><%= countriesCount %> countries tracked | Snapshot: <%= snapshotDate %></p>
+
+<div class="api-note">
+  <strong>Static API:</strong> <code><a href="/world-leaders-current/api/v1/all.json">/api/v1/all.json</a></code> — all leaders in one JSON file. Per-country: <code>/api/v1/countries/{code}.json</code>
+</div>
+
+<table>
+  <thead>
+    <tr><th></th><th>Country</th><th>Head of Government</th><th>Head of State</th></tr>
+  </thead>
+  <tbody>
+<% for (const [code, l] of Object.entries(leaders)) { %>
+    <tr>
+      <td class="flag"><%= flags[l.iso_code] || '' %></td>
+      <td><a href="/world-leaders-current/countries/<%= code %>/"><%= l.name_en %></a></td>
+      <td><%= l.head_of_government || '—' %><% if (l.hog_title) { %> <small>(<%= l.hog_title %>)</small><% } %></td>
+      <td><%= l.head_of_state_display || l.head_of_state || '—' %><% if (l.hos_title && !l.head_of_state_display) { %> <small>(<%= l.hos_title %>)</small><% } %></td>
+    </tr>
+<% } %>
+  </tbody>
+</table>
+
+<h3>Browse by Region</h3>
+<ul>
+  <li><a href="/world-leaders-current/regions/asean/">ASEAN (10 countries)</a></li>
+  <li><a href="/world-leaders-current/regions/g20/">G20 (20 members)</a></li>
+</ul>

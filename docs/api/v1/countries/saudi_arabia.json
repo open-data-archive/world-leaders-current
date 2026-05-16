@@ -1,0 +1,48 @@
+{
+  "country": {
+    "iso_code": "SA",
+    "name_en": "Saudi Arabia",
+    "name_local": "المملكة العربية السعودية"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister (King)",
+      "title_local": "رئيس مجلس الوزراء",
+      "current_holder": {
+        "name_en": "Mohammed bin Salman",
+        "name_local": "محمد بن سلمان آل سعود",
+        "wikidata_id": "Q6892571",
+        "since": "2022-09-27",
+        "party": null,
+        "party_local": null,
+        "born": "1985-08-31",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman",
+        "wikipedia_local": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Saudi_Arabia",
+      "office_wikipedia_local": null,
+      "is_same_as_head_of_state": true
+    },
+    "head_of_state": {
+      "title_en": "King",
+      "title_local": "رئيس مجلس الوزراء",
+      "current_holder": {
+        "name_en": "Mohammed bin Salman",
+        "name_local": "محمد بن سلمان آل سعود",
+        "wikidata_id": "Q6892571",
+        "since": "2022-09-27",
+        "party": null,
+        "party_local": null,
+        "born": "1985-08-31",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman",
+        "wikipedia_local": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Saudi_Arabia",
+      "office_wikipedia_local": null,
+      "is_same_as_head_of_state": true
+    }
+  },
+  "last_change": null
+}

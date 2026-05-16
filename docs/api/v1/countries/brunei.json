@@ -1,0 +1,48 @@
+{
+  "country": {
+    "iso_code": "BN",
+    "name_en": "Brunei",
+    "name_local": "Brunei Darussalam"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Sultan and Prime Minister",
+      "title_local": "Sultan dan Perdana Menteri",
+      "current_holder": {
+        "name_en": "Hassanal Bolkiah",
+        "name_local": "Sultan Hassanal Bolkiah",
+        "wikidata_id": "Q57327",
+        "since": "1984-01-01",
+        "party": null,
+        "party_local": null,
+        "born": "1946-07-15",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah",
+        "wikipedia_local": "https://ms.wikipedia.org/wiki/Hassanal_Bolkiah"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Brunei",
+      "office_wikipedia_local": "https://ms.wikipedia.org/wiki/Sultan_Brunei",
+      "is_same_as_head_of_state": true
+    },
+    "head_of_state": {
+      "title_en": "Sultan",
+      "title_local": "Sultan dan Perdana Menteri",
+      "current_holder": {
+        "name_en": "Hassanal Bolkiah",
+        "name_local": "Sultan Hassanal Bolkiah",
+        "wikidata_id": "Q57327",
+        "since": "1984-01-01",
+        "party": null,
+        "party_local": null,
+        "born": "1946-07-15",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah",
+        "wikipedia_local": "https://ms.wikipedia.org/wiki/Hassanal_Bolkiah"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Brunei",
+      "office_wikipedia_local": "https://ms.wikipedia.org/wiki/Sultan_Brunei",
+      "is_same_as_head_of_state": true
+    }
+  },
+  "last_change": null
+}

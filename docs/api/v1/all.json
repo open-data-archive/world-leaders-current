@@ -1,0 +1,566 @@
+{
+  "snapshot_date": "2026-05-16",
+  "countries_count": 30,
+  "leaders": {
+    "brunei": {
+      "country": {
+        "iso_code": "BN",
+        "name_en": "Brunei",
+        "name_local": "Brunei Darussalam"
+      },
+      "head_of_government": {
+        "title": "Sultan and Prime Minister",
+        "name": "Hassanal Bolkiah",
+        "name_local": "Sultan Hassanal Bolkiah",
+        "since": "1984-01-01"
+      },
+      "head_of_state": {
+        "title": "Sultan",
+        "name": "Hassanal Bolkiah",
+        "name_local": "Sultan Hassanal Bolkiah",
+        "since": "1984-01-01"
+      }
+    },
+    "cambodia": {
+      "country": {
+        "iso_code": "KH",
+        "name_en": "Cambodia",
+        "name_local": "កម្ពុជា"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Hun Manet",
+        "name_local": "ហ៊ុន ម៉ាណែត",
+        "since": "2023-08-22"
+      },
+      "head_of_state": {
+        "title": "King",
+        "name": "Norodom Sihamoni",
+        "name_local": "នរោត្ដម សីហមុនី",
+        "since": "2004-10-29"
+      }
+    },
+    "indonesia": {
+      "country": {
+        "iso_code": "ID",
+        "name_en": "Indonesia",
+        "name_local": "Indonesia"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Prabowo Subianto",
+        "name_local": "Prabowo Subianto",
+        "since": "2024-10-20"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Prabowo Subianto",
+        "name_local": "Prabowo Subianto",
+        "since": "2024-10-20"
+      }
+    },
+    "laos": {
+      "country": {
+        "iso_code": "LA",
+        "name_en": "Laos",
+        "name_local": "ลາວ"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Sonexay Siphandone",
+        "name_local": "ສອນໄຊ ສີພັນດອນ",
+        "since": "2022-12-30"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Thongloun Sisoulith",
+        "name_local": "ທອງລຸນ ສີສຸລິດ",
+        "since": "2021-03-22"
+      }
+    },
+    "malaysia": {
+      "country": {
+        "iso_code": "MY",
+        "name_en": "Malaysia",
+        "name_local": "Malaysia"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Anwar Ibrahim",
+        "name_local": "Anwar Ibrahim",
+        "since": "2022-11-24"
+      },
+      "head_of_state": null
+    },
+    "myanmar": {
+      "country": {
+        "iso_code": "MM",
+        "name_en": "Myanmar",
+        "name_local": "မြန်မာ"
+      },
+      "head_of_government": null,
+      "head_of_state": {
+        "title": "President",
+        "name": "Min Aung Hlaing",
+        "name_local": "မင်းအောင်လှိုင်",
+        "since": "2026-04-10"
+      }
+    },
+    "philippines": {
+      "country": {
+        "iso_code": "PH",
+        "name_en": "Philippines",
+        "name_local": "Pilipinas"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Bongbong Marcos",
+        "name_local": "Bongbong Marcos",
+        "since": "2022-06-30"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Bongbong Marcos",
+        "name_local": "Bongbong Marcos",
+        "since": "2022-06-30"
+      }
+    },
+    "singapore": {
+      "country": {
+        "iso_code": "SG",
+        "name_en": "Singapore",
+        "name_local": "Singapore"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Lawrence Wong",
+        "name_local": null,
+        "since": "2024-05-15"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Tharman Shanmugaratnam",
+        "name_local": null,
+        "since": "2023-09-14"
+      }
+    },
+    "thailand": {
+      "country": {
+        "iso_code": "TH",
+        "name_en": "Thailand",
+        "name_local": "ประเทศไทย"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Anutin Charnvirakul",
+        "name_local": "อนุทิน ชาญวีรกูล",
+        "since": "2025-09-07"
+      },
+      "head_of_state": {
+        "title": "King",
+        "name": "Vajiralongkorn",
+        "name_local": "พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว",
+        "since": "2016-10-13"
+      }
+    },
+    "vietnam": {
+      "country": {
+        "iso_code": "VN",
+        "name_en": "Vietnam",
+        "name_local": "Việt Nam"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Lê Minh Hưng",
+        "name_local": "Lê Minh Hưng",
+        "since": "2026-04-07"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Tô Lâm",
+        "name_local": "Tô Lâm",
+        "since": "2026-04-07"
+      }
+    },
+    "argentina": {
+      "country": {
+        "iso_code": "AR",
+        "name_en": "Argentina",
+        "name_local": "Argentina"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Javier Milei",
+        "name_local": "Javier Milei",
+        "since": "2023-12-10"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Javier Milei",
+        "name_local": "Javier Milei",
+        "since": "2023-12-10"
+      }
+    },
+    "australia": {
+      "country": {
+        "iso_code": "AU",
+        "name_en": "Australia",
+        "name_local": "Australia"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Anthony Albanese",
+        "name_local": null,
+        "since": "2022-05-23"
+      },
+      "head_of_state": {
+        "title": "Monarch",
+        "name": "Charles III",
+        "name_local": null,
+        "since": "2022-09-08"
+      }
+    },
+    "brazil": {
+      "country": {
+        "iso_code": "BR",
+        "name_en": "Brazil",
+        "name_local": "Brasil"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Luiz Inácio Lula da Silva",
+        "name_local": "Luiz Inácio Lula da Silva",
+        "since": "2023-01-01"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Luiz Inácio Lula da Silva",
+        "name_local": "Luiz Inácio Lula da Silva",
+        "since": "2023-01-01"
+      }
+    },
+    "canada": {
+      "country": {
+        "iso_code": "CA",
+        "name_en": "Canada",
+        "name_local": "Canada"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Mark Carney",
+        "name_local": null,
+        "since": null
+      },
+      "head_of_state": {
+        "title": "Monarch",
+        "name": "Charles III",
+        "name_local": null,
+        "since": "2022-09-08"
+      }
+    },
+    "china": {
+      "country": {
+        "iso_code": "CN",
+        "name_en": "China",
+        "name_local": "中国"
+      },
+      "head_of_government": {
+        "title": "Premier",
+        "name": "Li Qiang",
+        "name_local": "李强",
+        "since": "2023-03-11"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Xi Jinping",
+        "name_local": "习近平",
+        "since": "2013-03-14"
+      }
+    },
+    "france": {
+      "country": {
+        "iso_code": "FR",
+        "name_en": "France",
+        "name_local": "France"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Sébastien Lecornu",
+        "name_local": "Sébastien Lecornu",
+        "since": "2025-09-09"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Emmanuel Macron",
+        "name_local": "Emmanuel Macron",
+        "since": "2017-05-14"
+      }
+    },
+    "germany": {
+      "country": {
+        "iso_code": "DE",
+        "name_en": "Germany",
+        "name_local": "Deutschland"
+      },
+      "head_of_government": {
+        "title": "Chancellor",
+        "name": "Friedrich Merz",
+        "name_local": "Friedrich Merz",
+        "since": "2025-05-06"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Frank-Walter Steinmeier",
+        "name_local": "Frank-Walter Steinmeier",
+        "since": "2017-03-19"
+      }
+    },
+    "india": {
+      "country": {
+        "iso_code": "IN",
+        "name_en": "India",
+        "name_local": "भारत"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Narendra Modi",
+        "name_local": "नरेन्द्र मोदी",
+        "since": "2014-05-26"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Droupadi Murmu",
+        "name_local": "द्रौपदी मुर्मू",
+        "since": "2022-07-25"
+      }
+    },
+    "italy": {
+      "country": {
+        "iso_code": "IT",
+        "name_en": "Italy",
+        "name_local": "Italia"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Giorgia Meloni",
+        "name_local": "Giorgia Meloni",
+        "since": "2022-10-22"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Sergio Mattarella",
+        "name_local": "Sergio Mattarella",
+        "since": "2015-02-03"
+      }
+    },
+    "japan": {
+      "country": {
+        "iso_code": "JP",
+        "name_en": "Japan",
+        "name_local": "日本"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Sanae Takaichi",
+        "name_local": "高市早苗",
+        "since": "2025-10-21"
+      },
+      "head_of_state": {
+        "title": "Emperor",
+        "name": "Naruhito",
+        "name_local": "徳仁",
+        "since": "2019-05-01"
+      }
+    },
+    "mexico": {
+      "country": {
+        "iso_code": "MX",
+        "name_en": "Mexico",
+        "name_local": "México"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Claudia Sheinbaum",
+        "name_local": null,
+        "since": "2024-10-01"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Claudia Sheinbaum",
+        "name_local": null,
+        "since": "2024-10-01"
+      }
+    },
+    "russia": {
+      "country": {
+        "iso_code": "RU",
+        "name_en": "Russia",
+        "name_local": "Россия"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Mikhail Mishustin",
+        "name_local": "Михаил Владимирович Мишустин",
+        "since": "2020-01-16"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Vladimir Putin",
+        "name_local": "Владимир Владимирович Путин",
+        "since": "2012-05-07"
+      }
+    },
+    "saudi_arabia": {
+      "country": {
+        "iso_code": "SA",
+        "name_en": "Saudi Arabia",
+        "name_local": "المملكة العربية السعودية"
+      },
+      "head_of_government": {
+        "title": "Prime Minister (King)",
+        "name": "Mohammed bin Salman",
+        "name_local": "محمد بن سلمان آل سعود",
+        "since": "2022-09-27"
+      },
+      "head_of_state": {
+        "title": "King",
+        "name": "Mohammed bin Salman",
+        "name_local": "محمد بن سلمان آل سعود",
+        "since": "2022-09-27"
+      }
+    },
+    "south_africa": {
+      "country": {
+        "iso_code": "ZA",
+        "name_en": "South Africa",
+        "name_local": "South Africa"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Cyril Ramaphosa",
+        "name_local": null,
+        "since": "2018-02-15"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Cyril Ramaphosa",
+        "name_local": null,
+        "since": "2018-02-15"
+      }
+    },
+    "south_korea": {
+      "country": {
+        "iso_code": "KR",
+        "name_en": "South Korea",
+        "name_local": "대한민국"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Lee Jae Myung",
+        "name_local": "이재명",
+        "since": "2025-06-04"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Lee Jae Myung",
+        "name_local": "이재명",
+        "since": "2025-06-04"
+      }
+    },
+    "turkey": {
+      "country": {
+        "iso_code": "TR",
+        "name_en": "Turkey",
+        "name_local": "Türkiye"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Recep Tayyip Erdoğan",
+        "name_local": "Recep Tayyip Erdoğan",
+        "since": "2014-08-28"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Recep Tayyip Erdoğan",
+        "name_local": "Recep Tayyip Erdoğan",
+        "since": "2014-08-28"
+      }
+    },
+    "uk": {
+      "country": {
+        "iso_code": "GB",
+        "name_en": "United Kingdom",
+        "name_local": "United Kingdom"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Keir Starmer",
+        "name_local": null,
+        "since": "2024-07-05"
+      },
+      "head_of_state": {
+        "title": "Monarch",
+        "name": "Charles III",
+        "name_local": null,
+        "since": "2022-09-08"
+      }
+    },
+    "usa": {
+      "country": {
+        "iso_code": "US",
+        "name_en": "United States",
+        "name_local": "United States"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Donald Trump",
+        "name_local": null,
+        "since": "2025-01-20"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Donald Trump",
+        "name_local": null,
+        "since": "2025-01-20"
+      }
+    },
+    "european_union": {
+      "country": {
+        "iso_code": "EU",
+        "name_en": "European Union",
+        "name_local": "European Union"
+      },
+      "head_of_government": {
+        "title": "President of the European Commission",
+        "name": "Ursula von der Leyen",
+        "name_local": null,
+        "since": "2019-12-01"
+      },
+      "head_of_state": {
+        "title": "President of the European Council",
+        "name": "António Costa",
+        "name_local": null,
+        "since": "2024-12-01"
+      }
+    },
+    "african_union": {
+      "country": {
+        "iso_code": "AU_AF",
+        "name_en": "African Union",
+        "name_local": "African Union"
+      },
+      "head_of_government": {
+        "title": "Chairperson of the African Union Commission",
+        "name": "Mahamoud Ali Youssouf",
+        "name_local": null,
+        "since": "2025-03-13"
+      },
+      "head_of_state": {
+        "title": "Chairperson of the African Union",
+        "name": "Évariste Ndayishimiye",
+        "name_local": null,
+        "since": "2026-02-14"
+      }
+    }
+  }
+}

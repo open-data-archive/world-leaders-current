@@ -1,0 +1,186 @@
+{
+  "region": "asean",
+  "snapshot_date": "2026-05-16",
+  "leaders": {
+    "brunei": {
+      "country": {
+        "iso_code": "BN",
+        "name_en": "Brunei",
+        "name_local": "Brunei Darussalam"
+      },
+      "head_of_government": {
+        "title": "Sultan and Prime Minister",
+        "name": "Hassanal Bolkiah",
+        "name_local": "Sultan Hassanal Bolkiah",
+        "since": "1984-01-01"
+      },
+      "head_of_state": {
+        "title": "Sultan",
+        "name": "Hassanal Bolkiah",
+        "name_local": "Sultan Hassanal Bolkiah",
+        "since": "1984-01-01"
+      }
+    },
+    "cambodia": {
+      "country": {
+        "iso_code": "KH",
+        "name_en": "Cambodia",
+        "name_local": "កម្ពុជា"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Hun Manet",
+        "name_local": "ហ៊ុន ម៉ាណែត",
+        "since": "2023-08-22"
+      },
+      "head_of_state": {
+        "title": "King",
+        "name": "Norodom Sihamoni",
+        "name_local": "នរោត្ដម សីហមុនី",
+        "since": "2004-10-29"
+      }
+    },
+    "indonesia": {
+      "country": {
+        "iso_code": "ID",
+        "name_en": "Indonesia",
+        "name_local": "Indonesia"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Prabowo Subianto",
+        "name_local": "Prabowo Subianto",
+        "since": "2024-10-20"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Prabowo Subianto",
+        "name_local": "Prabowo Subianto",
+        "since": "2024-10-20"
+      }
+    },
+    "laos": {
+      "country": {
+        "iso_code": "LA",
+        "name_en": "Laos",
+        "name_local": "ลາວ"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Sonexay Siphandone",
+        "name_local": "ສອນໄຊ ສີພັນດອນ",
+        "since": "2022-12-30"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Thongloun Sisoulith",
+        "name_local": "ທອງລຸນ ສີສຸລິດ",
+        "since": "2021-03-22"
+      }
+    },
+    "malaysia": {
+      "country": {
+        "iso_code": "MY",
+        "name_en": "Malaysia",
+        "name_local": "Malaysia"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Anwar Ibrahim",
+        "name_local": "Anwar Ibrahim",
+        "since": "2022-11-24"
+      },
+      "head_of_state": null
+    },
+    "myanmar": {
+      "country": {
+        "iso_code": "MM",
+        "name_en": "Myanmar",
+        "name_local": "မြန်မာ"
+      },
+      "head_of_government": null,
+      "head_of_state": {
+        "title": "President",
+        "name": "Min Aung Hlaing",
+        "name_local": "မင်းအောင်လှိုင်",
+        "since": "2026-04-10"
+      }
+    },
+    "philippines": {
+      "country": {
+        "iso_code": "PH",
+        "name_en": "Philippines",
+        "name_local": "Pilipinas"
+      },
+      "head_of_government": {
+        "title": "President",
+        "name": "Bongbong Marcos",
+        "name_local": "Bongbong Marcos",
+        "since": "2022-06-30"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Bongbong Marcos",
+        "name_local": "Bongbong Marcos",
+        "since": "2022-06-30"
+      }
+    },
+    "singapore": {
+      "country": {
+        "iso_code": "SG",
+        "name_en": "Singapore",
+        "name_local": "Singapore"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Lawrence Wong",
+        "name_local": null,
+        "since": "2024-05-15"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Tharman Shanmugaratnam",
+        "name_local": null,
+        "since": "2023-09-14"
+      }
+    },
+    "thailand": {
+      "country": {
+        "iso_code": "TH",
+        "name_en": "Thailand",
+        "name_local": "ประเทศไทย"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Anutin Charnvirakul",
+        "name_local": "อนุทิน ชาญวีรกูล",
+        "since": "2025-09-07"
+      },
+      "head_of_state": {
+        "title": "King",
+        "name": "Vajiralongkorn",
+        "name_local": "พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว",
+        "since": "2016-10-13"
+      }
+    },
+    "vietnam": {
+      "country": {
+        "iso_code": "VN",
+        "name_en": "Vietnam",
+        "name_local": "Việt Nam"
+      },
+      "head_of_government": {
+        "title": "Prime Minister",
+        "name": "Lê Minh Hưng",
+        "name_local": "Lê Minh Hưng",
+        "since": "2026-04-07"
+      },
+      "head_of_state": {
+        "title": "President",
+        "name": "Tô Lâm",
+        "name_local": "Tô Lâm",
+        "since": "2026-04-07"
+      }
+    }
+  }
+}

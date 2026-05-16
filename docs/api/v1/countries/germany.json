@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "DE",
+    "name_en": "Germany",
+    "name_local": "Deutschland"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Chancellor",
+      "title_local": "Bundeskanzler",
+      "current_holder": {
+        "name_en": "Friedrich Merz",
+        "name_local": "Friedrich Merz",
+        "wikidata_id": "Q566257",
+        "since": "2025-05-06",
+        "party": "Christian Democratic Union",
+        "party_local": "Christlich Demokratische Union",
+        "born": "1955-11-11",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Friedrich_Merz",
+        "wikipedia_local": "https://de.wikipedia.org/wiki/Friedrich_Merz"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Chancellor_of_Germany",
+      "office_wikipedia_local": "https://de.wikipedia.org/wiki/Bundeskanzler_(Deutschland)"
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "Bundespräsident",
+      "current_holder": {
+        "name_en": "Frank-Walter Steinmeier",
+        "name_local": "Frank-Walter Steinmeier",
+        "wikidata_id": "Q76658",
+        "since": "2017-03-19",
+        "party": "Social Democratic Party of Germany",
+        "party_local": "Sozialdemokratische Partei Deutschlands",
+        "born": "1956-01-05",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier",
+        "wikipedia_local": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Germany",
+      "office_wikipedia_local": "https://de.wikipedia.org/wiki/Bundespräsident_(Deutschland)"
+    }
+  },
+  "last_change": null
+}

@@ -13,6 +13,7 @@ import { fetchAllLeadersSPARQL } from './fetch-wikidata.js';
 import { updateCountry } from './update-country.js';
 import { generateAll } from './generate-readmes.js';
 import { generateLlmsTxt } from './generate-llms-txt.js';
+import { generateHTML } from './generate-html.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -128,8 +129,12 @@ async function main() {
   console.log('Step 7: Generating llms.txt...');
   await generateLlmsTxt(allCountryData, countriesConfig);
 
-  // Step 8: Generate docs
-  console.log('Step 8: Setting up docs...');
+  // Step 8: Generate HTML site + static API
+  console.log('Step 8: Generating HTML site + static API...');
+  await generateHTML(allCountryData, countriesConfig);
+
+  // Step 9: Generate docs
+  console.log('Step 9: Setting up docs...');
   const docsDir = join(ROOT, 'docs');
   await mkdir(docsDir, { recursive: true });
 

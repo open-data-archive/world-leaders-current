@@ -1,0 +1,48 @@
+{
+  "country": {
+    "iso_code": "PH",
+    "name_en": "Philippines",
+    "name_local": "Pilipinas"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "President",
+      "title_local": "Pangulo",
+      "current_holder": {
+        "name_en": "Bongbong Marcos",
+        "name_local": "Bongbong Marcos",
+        "wikidata_id": "Q983324",
+        "since": "2022-06-30",
+        "party": "Partido Federal ng Pilipinas",
+        "party_local": null,
+        "born": "1957-09-13",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+        "wikipedia_local": "https://tl.wikipedia.org/wiki/Bongbong_Marcos"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_Philippines",
+      "office_wikipedia_local": "https://tl.wikipedia.org/wiki/Pangulo_ng_Pilipinas",
+      "is_same_as_head_of_state": true
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "Pangulo",
+      "current_holder": {
+        "name_en": "Bongbong Marcos",
+        "name_local": "Bongbong Marcos",
+        "wikidata_id": "Q983324",
+        "since": "2022-06-30",
+        "party": "Partido Federal ng Pilipinas",
+        "party_local": null,
+        "born": "1957-09-13",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+        "wikipedia_local": "https://tl.wikipedia.org/wiki/Bongbong_Marcos"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_Philippines",
+      "office_wikipedia_local": "https://tl.wikipedia.org/wiki/Pangulo_ng_Pilipinas",
+      "is_same_as_head_of_state": true
+    }
+  },
+  "last_change": null
+}

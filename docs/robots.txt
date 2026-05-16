@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://open-data-archive.github.io/world-leaders-current/sitemap.xml

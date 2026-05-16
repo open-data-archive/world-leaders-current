@@ -18,6 +18,7 @@ import { updateCountry } from './update-country.js';
 import { detectChanges, appendChanges, validateChange } from './detect-changes.js';
 import { generateAll } from './generate-readmes.js';
 import { generateLlmsTxt } from './generate-llms-txt.js';
+import { generateHTML } from './generate-html.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -145,6 +146,10 @@ async function main() {
   // Step 7: Generate llms.txt
   console.log('Step 7: Generating llms.txt...');
   await generateLlmsTxt(allCountryData, countriesConfig);
+
+  // Step 8: Generate HTML site + static API
+  console.log('Step 8: Generating HTML + static API...');
+  await generateHTML(allCountryData, countriesConfig);
 
   console.log(`\n=== Daily Update Complete ===`);
   if (validChanges.length > 0) {

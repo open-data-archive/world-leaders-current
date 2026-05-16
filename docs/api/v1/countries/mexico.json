@@ -1,0 +1,48 @@
+{
+  "country": {
+    "iso_code": "MX",
+    "name_en": "Mexico",
+    "name_local": "México"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "President",
+      "title_local": "Presidente",
+      "current_holder": {
+        "name_en": "Claudia Sheinbaum",
+        "name_local": null,
+        "wikidata_id": "Q5771800",
+        "since": "2024-10-01",
+        "party": "Morena",
+        "party_local": "Morena",
+        "born": "1962-06-24",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum",
+        "wikipedia_local": "https://es.wikipedia.org/wiki/Claudia_Sheinbaum"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Mexico",
+      "office_wikipedia_local": "https://es.wikipedia.org/wiki/Presidente_de_México",
+      "is_same_as_head_of_state": true
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "Presidente",
+      "current_holder": {
+        "name_en": "Claudia Sheinbaum",
+        "name_local": null,
+        "wikidata_id": "Q5771800",
+        "since": "2024-10-01",
+        "party": "Morena",
+        "party_local": "Morena",
+        "born": "1962-06-24",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum",
+        "wikipedia_local": "https://es.wikipedia.org/wiki/Claudia_Sheinbaum"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Mexico",
+      "office_wikipedia_local": "https://es.wikipedia.org/wiki/Presidente_de_México",
+      "is_same_as_head_of_state": true
+    }
+  },
+  "last_change": null
+}

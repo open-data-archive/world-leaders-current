@@ -1,0 +1,35 @@
+<nav style="margin-bottom:1rem;"><a href="/world-leaders-current/">&larr; All countries</a></nav>
+
+<h2><%= flag %> <%= config.name_local !== config.name_en ? config.name_local + ' / ' : '' %><%= config.name_en %></h2>
+<p class="meta">Last updated: <%= snapshotDate %></p>
+
+<% for (const [posKey, pos] of Object.entries(data.positions)) { %>
+<% if (!pos.current_holder) continue %>
+<% if (pos.is_same_as_head_of_state && posKey === 'head_of_state') continue %>
+<div class="card">
+  <h3><%= pos.title_en %><% if (pos.title_local && pos.title_local !== pos.title_en) { %> / <%= pos.title_local %><% } %></h3>
+  <% if (pos.is_same_as_head_of_state) { %><p class="meta">Head of State and Government</p><% } %>
+  <table>
+    <tr><th>Name</th><td><%= pos.current_holder.name_en %><% if (pos.current_holder.name_local) { %> / <%= pos.current_holder.name_local %><% } %></td></tr>
+    <tr><th>Since</th><td><%= pos.current_holder.since || '—' %></td></tr>
+<% if (pos.current_holder.party) { %>
+    <tr><th>Party</th><td><%= pos.current_holder.party %><% if (pos.current_holder.party_local && pos.current_holder.party_local !== pos.current_holder.party) { %> / <%= pos.current_holder.party_local %><% } %></td></tr>
+<% } %>
+<% if (pos.current_holder.born) { %>
+    <tr><th>Born</th><td><%= pos.current_holder.born %></td></tr>
+<% } %>
+<% if (pos.current_holder.wikipedia_en) { %>
+    <tr><th>Wikipedia</th><td><a href="<%= pos.current_holder.wikipedia_en %>">English</a><% if (pos.current_holder.wikipedia_local) { %> | <a href="<%= pos.current_holder.wikipedia_local %>">Local</a><% } %></td></tr>
+<% } %>
+  </table>
+</div>
+<% } %>
+
+<div class="api-note">
+  <strong>API:</strong> <code><a href="/world-leaders-current/api/v1/countries/<%= countryCode %>.json">/api/v1/countries/<%= countryCode %>.json</a></code>
+</div>
+
+<% if (aiContent) { %>
+<h3>Government System</h3>
+<p><%= aiContent %></p>
+<% } %>

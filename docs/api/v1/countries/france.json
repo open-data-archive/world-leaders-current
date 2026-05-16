@@ -1,0 +1,46 @@
+{
+  "country": {
+    "iso_code": "FR",
+    "name_en": "France",
+    "name_local": "France"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "Premier ministre",
+      "current_holder": {
+        "name_en": "Sébastien Lecornu",
+        "name_local": "Sébastien Lecornu",
+        "wikidata_id": "Q20089181",
+        "since": "2025-09-09",
+        "party": "Renaissance",
+        "party_local": "Renaissance",
+        "born": "1986-06-11",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu",
+        "wikipedia_local": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_France",
+      "office_wikipedia_local": "https://fr.wikipedia.org/wiki/Premier_ministre_français"
+    },
+    "head_of_state": {
+      "title_en": "President",
+      "title_local": "Président de la République",
+      "current_holder": {
+        "name_en": "Emmanuel Macron",
+        "name_local": "Emmanuel Macron",
+        "wikidata_id": "Q3052772",
+        "since": "2017-05-14",
+        "party": "Renaissance",
+        "party_local": "Renaissance",
+        "born": "1977-12-21",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+        "wikipedia_local": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_France",
+      "office_wikipedia_local": "https://fr.wikipedia.org/wiki/Président_de_la_République_française"
+    }
+  },
+  "last_change": null
+}

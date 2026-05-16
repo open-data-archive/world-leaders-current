@@ -1,0 +1,47 @@
+{
+  "country": {
+    "iso_code": "JP",
+    "name_en": "Japan",
+    "name_local": "日本"
+  },
+  "snapshot_date": "2026-05-16",
+  "data_source": "Wikipedia+Wikidata",
+  "positions": {
+    "head_of_government": {
+      "title_en": "Prime Minister",
+      "title_local": "内閣総理大臣",
+      "current_holder": {
+        "name_en": "Sanae Takaichi",
+        "name_local": "高市早苗",
+        "wikidata_id": "Q1705028",
+        "since": "2025-10-21",
+        "party": "Liberal Democratic Party",
+        "party_local": "自由民主党",
+        "born": "1961-03-07",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Sanae_Takaichi",
+        "wikipedia_local": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan",
+      "office_wikipedia_local": "https://ja.wikipedia.org/wiki/内閣総理大臣"
+    },
+    "head_of_state": {
+      "title_en": "Emperor",
+      "title_local": "天皇",
+      "current_holder": {
+        "name_en": "Naruhito",
+        "name_local": "徳仁",
+        "wikidata_id": "Q217096",
+        "since": "2019-05-01",
+        "party": null,
+        "party_local": null,
+        "born": "1960-02-23",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Naruhito",
+        "wikipedia_local": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%BB%81"
+      },
+      "office_wikipedia_en": "https://en.wikipedia.org/wiki/Emperor_of_Japan",
+      "office_wikipedia_local": "https://ja.wikipedia.org/wiki/天皇",
+      "is_monarchy": true
+    }
+  },
+  "last_change": null
+}
