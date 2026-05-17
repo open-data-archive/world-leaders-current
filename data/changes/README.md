@@ -2,7 +2,7 @@
 
 > Tracking changes in heads of state/government across ASEAN + G20 countries
 >
-> Last updated: 2026-05-16
+> Last updated: 2026-05-17
 
 
 ## 2026 Changes
