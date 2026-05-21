@@ -2,7 +2,7 @@
 
 > Snapshot of all tracked heads of state and government
 >
-> Last updated: **2026-05-20** | Countries: **30**
+> Last updated: **2026-05-21** | Countries: **30**
 
 ## All Leaders
 
