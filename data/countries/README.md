@@ -2,7 +2,7 @@
 
 > All tracked countries with current leaders
 >
-> Last updated: 2026-05-23
+> Last updated: 2026-05-24
 
 ## ASEAN Countries
 
