@@ -1,0 +1,1390 @@
+{
+  "snapshot_date": "2026-06-13",
+  "captured_at": "2026-06-13T14:09:00.071Z",
+  "countries": {
+    "brunei": {
+      "country": {
+        "iso_code": "BN",
+        "name_en": "Brunei",
+        "name_local": "Brunei Darussalam"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Sultan and Prime Minister",
+          "title_local": "Sultan dan Perdana Menteri",
+          "current_holder": {
+            "name_en": "Hassanal Bolkiah",
+            "name_local": "Sultan Hassanal Bolkiah",
+            "wikidata_id": "Q57327",
+            "since": "1984-01-01",
+            "party": null,
+            "party_local": null,
+            "born": "1946-07-15",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah",
+            "wikipedia_local": "https://ms.wikipedia.org/wiki/Hassanal_Bolkiah"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Brunei",
+          "office_wikipedia_local": "https://ms.wikipedia.org/wiki/Sultan_Brunei",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "Sultan",
+          "title_local": "Sultan dan Perdana Menteri",
+          "current_holder": {
+            "name_en": "Hassanal Bolkiah",
+            "name_local": "Sultan Hassanal Bolkiah",
+            "wikidata_id": "Q57327",
+            "since": "1984-01-01",
+            "party": null,
+            "party_local": null,
+            "born": "1946-07-15",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah",
+            "wikipedia_local": "https://ms.wikipedia.org/wiki/Hassanal_Bolkiah"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Brunei",
+          "office_wikipedia_local": "https://ms.wikipedia.org/wiki/Sultan_Brunei",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "cambodia": {
+      "country": {
+        "iso_code": "KH",
+        "name_en": "Cambodia",
+        "name_local": "កម្ពុជា"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "នាយករដ្ឋមន្ត្រី",
+          "current_holder": {
+            "name_en": "Hun Manet",
+            "name_local": "ហ៊ុន ម៉ាណែត",
+            "wikidata_id": "Q13024351",
+            "since": "2023-08-22",
+            "party": "Cambodian People's Party",
+            "party_local": "គណបក្សប្រជាជនកម្ពុជា",
+            "born": "1977-10-20",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Hun_Manet",
+            "wikipedia_local": "https://km.wikipedia.org/wiki/%E1%9E%A0%E1%9F%8A%E1%9E%BB%E1%9E%93_%E1%9E%98%E1%9F%89%E1%9E%B6%E1%9E%8E%E1%9F%82%E1%9E%8F"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Cambodia",
+          "office_wikipedia_local": "https://km.wikipedia.org/wiki/នាយករដ្ឋមន្ត្រីកម្ពុជា"
+        },
+        "head_of_state": {
+          "title_en": "King",
+          "title_local": "ព្រះមហាក្សត្រ",
+          "current_holder": {
+            "name_en": "Norodom Sihamoni",
+            "name_local": "នរោត្ដម សីហមុនី",
+            "wikidata_id": "Q57319",
+            "since": "2004-10-29",
+            "party": null,
+            "party_local": null,
+            "born": "1953-05-14",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Norodom_Sihamoni",
+            "wikipedia_local": "https://km.wikipedia.org/wiki/%E1%9E%93%E1%9E%9A%E1%9F%84%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%98_%E1%9E%9F%E1%9E%B8%E1%9E%A0%E1%9E%98%E1%9E%BB%E1%9E%93%E1%9E%B8"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Monarchy_of_Cambodia",
+          "office_wikipedia_local": "https://km.wikipedia.org/wiki/ព្រះមហាក្សត្រកម្ពុជា",
+          "is_monarchy": true
+        }
+      },
+      "last_change": null
+    },
+    "indonesia": {
+      "country": {
+        "iso_code": "ID",
+        "name_en": "Indonesia",
+        "name_local": "Indonesia"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "Presiden",
+          "current_holder": {
+            "name_en": "Prabowo Subianto",
+            "name_local": "Prabowo Subianto",
+            "wikidata_id": "Q2107268",
+            "since": "2024-10-20",
+            "party": "Great Indonesia Movement Party",
+            "party_local": "Partai Gerakan Indonesia Raya",
+            "born": "1951-10-17",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Prabowo_Subianto",
+            "wikipedia_local": "https://id.wikipedia.org/wiki/Prabowo_Subianto"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Indonesia",
+          "office_wikipedia_local": "https://id.wikipedia.org/wiki/Presiden_Indonesia",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Presiden",
+          "current_holder": {
+            "name_en": "Prabowo Subianto",
+            "name_local": "Prabowo Subianto",
+            "wikidata_id": "Q2107268",
+            "since": "2024-10-20",
+            "party": "Great Indonesia Movement Party",
+            "party_local": "Partai Gerakan Indonesia Raya",
+            "born": "1951-10-17",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Prabowo_Subianto",
+            "wikipedia_local": "https://id.wikipedia.org/wiki/Prabowo_Subianto"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Indonesia",
+          "office_wikipedia_local": "https://id.wikipedia.org/wiki/Presiden_Indonesia",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "laos": {
+      "country": {
+        "iso_code": "LA",
+        "name_en": "Laos",
+        "name_local": "ลາວ"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "ນາຍົກລັດຖະມົນຕຣີ",
+          "current_holder": {
+            "name_en": "Sonexay Siphandone",
+            "name_local": "ສອນໄຊ ສີພັນດອນ",
+            "wikidata_id": "Q104914585",
+            "since": "2022-12-30",
+            "party": null,
+            "party_local": null,
+            "born": "1966-01-26",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Sonexay_Siphandone",
+            "wikipedia_local": "https://lo.wikipedia.org/wiki/%E0%BA%AA%E0%BA%AD%E0%BA%99%E0%BB%84%E0%BA%8A_%E0%BA%AA%E0%BA%B5%E0%BA%9E%E0%BA%B1%E0%BA%99%E0%BA%94%E0%BA%AD%E0%BA%99"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Laos",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "ປະທານ",
+          "current_holder": {
+            "name_en": "Thongloun Sisoulith",
+            "name_local": "ທອງລຸນ ສີສຸລິດ",
+            "wikidata_id": "Q58323",
+            "since": "2021-03-22",
+            "party": "Lao People's Revolutionary Party",
+            "party_local": "ພັກປະຊາຊົນປະຕິວັດລາວ",
+            "born": "1945-11-10",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Thongloun_Sisoulith",
+            "wikipedia_local": "https://lo.wikipedia.org/wiki/%E0%BA%97%E0%BA%AD%E0%BA%87%E0%BA%A5%E0%BA%B8%E0%BA%99_%E0%BA%AA%E0%BA%B5%E0%BA%AA%E0%BA%B8%E0%BA%A5%E0%BA%B4%E0%BA%94"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Laos",
+          "office_wikipedia_local": null
+        }
+      },
+      "last_change": null
+    },
+    "malaysia": {
+      "country": {
+        "iso_code": "MY",
+        "name_en": "Malaysia",
+        "name_local": "Malaysia"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Perdana Menteri",
+          "current_holder": {
+            "name_en": "Anwar Ibrahim",
+            "name_local": "Anwar Ibrahim",
+            "wikidata_id": "Q299574",
+            "since": "2022-11-24",
+            "party": "People's Justice Party",
+            "party_local": "Parti Keadilan Rakyat",
+            "born": "1947-08-10",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Anwar_Ibrahim",
+            "wikipedia_local": "https://ms.wikipedia.org/wiki/Anwar_Ibrahim"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Malaysia",
+          "office_wikipedia_local": "https://ms.wikipedia.org/wiki/Perdana_Menteri_Malaysia"
+        },
+        "head_of_state": {
+          "title_en": "Yang di-Pertuan Agong",
+          "title_local": "Yang di-Pertuan Agong",
+          "current_holder": null
+        }
+      },
+      "last_change": null
+    },
+    "myanmar": {
+      "country": {
+        "iso_code": "MM",
+        "name_en": "Myanmar",
+        "name_local": "မြန်မာ"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "ဝန်ကြီးစာရင်",
+          "current_holder": null
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "နိုင်ငံတော်သမ္မတ",
+          "current_holder": {
+            "name_en": "Min Aung Hlaing",
+            "name_local": "မင်းအောင်လှိုင်",
+            "wikidata_id": "Q3462649",
+            "since": "2026-04-10",
+            "party": "Union Solidarity and Development Party",
+            "party_local": "ပြည်ထောင်စုကြံ့ခိုင်ရေးနှင့် ဖွံ့ဖြိုးရေးပါတီ",
+            "born": "1956-07-03",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+            "wikipedia_local": "https://my.wikipedia.org/wiki/%E1%80%99%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9C%E1%80%BE%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Myanmar",
+          "office_wikipedia_local": null
+        }
+      },
+      "last_change": null
+    },
+    "philippines": {
+      "country": {
+        "iso_code": "PH",
+        "name_en": "Philippines",
+        "name_local": "Pilipinas"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "Pangulo",
+          "current_holder": {
+            "name_en": "Bongbong Marcos",
+            "name_local": "Bongbong Marcos",
+            "wikidata_id": "Q983324",
+            "since": "2022-06-30",
+            "party": "Partido Federal ng Pilipinas",
+            "party_local": null,
+            "born": "1957-09-13",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+            "wikipedia_local": "https://tl.wikipedia.org/wiki/Bongbong_Marcos"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_Philippines",
+          "office_wikipedia_local": "https://tl.wikipedia.org/wiki/Pangulo_ng_Pilipinas",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Pangulo",
+          "current_holder": {
+            "name_en": "Bongbong Marcos",
+            "name_local": "Bongbong Marcos",
+            "wikidata_id": "Q983324",
+            "since": "2022-06-30",
+            "party": "Partido Federal ng Pilipinas",
+            "party_local": null,
+            "born": "1957-09-13",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Bongbong_Marcos",
+            "wikipedia_local": "https://tl.wikipedia.org/wiki/Bongbong_Marcos"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_Philippines",
+          "office_wikipedia_local": "https://tl.wikipedia.org/wiki/Pangulo_ng_Pilipinas",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "singapore": {
+      "country": {
+        "iso_code": "SG",
+        "name_en": "Singapore",
+        "name_local": "Singapore"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Prime Minister",
+          "current_holder": {
+            "name_en": "Lawrence Wong",
+            "name_local": null,
+            "wikidata_id": "Q6504758",
+            "since": "2024-05-15",
+            "party": "People's Action Party",
+            "party_local": null,
+            "born": "1972-12-18",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Lawrence_Wong",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Singapore",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "President",
+          "current_holder": {
+            "name_en": "Tharman Shanmugaratnam",
+            "name_local": null,
+            "wikidata_id": "Q983752",
+            "since": "2023-09-14",
+            "party": "People's Action Party",
+            "party_local": null,
+            "born": "1957-01-22",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Tharman_Shanmugaratnam",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Singapore",
+          "office_wikipedia_local": null
+        }
+      },
+      "last_change": null
+    },
+    "thailand": {
+      "country": {
+        "iso_code": "TH",
+        "name_en": "Thailand",
+        "name_local": "ประเทศไทย"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "นายกรัฐมนตรี",
+          "current_holder": {
+            "name_en": "Anutin Charnvirakul",
+            "name_local": "อนุทิน ชาญวีรกูล",
+            "wikidata_id": "Q16139757",
+            "since": "2025-09-07",
+            "party": "Bhumjaithai Party",
+            "party_local": "พรรคภูมิใจไทย",
+            "born": "1966-09-13",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Anutin_Charnvirakul",
+            "wikipedia_local": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%99_%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%81%E0%B8%B9%E0%B8%A5"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Thailand",
+          "office_wikipedia_local": "https://th.wikipedia.org/wiki/นายกรัฐมนตรีไทย"
+        },
+        "head_of_state": {
+          "title_en": "King",
+          "title_local": "พระมหากษัตริย์",
+          "current_holder": {
+            "name_en": "Vajiralongkorn",
+            "name_local": "พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว",
+            "wikidata_id": "Q548733",
+            "since": "2016-10-13",
+            "party": null,
+            "party_local": null,
+            "born": "1952-07-28",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Vajiralongkorn",
+            "wikipedia_local": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Monarchy_of_Thailand",
+          "office_wikipedia_local": "https://th.wikipedia.org/wiki/พระมหากษัตริย์ไทย",
+          "is_monarchy": true
+        }
+      },
+      "last_change": null
+    },
+    "vietnam": {
+      "country": {
+        "iso_code": "VN",
+        "name_en": "Vietnam",
+        "name_local": "Việt Nam"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Thủ tướng",
+          "current_holder": {
+            "name_en": "Lê Minh Hưng",
+            "name_local": "Lê Minh Hưng",
+            "wikidata_id": "Q24254499",
+            "since": "2026-04-07",
+            "party": null,
+            "party_local": null,
+            "born": "1970-12-11",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/L%C3%AA_Minh_H%C6%B0ng",
+            "wikipedia_local": "https://vi.wikipedia.org/wiki/L%C3%AA_Minh_H%C6%B0ng"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Vietnam",
+          "office_wikipedia_local": "https://vi.wikipedia.org/wiki/Thủ_tướng_Việt_Nam"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Chủ tịch nước",
+          "current_holder": {
+            "name_en": "Tô Lâm",
+            "name_local": "Tô Lâm",
+            "wikidata_id": "Q10831196",
+            "since": "2026-04-07",
+            "party": "Communist Party of Vietnam",
+            "party_local": "Đảng Cộng sản Việt Nam",
+            "born": "1957-07-10",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/T%C3%B4_L%C3%A2m",
+            "wikipedia_local": "https://vi.wikipedia.org/wiki/T%C3%B4_L%C3%A2m"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Vietnam",
+          "office_wikipedia_local": "https://vi.wikipedia.org/wiki/Chủ_tịch_nước_Việt_Nam"
+        }
+      },
+      "last_change": null
+    },
+    "argentina": {
+      "country": {
+        "iso_code": "AR",
+        "name_en": "Argentina",
+        "name_local": "Argentina"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "Presidente",
+          "current_holder": {
+            "name_en": "Javier Milei",
+            "name_local": "Javier Milei",
+            "wikidata_id": "Q52395487",
+            "since": "2023-12-10",
+            "party": "Freedom Advances",
+            "party_local": "La Libertad Avanza",
+            "born": "1970-10-22",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Javier_Milei",
+            "wikipedia_local": "https://es.wikipedia.org/wiki/Javier_Milei"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Argentina",
+          "office_wikipedia_local": "https://es.wikipedia.org/wiki/Presidente_de_la_Nación_Argentina",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Presidente",
+          "current_holder": {
+            "name_en": "Javier Milei",
+            "name_local": "Javier Milei",
+            "wikidata_id": "Q52395487",
+            "since": "2023-12-10",
+            "party": "Freedom Advances",
+            "party_local": "La Libertad Avanza",
+            "born": "1970-10-22",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Javier_Milei",
+            "wikipedia_local": "https://es.wikipedia.org/wiki/Javier_Milei"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Argentina",
+          "office_wikipedia_local": "https://es.wikipedia.org/wiki/Presidente_de_la_Nación_Argentina",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "australia": {
+      "country": {
+        "iso_code": "AU",
+        "name_en": "Australia",
+        "name_local": "Australia"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Prime Minister",
+          "current_holder": {
+            "name_en": "Anthony Albanese",
+            "name_local": null,
+            "wikidata_id": "Q335697",
+            "since": "2022-05-23",
+            "party": "Australian Labor Party",
+            "party_local": null,
+            "born": "1963-03-02",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Australia",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "Monarch",
+          "title_local": "Monarch",
+          "current_holder": {
+            "name_en": "Charles III",
+            "name_local": null,
+            "wikidata_id": "Q43274",
+            "since": "2022-09-08",
+            "party": null,
+            "party_local": null,
+            "born": "1948-11-14",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Charles_III",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Monarchy_of_Australia",
+          "office_wikipedia_local": null,
+          "is_monarchy": true
+        }
+      },
+      "last_change": null
+    },
+    "brazil": {
+      "country": {
+        "iso_code": "BR",
+        "name_en": "Brazil",
+        "name_local": "Brasil"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "Presidente",
+          "current_holder": {
+            "name_en": "Luiz Inácio Lula da Silva",
+            "name_local": "Luiz Inácio Lula da Silva",
+            "wikidata_id": "Q37181",
+            "since": "2023-01-01",
+            "party": "Workers' Party",
+            "party_local": "Partido dos Trabalhadores",
+            "born": "1945-10-27",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+            "wikipedia_local": "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Brazil",
+          "office_wikipedia_local": "https://pt.wikipedia.org/wiki/Presidente_do_Brasil",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Presidente",
+          "current_holder": {
+            "name_en": "Luiz Inácio Lula da Silva",
+            "name_local": "Luiz Inácio Lula da Silva",
+            "wikidata_id": "Q37181",
+            "since": "2023-01-01",
+            "party": "Workers' Party",
+            "party_local": "Partido dos Trabalhadores",
+            "born": "1945-10-27",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+            "wikipedia_local": "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Brazil",
+          "office_wikipedia_local": "https://pt.wikipedia.org/wiki/Presidente_do_Brasil",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "canada": {
+      "country": {
+        "iso_code": "CA",
+        "name_en": "Canada",
+        "name_local": "Canada"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Prime Minister",
+          "current_holder": {
+            "name_en": "Mark Carney",
+            "name_local": null,
+            "wikidata_id": "Q192533",
+            "since": null,
+            "party": "Liberal Party of Canada",
+            "party_local": null,
+            "born": "1965-03-16",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Mark_Carney",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Canada",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "Monarch",
+          "title_local": "Monarch",
+          "current_holder": {
+            "name_en": "Charles III",
+            "name_local": null,
+            "wikidata_id": "Q43274",
+            "since": "2022-09-08",
+            "party": null,
+            "party_local": null,
+            "born": "1948-11-14",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Charles_III",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Monarchy_of_Canada",
+          "office_wikipedia_local": null,
+          "is_monarchy": true
+        }
+      },
+      "last_change": null
+    },
+    "china": {
+      "country": {
+        "iso_code": "CN",
+        "name_en": "China",
+        "name_local": "中国"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Premier",
+          "title_local": "国务院总理",
+          "current_holder": {
+            "name_en": "Li Qiang",
+            "name_local": "李强",
+            "wikidata_id": "Q4414390",
+            "since": "2023-03-11",
+            "party": "Chinese Communist Party",
+            "party_local": "中国共产党",
+            "born": "1959-07-23",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Li_Qiang",
+            "wikipedia_local": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BC%BA_(1959%E5%B9%B4)"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Premier_of_China",
+          "office_wikipedia_local": "https://zh.wikipedia.org/wiki/中华人民共和国国务院总理"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "国家主席",
+          "current_holder": {
+            "name_en": "Xi Jinping",
+            "name_local": "习近平",
+            "wikidata_id": "Q15031",
+            "since": "2013-03-14",
+            "party": "Chinese Communist Party",
+            "party_local": "中国共产党",
+            "born": "1953-06-15",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Xi_Jinping",
+            "wikipedia_local": "https://zh.wikipedia.org/wiki/%E4%B9%A0%E8%BF%91%E5%B9%B3"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_China",
+          "office_wikipedia_local": "https://zh.wikipedia.org/wiki/中华人民共和国主席"
+        }
+      },
+      "last_change": null
+    },
+    "france": {
+      "country": {
+        "iso_code": "FR",
+        "name_en": "France",
+        "name_local": "France"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Premier ministre",
+          "current_holder": {
+            "name_en": "Sébastien Lecornu",
+            "name_local": "Sébastien Lecornu",
+            "wikidata_id": "Q20089181",
+            "since": "2025-09-09",
+            "party": "Renaissance",
+            "party_local": "Renaissance",
+            "born": "1986-06-11",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Lecornu",
+            "wikipedia_local": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Lecornu"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_France",
+          "office_wikipedia_local": "https://fr.wikipedia.org/wiki/Premier_ministre_français"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Président de la République",
+          "current_holder": {
+            "name_en": "Emmanuel Macron",
+            "name_local": "Emmanuel Macron",
+            "wikidata_id": "Q3052772",
+            "since": "2017-05-14",
+            "party": "Renaissance",
+            "party_local": "Renaissance",
+            "born": "1977-12-21",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+            "wikipedia_local": "https://fr.wikipedia.org/wiki/Emmanuel_Macron"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_France",
+          "office_wikipedia_local": "https://fr.wikipedia.org/wiki/Président_de_la_République_française"
+        }
+      },
+      "last_change": null
+    },
+    "germany": {
+      "country": {
+        "iso_code": "DE",
+        "name_en": "Germany",
+        "name_local": "Deutschland"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Chancellor",
+          "title_local": "Bundeskanzler",
+          "current_holder": {
+            "name_en": "Friedrich Merz",
+            "name_local": "Friedrich Merz",
+            "wikidata_id": "Q566257",
+            "since": "2025-05-06",
+            "party": "Christian Democratic Union",
+            "party_local": "Christlich Demokratische Union",
+            "born": "1955-11-11",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Friedrich_Merz",
+            "wikipedia_local": "https://de.wikipedia.org/wiki/Friedrich_Merz"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Chancellor_of_Germany",
+          "office_wikipedia_local": "https://de.wikipedia.org/wiki/Bundeskanzler_(Deutschland)"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Bundespräsident",
+          "current_holder": {
+            "name_en": "Frank-Walter Steinmeier",
+            "name_local": "Frank-Walter Steinmeier",
+            "wikidata_id": "Q76658",
+            "since": "2017-03-19",
+            "party": "Social Democratic Party of Germany",
+            "party_local": "Sozialdemokratische Partei Deutschlands",
+            "born": "1956-01-05",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier",
+            "wikipedia_local": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Germany",
+          "office_wikipedia_local": "https://de.wikipedia.org/wiki/Bundespräsident_(Deutschland)"
+        }
+      },
+      "last_change": null
+    },
+    "india": {
+      "country": {
+        "iso_code": "IN",
+        "name_en": "India",
+        "name_local": "भारत"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "प्रधानमंत्री",
+          "current_holder": {
+            "name_en": "Narendra Modi",
+            "name_local": "नरेन्द्र मोदी",
+            "wikidata_id": "Q1058",
+            "since": "2014-05-26",
+            "party": "Bharatiya Janata Party",
+            "party_local": "भारतीय जनता पार्टी",
+            "born": "1950-09-17",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Narendra_Modi",
+            "wikipedia_local": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%AE%E0%A5%8B%E0%A4%A6%E0%A5%80"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_India",
+          "office_wikipedia_local": "https://hi.wikipedia.org/wiki/भारत_के_प्रधानमंत्री"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "राष्ट्रपति",
+          "current_holder": {
+            "name_en": "Droupadi Murmu",
+            "name_local": "द्रौपदी मुर्मू",
+            "wikidata_id": "Q19901232",
+            "since": "2022-07-25",
+            "party": "Bharatiya Janata Party",
+            "party_local": "भारतीय जनता पार्टी",
+            "born": "1958-06-20",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Droupadi_Murmu",
+            "wikipedia_local": "https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%AA%E0%A4%A6%E0%A5%80_%E0%A4%AE%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%82"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_India",
+          "office_wikipedia_local": "https://hi.wikipedia.org/wiki/भारत_के_राष्ट्रपति"
+        }
+      },
+      "last_change": null
+    },
+    "italy": {
+      "country": {
+        "iso_code": "IT",
+        "name_en": "Italy",
+        "name_local": "Italia"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Presidente del Consiglio dei ministri",
+          "current_holder": {
+            "name_en": "Giorgia Meloni",
+            "name_local": "Giorgia Meloni",
+            "wikidata_id": "Q451791",
+            "since": "2022-10-22",
+            "party": "Brothers of Italy",
+            "party_local": "Fratelli d'Italia",
+            "born": "1977-01-15",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Giorgia_Meloni",
+            "wikipedia_local": "https://it.wikipedia.org/wiki/Giorgia_Meloni"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Italy",
+          "office_wikipedia_local": "https://it.wikipedia.org/wiki/Presidente_del_Consiglio_dei_ministri_della_Repubblica_Italiana"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Presidente della Repubblica",
+          "current_holder": {
+            "name_en": "Sergio Mattarella",
+            "name_local": "Sergio Mattarella",
+            "wikidata_id": "Q3956186",
+            "since": "2015-02-03",
+            "party": "independent politician",
+            "party_local": "indipendente",
+            "born": "1941-07-23",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Sergio_Mattarella",
+            "wikipedia_local": "https://it.wikipedia.org/wiki/Sergio_Mattarella"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Italy",
+          "office_wikipedia_local": "https://it.wikipedia.org/wiki/Presidente_della_Repubblica_Italiana"
+        }
+      },
+      "last_change": null
+    },
+    "japan": {
+      "country": {
+        "iso_code": "JP",
+        "name_en": "Japan",
+        "name_local": "日本"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "内閣総理大臣",
+          "current_holder": {
+            "name_en": "Sanae Takaichi",
+            "name_local": "高市早苗",
+            "wikidata_id": "Q1705028",
+            "since": "2025-10-21",
+            "party": "Liberal Democratic Party",
+            "party_local": "自由民主党",
+            "born": "1961-03-07",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Sanae_Takaichi",
+            "wikipedia_local": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan",
+          "office_wikipedia_local": "https://ja.wikipedia.org/wiki/内閣総理大臣"
+        },
+        "head_of_state": {
+          "title_en": "Emperor",
+          "title_local": "天皇",
+          "current_holder": {
+            "name_en": "Naruhito",
+            "name_local": "徳仁",
+            "wikidata_id": "Q217096",
+            "since": "2019-05-01",
+            "party": null,
+            "party_local": null,
+            "born": "1960-02-23",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Naruhito",
+            "wikipedia_local": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E4%BB%81"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Emperor_of_Japan",
+          "office_wikipedia_local": "https://ja.wikipedia.org/wiki/天皇",
+          "is_monarchy": true
+        }
+      },
+      "last_change": null
+    },
+    "mexico": {
+      "country": {
+        "iso_code": "MX",
+        "name_en": "Mexico",
+        "name_local": "México"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "Presidente",
+          "current_holder": {
+            "name_en": "Claudia Sheinbaum",
+            "name_local": null,
+            "wikidata_id": "Q5771800",
+            "since": "2024-10-01",
+            "party": "Morena",
+            "party_local": "Morena",
+            "born": "1962-06-24",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum",
+            "wikipedia_local": "https://es.wikipedia.org/wiki/Claudia_Sheinbaum"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Mexico",
+          "office_wikipedia_local": "https://es.wikipedia.org/wiki/Presidente_de_México",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Presidente",
+          "current_holder": {
+            "name_en": "Claudia Sheinbaum",
+            "name_local": null,
+            "wikidata_id": "Q5771800",
+            "since": "2024-10-01",
+            "party": "Morena",
+            "party_local": "Morena",
+            "born": "1962-06-24",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Claudia_Sheinbaum",
+            "wikipedia_local": "https://es.wikipedia.org/wiki/Claudia_Sheinbaum"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Mexico",
+          "office_wikipedia_local": "https://es.wikipedia.org/wiki/Presidente_de_México",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "russia": {
+      "country": {
+        "iso_code": "RU",
+        "name_en": "Russia",
+        "name_local": "Россия"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Председатель Правительства",
+          "current_holder": {
+            "name_en": "Mikhail Mishustin",
+            "name_local": "Михаил Владимирович Мишустин",
+            "wikidata_id": "Q4298520",
+            "since": "2020-01-16",
+            "party": null,
+            "party_local": null,
+            "born": "1966-03-03",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Mikhail_Mishustin",
+            "wikipedia_local": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%88%D1%83%D1%81%D1%82%D0%B8%D0%BD%2C_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Russia",
+          "office_wikipedia_local": "https://ru.wikipedia.org/wiki/Председатель_правительства_Российской_Федерации"
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Президент",
+          "current_holder": {
+            "name_en": "Vladimir Putin",
+            "name_local": "Владимир Владимирович Путин",
+            "wikidata_id": "Q7747",
+            "since": "2012-05-07",
+            "party": null,
+            "party_local": null,
+            "born": "1952-10-07",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+            "wikipedia_local": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Russia",
+          "office_wikipedia_local": "https://ru.wikipedia.org/wiki/Президент_Российской_Федерации"
+        }
+      },
+      "last_change": null
+    },
+    "saudi_arabia": {
+      "country": {
+        "iso_code": "SA",
+        "name_en": "Saudi Arabia",
+        "name_local": "المملكة العربية السعودية"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister (King)",
+          "title_local": "رئيس مجلس الوزراء",
+          "current_holder": {
+            "name_en": "Mohammed bin Salman",
+            "name_local": "محمد بن سلمان آل سعود",
+            "wikidata_id": "Q6892571",
+            "since": "2022-09-27",
+            "party": null,
+            "party_local": null,
+            "born": "1985-08-31",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman",
+            "wikipedia_local": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Saudi_Arabia",
+          "office_wikipedia_local": null,
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "King",
+          "title_local": "رئيس مجلس الوزراء",
+          "current_holder": {
+            "name_en": "Mohammed bin Salman",
+            "name_local": "محمد بن سلمان آل سعود",
+            "wikidata_id": "Q6892571",
+            "since": "2022-09-27",
+            "party": null,
+            "party_local": null,
+            "born": "1985-08-31",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman",
+            "wikipedia_local": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Saudi_Arabia",
+          "office_wikipedia_local": null,
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "south_africa": {
+      "country": {
+        "iso_code": "ZA",
+        "name_en": "South Africa",
+        "name_local": "South Africa"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "President",
+          "current_holder": {
+            "name_en": "Cyril Ramaphosa",
+            "name_local": null,
+            "wikidata_id": "Q1148669",
+            "since": "2018-02-15",
+            "party": "African National Congress",
+            "party_local": null,
+            "born": "1952-11-17",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_South_Africa",
+          "office_wikipedia_local": null,
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "President",
+          "current_holder": {
+            "name_en": "Cyril Ramaphosa",
+            "name_local": null,
+            "wikidata_id": "Q1148669",
+            "since": "2018-02-15",
+            "party": "African National Congress",
+            "party_local": null,
+            "born": "1952-11-17",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_South_Africa",
+          "office_wikipedia_local": null,
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "south_korea": {
+      "country": {
+        "iso_code": "KR",
+        "name_en": "South Korea",
+        "name_local": "대한민국"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "대통령",
+          "current_holder": {
+            "name_en": "Lee Jae Myung",
+            "name_local": "이재명",
+            "wikidata_id": "Q12612463",
+            "since": "2025-06-04",
+            "party": "Democratic Party of Korea",
+            "party_local": "더불어민주당",
+            "born": "1963-12-08",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Lee_Jae_Myung",
+            "wikipedia_local": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%EB%AA%85"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_South_Korea",
+          "office_wikipedia_local": "https://ko.wikipedia.org/wiki/대한민국의_대통령",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "대통령",
+          "current_holder": {
+            "name_en": "Lee Jae Myung",
+            "name_local": "이재명",
+            "wikidata_id": "Q12612463",
+            "since": "2025-06-04",
+            "party": "Democratic Party of Korea",
+            "party_local": "더불어민주당",
+            "born": "1963-12-08",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Lee_Jae_Myung",
+            "wikipedia_local": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%AC%EB%AA%85"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_South_Korea",
+          "office_wikipedia_local": "https://ko.wikipedia.org/wiki/대한민국의_대통령",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "turkey": {
+      "country": {
+        "iso_code": "TR",
+        "name_en": "Turkey",
+        "name_local": "Türkiye"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "Cumhurbaşkanı",
+          "current_holder": {
+            "name_en": "Recep Tayyip Erdoğan",
+            "name_local": "Recep Tayyip Erdoğan",
+            "wikidata_id": "Q39259",
+            "since": "2014-08-28",
+            "party": "Justice and Development Party",
+            "party_local": "Adalet ve Kalkınma Partisi",
+            "born": "1954-02-26",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+            "wikipedia_local": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Turkey",
+          "office_wikipedia_local": "https://tr.wikipedia.org/wiki/Türkiye_cumhurbaşkanı",
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "Cumhurbaşkanı",
+          "current_holder": {
+            "name_en": "Recep Tayyip Erdoğan",
+            "name_local": "Recep Tayyip Erdoğan",
+            "wikidata_id": "Q39259",
+            "since": "2014-08-28",
+            "party": "Justice and Development Party",
+            "party_local": "Adalet ve Kalkınma Partisi",
+            "born": "1954-02-26",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan",
+            "wikipedia_local": "https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Turkey",
+          "office_wikipedia_local": "https://tr.wikipedia.org/wiki/Türkiye_cumhurbaşkanı",
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "uk": {
+      "country": {
+        "iso_code": "GB",
+        "name_en": "United Kingdom",
+        "name_local": "United Kingdom"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Prime Minister",
+          "title_local": "Prime Minister",
+          "current_holder": {
+            "name_en": "Keir Starmer",
+            "name_local": null,
+            "wikidata_id": "Q6383803",
+            "since": "2024-07-05",
+            "party": "Labour Party",
+            "party_local": null,
+            "born": "1962-09-02",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Keir_Starmer",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "Monarch",
+          "title_local": "Monarch",
+          "current_holder": {
+            "name_en": "Charles III",
+            "name_local": null,
+            "wikidata_id": "Q43274",
+            "since": "2022-09-08",
+            "party": null,
+            "party_local": null,
+            "born": "1948-11-14",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Charles_III",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom",
+          "office_wikipedia_local": null,
+          "is_monarchy": true
+        }
+      },
+      "last_change": null
+    },
+    "usa": {
+      "country": {
+        "iso_code": "US",
+        "name_en": "United States",
+        "name_local": "United States"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President",
+          "title_local": "President",
+          "current_holder": {
+            "name_en": "Donald Trump",
+            "name_local": null,
+            "wikidata_id": "Q22686",
+            "since": "2025-01-20",
+            "party": "Republican Party",
+            "party_local": null,
+            "born": "1946-06-14",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Donald_Trump",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+          "office_wikipedia_local": null,
+          "is_same_as_head_of_state": true
+        },
+        "head_of_state": {
+          "title_en": "President",
+          "title_local": "President",
+          "current_holder": {
+            "name_en": "Donald Trump",
+            "name_local": null,
+            "wikidata_id": "Q22686",
+            "since": "2025-01-20",
+            "party": "Republican Party",
+            "party_local": null,
+            "born": "1946-06-14",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Donald_Trump",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+          "office_wikipedia_local": null,
+          "is_same_as_head_of_state": true
+        }
+      },
+      "last_change": null
+    },
+    "european_union": {
+      "country": {
+        "iso_code": "EU",
+        "name_en": "European Union",
+        "name_local": "European Union"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "President of the European Commission",
+          "title_local": "President of the European Commission",
+          "current_holder": {
+            "name_en": "Ursula von der Leyen",
+            "name_local": null,
+            "wikidata_id": "Q57641",
+            "since": "2019-12-01",
+            "party": "Fidesz",
+            "party_local": null,
+            "born": "1963-05-31",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_European_Commission",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "President of the European Council",
+          "title_local": "President of the European Council",
+          "current_holder": {
+            "name_en": "António Costa",
+            "name_local": null,
+            "wikidata_id": "Q2347236",
+            "since": "2024-12-01",
+            "party": null,
+            "party_local": null,
+            "born": null,
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_European_Council",
+          "office_wikipedia_local": null
+        }
+      },
+      "last_change": null
+    },
+    "african_union": {
+      "country": {
+        "iso_code": "AU_AF",
+        "name_en": "African Union",
+        "name_local": "African Union"
+      },
+      "snapshot_date": "2026-06-13",
+      "data_source": "Wikipedia+Wikidata",
+      "positions": {
+        "head_of_government": {
+          "title_en": "Chairperson of the African Union Commission",
+          "title_local": "Chairperson of the African Union Commission",
+          "current_holder": {
+            "name_en": "Mahamoud Ali Youssouf",
+            "name_local": null,
+            "wikidata_id": "Q3327822",
+            "since": "2025-03-13",
+            "party": null,
+            "party_local": null,
+            "born": "1950-01-19",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/Mahamoud_Ali_Youssouf",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Chairperson_of_the_African_Union_Commission",
+          "office_wikipedia_local": null
+        },
+        "head_of_state": {
+          "title_en": "Chairperson of the African Union",
+          "title_local": "Chairperson of the African Union",
+          "current_holder": {
+            "name_en": "Évariste Ndayishimiye",
+            "name_local": null,
+            "wikidata_id": "Q57557",
+            "since": "2026-02-14",
+            "party": null,
+            "party_local": null,
+            "born": "1987-09-09",
+            "wikipedia_en": "https://en.wikipedia.org/wiki/%C3%89variste_Ndayishimiye",
+            "wikipedia_local": null
+          },
+          "office_wikipedia_en": "https://en.wikipedia.org/wiki/Chairperson_of_the_African_Union",
+          "office_wikipedia_local": null
+        }
+      },
+      "last_change": null
+    }
+  }
+}
