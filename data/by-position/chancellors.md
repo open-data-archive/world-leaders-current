@@ -2,7 +2,7 @@
 
 > All chancellors across ASEAN + G20
 >
-> Last updated: 2026-07-01
+> Last updated: 2026-07-02
 
 ## All Chancellors
 
