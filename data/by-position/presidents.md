@@ -2,7 +2,7 @@
 
 > All presidents across ASEAN + G20
 >
-> Last updated: 2026-07-03
+> Last updated: 2026-07-04
 
 ## All Presidents
 
