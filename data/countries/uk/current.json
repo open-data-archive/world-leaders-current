@@ -4,21 +4,21 @@
     "name_en": "United Kingdom",
     "name_local": "United Kingdom"
   },
-  "snapshot_date": "2026-07-19",
+  "snapshot_date": "2026-07-20",
   "data_source": "Wikipedia+Wikidata",
   "positions": {
     "head_of_government": {
       "title_en": "Prime Minister",
       "title_local": "Prime Minister",
       "current_holder": {
-        "name_en": "Keir Starmer",
+        "name_en": "Andy Burnham",
         "name_local": null,
-        "wikidata_id": "Q6383803",
-        "since": "2024-07-05",
+        "wikidata_id": "Q269909",
+        "since": "2026-07-20",
         "party": "Labour Party",
         "party_local": null,
-        "born": "1962-09-02",
-        "wikipedia_en": "https://en.wikipedia.org/wiki/Keir_Starmer",
+        "born": "1970-01-07",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Andy_Burnham",
         "wikipedia_local": null
       },
       "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",

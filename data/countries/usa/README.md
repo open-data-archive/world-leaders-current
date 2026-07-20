@@ -2,7 +2,7 @@
 
 > Current leaders of United States
 >
-> Last updated: 2026-05-16
+> Last updated: 2026-07-20
 
 
 ## 🇺🇸 Current Leaders

@@ -2,7 +2,7 @@
 
 > Current leaders of United Kingdom
 >
-> Last updated: 2026-05-16
+> Last updated: 2026-07-20
 
 
 ## 🇬🇧 Current Leaders
@@ -16,15 +16,15 @@
 
 | | |
 |--|--|
-| **Name** | Keir Starmer |
-| **Since** | 2024-07-05 |
+| **Name** | Andy Burnham |
+| **Since** | 2026-07-20 |
 | **Party** | Labour Party |
-| **Born** | 1962-09-02 |
+| **Born** | 1970-01-07 |
 
 
 
 Read more:
-- [Wikipedia English](https://en.wikipedia.org/wiki/Keir_Starmer)
+- [Wikipedia English](https://en.wikipedia.org/wiki/Andy_Burnham)
 
 
 
@@ -46,6 +46,15 @@ Read more:
 - [Wikipedia English](https://en.wikipedia.org/wiki/Charles_III)
 
 
+
+
+
+## Recent Changes
+
+
+**2026-07-20** — Andy Burnham became Prime Minister
+
+Predecessor: Keir Starmer
 
 
 

@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของالمملكة العربية السعودية / Current leaders of Saudi Arabia
 >
-> Last updated: 2026-05-16
+> Last updated: 2026-07-20
 
 
 ## 🇸🇦 ผู้นำปัจจุบัน / Current Leaders

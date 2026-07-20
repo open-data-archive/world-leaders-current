@@ -2,7 +2,7 @@
 
 > All tracked countries with current leaders
 >
-> Last updated: 2026-07-19
+> Last updated: 2026-07-20
 
 ## ASEAN Countries
 
@@ -41,7 +41,7 @@
 | 🇿🇦 [South Africa](./south_africa/) | Cyril Ramaphosa | (Same — President) | Presidential Republic |
 | 🇰🇷 [South Korea](./south_korea/) | Lee Jae Myung | (Same — President) | Presidential Republic |
 | 🇹🇷 [Turkey](./turkey/) | Recep Tayyip Erdoğan | (Same — President) | Presidential Republic |
-| 🇬🇧 [United Kingdom](./uk/) | Keir Starmer | Charles III | Parliamentary Constitutional Monarchy |
+| 🇬🇧 [United Kingdom](./uk/) | Andy Burnham | Charles III | Parliamentary Constitutional Monarchy |
 | 🇺🇸 [United States](./usa/) | Donald Trump | (Same — President) | Presidential Republic |
 | 🇪🇺 [European Union](./european_union/) | Ursula von der Leyen | António Costa | Supranational Union |
 | 🌍 [African Union](./african_union/) | Mahamoud Ali Youssouf | Évariste Ndayishimiye | Intergovernmental Union |

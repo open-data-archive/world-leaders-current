@@ -2,7 +2,7 @@
 
 > Heads of government and state for G20 members
 >
-> Last updated: 2026-07-19
+> Last updated: 2026-07-20
 
 ## Current Leaders
 
@@ -25,7 +25,7 @@
 | 🇿🇦 [South Africa](../../countries/south_africa/) | Cyril Ramaphosa | (Same — President) |
 | 🇰🇷 [South Korea](../../countries/south_korea/) | Lee Jae Myung | (Same — President) |
 | 🇹🇷 [Turkey](../../countries/turkey/) | Recep Tayyip Erdoğan | (Same — President) |
-| 🇬🇧 [United Kingdom](../../countries/uk/) | Keir Starmer | Charles III |
+| 🇬🇧 [United Kingdom](../../countries/uk/) | Andy Burnham | Charles III |
 | 🇺🇸 [United States](../../countries/usa/) | Donald Trump | (Same — President) |
 | 🇪🇺 [European Union](../../countries/european_union/) | Ursula von der Leyen | António Costa |
 | 🌍 [African Union](../../countries/african_union/) | Mahamoud Ali Youssouf | Évariste Ndayishimiye |

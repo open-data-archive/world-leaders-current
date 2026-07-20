@@ -2,7 +2,7 @@
 
 > All prime ministers across ASEAN + G20
 >
-> Last updated: 2026-07-19
+> Last updated: 2026-07-20
 
 ## All Prime Ministers
 
@@ -24,7 +24,7 @@
 | 🇯🇵 [Japan](../countries/japan/) | Sanae Takaichi | 2025-10-21 |
 | 🇷🇺 [Russia](../countries/russia/) | Mikhail Mishustin | 2020-01-16 |
 | 🇸🇦 [Saudi Arabia](../countries/saudi_arabia/) | Mohammed bin Salman | 2022-09-27 |
-| 🇬🇧 [United Kingdom](../countries/uk/) | Keir Starmer | 2024-07-05 |
+| 🇬🇧 [United Kingdom](../countries/uk/) | Andy Burnham | 2026-07-20 |
 
 
 ## Data

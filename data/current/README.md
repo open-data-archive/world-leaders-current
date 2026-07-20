@@ -2,7 +2,7 @@
 
 > Snapshot of all tracked heads of state and government
 >
-> Last updated: **2026-07-19** | Countries: **30**
+> Last updated: **2026-07-20** | Countries: **30**
 
 ## All Leaders
 
@@ -34,7 +34,7 @@
 | 🇿🇦 [South Africa](../countries/south_africa/) | Cyril Ramaphosa | 2018-02-15 | (Same — President) | 2018-02-15 |
 | 🇰🇷 [South Korea](../countries/south_korea/) | Lee Jae Myung | 2025-06-04 | (Same — President) | 2025-06-04 |
 | 🇹🇷 [Turkey](../countries/turkey/) | Recep Tayyip Erdoğan | 2014-08-28 | (Same — President) | 2014-08-28 |
-| 🇬🇧 [United Kingdom](../countries/uk/) | Keir Starmer | 2024-07-05 | Charles III | 2022-09-08 |
+| 🇬🇧 [United Kingdom](../countries/uk/) | Andy Burnham | 2026-07-20 | Charles III | 2022-09-08 |
 | 🇺🇸 [United States](../countries/usa/) | Donald Trump | 2025-01-20 | (Same — President) | 2025-01-20 |
 | 🇪🇺 [European Union](../countries/european_union/) | Ursula von der Leyen | 2019-12-01 | António Costa | 2024-12-01 |
 | 🌍 [African Union](../countries/african_union/) | Mahamoud Ali Youssouf | 2025-03-13 | Évariste Ndayishimiye | 2026-02-14 |

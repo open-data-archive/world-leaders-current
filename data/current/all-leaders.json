@@ -1,6 +1,6 @@
 {
-  "snapshot_date": "2026-07-19",
-  "captured_at": "2026-07-19T13:25:26.951Z",
+  "snapshot_date": "2026-07-20",
+  "captured_at": "2026-07-20T14:13:55.263Z",
   "countries_count": 30,
   "leaders": {
     "brunei": {
@@ -186,8 +186,8 @@
       "is_same": true
     },
     "uk": {
-      "head_of_government": "Keir Starmer",
-      "head_of_government_since": "2024-07-05",
+      "head_of_government": "Andy Burnham",
+      "head_of_government_since": "2026-07-20",
       "head_of_state": "Charles III",
       "head_of_state_since": "2022-09-08",
       "is_same": false

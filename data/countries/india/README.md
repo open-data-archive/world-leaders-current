@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของभारत / Current leaders of India
 >
-> Last updated: 2026-05-16
+> Last updated: 2026-07-20
 
 
 ## 🇮🇳 ผู้นำปัจจุบัน / Current Leaders

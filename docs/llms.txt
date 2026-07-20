@@ -80,7 +80,7 @@
 - South Africa: HoG=Cyril Ramaphosa, HoS=Cyril Ramaphosa
 - South Korea: HoG=Lee Jae Myung, HoS=Lee Jae Myung
 - Turkey: HoG=Recep Tayyip Erdoğan, HoS=Recep Tayyip Erdoğan
-- United Kingdom: HoG=Keir Starmer, HoS=Charles III
+- United Kingdom: HoG=Andy Burnham, HoS=Charles III
 - United States: HoG=Donald Trump, HoS=Donald Trump
 - European Union: HoG=Ursula von der Leyen, HoS=António Costa
 - African Union: HoG=Mahamoud Ali Youssouf, HoS=Évariste Ndayishimiye

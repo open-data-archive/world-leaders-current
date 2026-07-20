@@ -2,7 +2,7 @@
 
 > Current heads of state and government for ASEAN + G20 countries, updated daily from Wikidata/Wikipedia.
 >
-> Last updated: **2026-07-19** | Countries: **30** | Data source: Wikidata + Wikipedia
+> Last updated: **2026-07-20** | Countries: **30** | Data source: Wikidata + Wikipedia
 
 [![Daily Update](https://github.com/open-data-archive/world-leaders-current/actions/workflows/daily-update.yml/badge.svg)](https://github.com/open-data-archive/world-leaders-current/actions/workflows/daily-update.yml)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -37,12 +37,20 @@
 | 🇿🇦 [South Africa](data/countries/south_africa/) | Cyril Ramaphosa | (Same — President) |
 | 🇰🇷 [South Korea](data/countries/south_korea/) | Lee Jae Myung | (Same — President) |
 | 🇹🇷 [Turkey](data/countries/turkey/) | Recep Tayyip Erdoğan | (Same — President) |
-| 🇬🇧 [United Kingdom](data/countries/uk/) | Keir Starmer | Charles III |
+| 🇬🇧 [United Kingdom](data/countries/uk/) | Andy Burnham | Charles III |
 | 🇺🇸 [United States](data/countries/usa/) | Donald Trump | (Same — President) |
 | 🇪🇺 [European Union](data/countries/european_union/) | Ursula von der Leyen | António Costa |
 | 🌍 [African Union](data/countries/african_union/) | Mahamoud Ali Youssouf | Évariste Ndayishimiye |
 
 
+
+## Recent Changes
+
+
+- **2026-07-20**: United Kingdom — Andy Burnham became Prime Minister
+
+
+[View all changes](data/changes/)
 
 
 ## Browse

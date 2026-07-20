@@ -2,13 +2,16 @@
 
 > Tracking changes in heads of state/government across ASEAN + G20 countries
 >
-> Last updated: 2026-07-19
+> Last updated: 2026-07-20
 
 
 ## 2026 Changes
 
 
-No changes detected in 2026.
+| Date | Country | Position | New Leader | Previous |
+|------|---------|----------|------------|----------|
+| 2026-07-20 | [United Kingdom](../countries/uk/) | Prime Minister | Andy Burnham | Keir Starmer |
+
 
 
 

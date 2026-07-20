@@ -1,6 +1,6 @@
 # World Leaders Current — Full Summary
 
-> Generated: 2026-07-19
+> Generated: 2026-07-20
 > Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
 > Countries: 30
 
@@ -471,10 +471,10 @@ This file contains a comprehensive summary of all tracked world leaders for AI c
 
 
 ### Prime Minister
-- Name: Keir Starmer
-- Since: 2024-07-05
+- Name: Andy Burnham
+- Since: 2026-07-20
 - Party: Labour Party
-- Wikipedia: https://en.wikipedia.org/wiki/Keir_Starmer
+- Wikipedia: https://en.wikipedia.org/wiki/Andy_Burnham
 
 
 

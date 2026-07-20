@@ -1,4 +1,17 @@
 {
   "year": 2026,
-  "changes": []
+  "changes": [
+    {
+      "detected_at": "2026-07-20T14:13:55.260Z",
+      "country": "uk",
+      "country_name_en": "United Kingdom",
+      "position": "head_of_government",
+      "position_title": "Prime Minister",
+      "old_holder_en": "Keir Starmer",
+      "new_holder_en": "Andy Burnham",
+      "new_holder_local": null,
+      "change_date": "2026-07-20",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Andy_Burnham"
+    }
+  ]
 }
