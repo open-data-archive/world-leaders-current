@@ -1,6 +1,6 @@
 # World Leaders Current — Full Summary
 
-> Generated: 2026-08-16
+> Generated: 2026-08-17
 > Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
 > Countries: 30
 
