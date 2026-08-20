@@ -1,6 +1,6 @@
 # World Leaders Current — Full Summary
 
-> Generated: 2026-08-19
+> Generated: 2026-08-20
 > Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
 > Countries: 30
 
@@ -285,7 +285,7 @@ This file contains a comprehensive summary of all tracked world leaders for AI c
 
 
 ### President
-- Name: Emmanuel Macron / Emmanuel Macron
+- Name: Emmanuel Macron
 - Since: 2017-05-14
 - Wikipedia: https://en.wikipedia.org/wiki/Emmanuel_Macron
 

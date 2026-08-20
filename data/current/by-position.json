@@ -171,7 +171,7 @@
     {
       "country": "france",
       "name_en": "Emmanuel Macron",
-      "name_local": "Emmanuel Macron",
+      "name_local": null,
       "wikidata_id": "Q3052772",
       "since": "2017-05-14",
       "party": "Renaissance",

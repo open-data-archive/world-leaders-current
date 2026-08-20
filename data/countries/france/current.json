@@ -4,7 +4,7 @@
     "name_en": "France",
     "name_local": "France"
   },
-  "snapshot_date": "2026-08-19",
+  "snapshot_date": "2026-08-20",
   "data_source": "Wikipedia+Wikidata",
   "positions": {
     "head_of_government": {
@@ -29,7 +29,7 @@
       "title_local": "Président de la République",
       "current_holder": {
         "name_en": "Emmanuel Macron",
-        "name_local": "Emmanuel Macron",
+        "name_local": null,
         "wikidata_id": "Q3052772",
         "since": "2017-05-14",
         "party": "Renaissance",
