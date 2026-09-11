@@ -2,7 +2,7 @@
 
 > Heads of government and state for ASEAN members
 >
-> Last updated: 2026-09-10
+> Last updated: 2026-09-11
 
 ## Current Leaders
 
