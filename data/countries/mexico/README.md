@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของMéxico / Current leaders of Mexico
 >
-> Last updated: 2026-07-20
+> Last updated: 2026-09-21
 
 
 ## 🇲🇽 ผู้นำปัจจุบัน / Current Leaders

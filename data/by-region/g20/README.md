@@ -2,7 +2,7 @@
 
 > Heads of government and state for G20 members
 >
-> Last updated: 2026-09-20
+> Last updated: 2026-09-21
 
 ## Current Leaders
 
@@ -11,7 +11,7 @@
 | 🇮🇩 [Indonesia](../../countries/indonesia/) | Prabowo Subianto | (Same — President) |
 | 🇦🇷 [Argentina](../../countries/argentina/) | Javier Milei | (Same — President) |
 | 🇦🇺 [Australia](../../countries/australia/) | Anthony Albanese | Charles III |
-| 🇧🇷 [Brazil](../../countries/brazil/) | Luiz Inácio Lula da Silva | (Same — President) |
+| 🇧🇷 [Brazil](../../countries/brazil/) | Jair Bolsonaro | (Same — President) |
 | 🇨🇦 [Canada](../../countries/canada/) | Mark Carney | Charles III |
 | 🇨🇳 [China](../../countries/china/) | Li Qiang | Xi Jinping |
 | 🇫🇷 [France](../../countries/france/) | Sébastien Lecornu | Emmanuel Macron |

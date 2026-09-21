@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของBrasil / Current leaders of Brazil
 >
-> Last updated: 2026-07-20
+> Last updated: 2026-09-21
 
 
 ## 🇧🇷 ผู้นำปัจจุบัน / Current Leaders
@@ -19,21 +19,35 @@ In Brazil, the President serves as both head of state and head of government.
 
 | | |
 |--|--|
-| **ชื่อ / Name** | Luiz Inácio Lula da Silva / Luiz Inácio Lula da Silva |
+| **ชื่อ / Name** | Jair Bolsonaro / Jair Bolsonaro |
 | **Since** | 2023-01-01 |
-| **Party** | Partido dos Trabalhadores / Workers&#39; Party |
-| **Born** | 1945-10-27 |
+| **Party** | Partido Liberal / Liberal Party |
+| **Born** | 1955-03-21 |
 
 
 
 Read more:
-- [Wikipedia Brasil](https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)
-- [Wikipedia English](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)
+- [Wikipedia Brasil](https://pt.wikipedia.org/wiki/Jair_Bolsonaro)
+- [Wikipedia English](https://en.wikipedia.org/wiki/Jair_Bolsonaro)
 
 
 
 
 
+
+
+
+## Recent Changes
+
+
+**2023-01-01** — Jair Bolsonaro became President
+
+Predecessor: Luiz Inácio Lula da Silva
+
+
+**2023-01-01** — Jair Bolsonaro became President
+
+Predecessor: Luiz Inácio Lula da Silva
 
 
 

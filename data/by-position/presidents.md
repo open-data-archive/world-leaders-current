@@ -2,7 +2,7 @@
 
 > All presidents across ASEAN + G20
 >
-> Last updated: 2026-09-20
+> Last updated: 2026-09-21
 
 ## All Presidents
 
@@ -15,7 +15,7 @@
 | 🇸🇬 [Singapore](../countries/singapore/) | Tharman Shanmugaratnam | 2023-09-14 |
 | 🇻🇳 [Vietnam](../countries/vietnam/) | Tô Lâm | 2026-04-07 |
 | 🇦🇷 [Argentina](../countries/argentina/) | Javier Milei | 2023-12-10 |
-| 🇧🇷 [Brazil](../countries/brazil/) | Luiz Inácio Lula da Silva | 2023-01-01 |
+| 🇧🇷 [Brazil](../countries/brazil/) | Jair Bolsonaro | 2023-01-01 |
 | 🇨🇳 [China](../countries/china/) | Xi Jinping | 2013-03-14 |
 | 🇫🇷 [France](../countries/france/) | Emmanuel Macron | 2017-05-14 |
 | 🇩🇪 [Germany](../countries/germany/) | Frank-Walter Steinmeier | 2017-03-19 |

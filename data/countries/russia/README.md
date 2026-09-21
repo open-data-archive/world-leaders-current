@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของРоссия / Current leaders of Russia
 >
-> Last updated: 2026-07-20
+> Last updated: 2026-09-21
 
 
 ## 🇷🇺 ผู้นำปัจจุบัน / Current Leaders

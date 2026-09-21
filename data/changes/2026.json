@@ -12,6 +12,30 @@
       "new_holder_local": null,
       "change_date": "2026-07-20",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Andy_Burnham"
+    },
+    {
+      "detected_at": "2026-09-21T18:03:10.360Z",
+      "country": "brazil",
+      "country_name_en": "Brazil",
+      "position": "head_of_government",
+      "position_title": "President",
+      "old_holder_en": "Luiz Inácio Lula da Silva",
+      "new_holder_en": "Jair Bolsonaro",
+      "new_holder_local": "Jair Bolsonaro",
+      "change_date": "2023-01-01",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Jair_Bolsonaro"
+    },
+    {
+      "detected_at": "2026-09-21T18:03:10.360Z",
+      "country": "brazil",
+      "country_name_en": "Brazil",
+      "position": "head_of_state",
+      "position_title": "President",
+      "old_holder_en": "Luiz Inácio Lula da Silva",
+      "new_holder_en": "Jair Bolsonaro",
+      "new_holder_local": "Jair Bolsonaro",
+      "change_date": "2023-01-01",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Jair_Bolsonaro"
     }
   ]
 }

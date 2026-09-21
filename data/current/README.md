@@ -2,7 +2,7 @@
 
 > Snapshot of all tracked heads of state and government
 >
-> Last updated: **2026-09-20** | Countries: **30**
+> Last updated: **2026-09-21** | Countries: **30**
 
 ## All Leaders
 
@@ -20,7 +20,7 @@
 | 🇻🇳 [Vietnam](../countries/vietnam/) | Lê Minh Hưng | 2026-04-07 | Tô Lâm | 2026-04-07 |
 | 🇦🇷 [Argentina](../countries/argentina/) | Javier Milei | 2023-12-10 | (Same — President) | 2023-12-10 |
 | 🇦🇺 [Australia](../countries/australia/) | Anthony Albanese | 2022-05-23 | Charles III | 2022-09-08 |
-| 🇧🇷 [Brazil](../countries/brazil/) | Luiz Inácio Lula da Silva | 2023-01-01 | (Same — President) | 2023-01-01 |
+| 🇧🇷 [Brazil](../countries/brazil/) | Jair Bolsonaro | 2023-01-01 | (Same — President) | 2023-01-01 |
 | 🇨🇦 [Canada](../countries/canada/) | Mark Carney | — | Charles III | 2022-09-08 |
 | 🇨🇳 [China](../countries/china/) | Li Qiang | 2023-03-11 | Xi Jinping | 2013-03-14 |
 | 🇫🇷 [France](../countries/france/) | Sébastien Lecornu | 2025-09-09 | Emmanuel Macron | 2017-05-14 |

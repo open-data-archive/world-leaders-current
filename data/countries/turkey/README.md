@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของTürkiye / Current leaders of Turkey
 >
-> Last updated: 2026-07-20
+> Last updated: 2026-09-21
 
 
 ## 🇹🇷 ผู้นำปัจจุบัน / Current Leaders

@@ -2,7 +2,7 @@
 
 > Current leaders of United Kingdom
 >
-> Last updated: 2026-07-20
+> Last updated: 2026-09-21
 
 
 ## 🇬🇧 Current Leaders
@@ -46,15 +46,6 @@ Read more:
 - [Wikipedia English](https://en.wikipedia.org/wiki/Charles_III)
 
 
-
-
-
-## Recent Changes
-
-
-**2026-07-20** — Andy Burnham became Prime Minister
-
-Predecessor: Keir Starmer
 
 
 

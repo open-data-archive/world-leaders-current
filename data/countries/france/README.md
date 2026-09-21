@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของFrance / Current leaders of France
 >
-> Last updated: 2026-07-20
+> Last updated: 2026-09-21
 
 
 ## 🇫🇷 ผู้นำปัจจุบัน / Current Leaders
@@ -37,7 +37,7 @@ Read more:
 
 | | |
 |--|--|
-| **ชื่อ / Name** | Emmanuel Macron / Emmanuel Macron |
+| **Name** | Emmanuel Macron |
 | **Since** | 2017-05-14 |
 | **Party** | Renaissance |
 | **Born** | 1977-12-21 |
