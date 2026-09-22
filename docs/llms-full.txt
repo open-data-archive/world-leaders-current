@@ -1,6 +1,6 @@
 # World Leaders Current — Full Summary
 
-> Generated: 2026-09-21
+> Generated: 2026-09-22
 > Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
 > Countries: 30
 
@@ -221,10 +221,10 @@ This file contains a comprehensive summary of all tracked world leaders for AI c
 
 
 ### President
-- Name: Jair Bolsonaro / Jair Bolsonaro
+- Name: Luiz Inácio Lula da Silva / Luiz Inácio Lula da Silva
 - Since: 2023-01-01
-- Party: Liberal Party
-- Wikipedia: https://en.wikipedia.org/wiki/Jair_Bolsonaro
+- Party: Workers&#39; Party
+- Wikipedia: https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
 
 
 

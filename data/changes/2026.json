@@ -36,6 +36,30 @@
       "new_holder_local": "Jair Bolsonaro",
       "change_date": "2023-01-01",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Jair_Bolsonaro"
+    },
+    {
+      "detected_at": "2026-09-22T16:36:33.394Z",
+      "country": "brazil",
+      "country_name_en": "Brazil",
+      "position": "head_of_government",
+      "position_title": "President",
+      "old_holder_en": "Jair Bolsonaro",
+      "new_holder_en": "Luiz Inácio Lula da Silva",
+      "new_holder_local": "Luiz Inácio Lula da Silva",
+      "change_date": "2023-01-01",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "detected_at": "2026-09-22T16:36:33.394Z",
+      "country": "brazil",
+      "country_name_en": "Brazil",
+      "position": "head_of_state",
+      "position_title": "President",
+      "old_holder_en": "Jair Bolsonaro",
+      "new_holder_en": "Luiz Inácio Lula da Silva",
+      "new_holder_local": "Luiz Inácio Lula da Silva",
+      "change_date": "2023-01-01",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
     }
   ]
 }

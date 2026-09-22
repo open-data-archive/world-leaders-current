@@ -2,7 +2,7 @@
 
 > All tracked countries with current leaders
 >
-> Last updated: 2026-09-21
+> Last updated: 2026-09-22
 
 ## ASEAN Countries
 
@@ -27,7 +27,7 @@
 | 🇮🇩 [Indonesia](./indonesia/) | Prabowo Subianto | (Same — President) | Presidential Republic |
 | 🇦🇷 [Argentina](./argentina/) | Javier Milei | (Same — President) | Presidential Republic |
 | 🇦🇺 [Australia](./australia/) | Anthony Albanese | Charles III | Parliamentary Constitutional Monarchy |
-| 🇧🇷 [Brazil](./brazil/) | Jair Bolsonaro | (Same — President) | Presidential Republic |
+| 🇧🇷 [Brazil](./brazil/) | Luiz Inácio Lula da Silva | (Same — President) | Presidential Republic |
 | 🇨🇦 [Canada](./canada/) | Mark Carney | Charles III | Parliamentary Constitutional Monarchy |
 | 🇨🇳 [China](./china/) | Li Qiang | Xi Jinping | Single Party Socialist Republic |
 | 🇫🇷 [France](./france/) | Sébastien Lecornu | Emmanuel Macron | Semi Presidential Republic |

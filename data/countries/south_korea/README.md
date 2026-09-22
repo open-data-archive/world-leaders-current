@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของ대한민국 / Current leaders of South Korea
 >
-> Last updated: 2026-09-21
+> Last updated: 2026-09-22
 
 
 ## 🇰🇷 ผู้นำปัจจุบัน / Current Leaders

@@ -2,7 +2,7 @@
 
 > Tracking changes in heads of state/government across ASEAN + G20 countries
 >
-> Last updated: 2026-09-21
+> Last updated: 2026-09-22
 
 
 ## 2026 Changes
@@ -13,6 +13,8 @@
 | 2026-07-20 | [United Kingdom](../countries/uk/) | Prime Minister | Andy Burnham | Keir Starmer |
 | 2023-01-01 | [Brazil](../countries/brazil/) | President | Jair Bolsonaro | Luiz Inácio Lula da Silva |
 | 2023-01-01 | [Brazil](../countries/brazil/) | President | Jair Bolsonaro | Luiz Inácio Lula da Silva |
+| 2023-01-01 | [Brazil](../countries/brazil/) | President | Luiz Inácio Lula da Silva | Jair Bolsonaro |
+| 2023-01-01 | [Brazil](../countries/brazil/) | President | Luiz Inácio Lula da Silva | Jair Bolsonaro |
 
 
 
