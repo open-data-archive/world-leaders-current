@@ -2,7 +2,7 @@
 
 > Current leaders of South Africa
 >
-> Last updated: 2026-09-22
+> Last updated: 2026-10-06
 
 
 ## 🇿🇦 Current Leaders

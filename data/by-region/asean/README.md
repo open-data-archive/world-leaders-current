@@ -2,7 +2,7 @@
 
 > Heads of government and state for ASEAN members
 >
-> Last updated: 2026-10-04
+> Last updated: 2026-10-06
 
 ## Current Leaders
 
@@ -11,7 +11,7 @@
 | 🇧🇳 [Brunei](../../countries/brunei/) | Hassanal Bolkiah | (Same — Sultan and Prime Minister) |
 | 🇰🇭 [Cambodia](../../countries/cambodia/) | Hun Manet | Norodom Sihamoni |
 | 🇮🇩 [Indonesia](../../countries/indonesia/) | Prabowo Subianto | (Same — President) |
-| 🇱🇦 [Laos](../../countries/laos/) | Sonexay Siphandone | Thongloun Sisoulith |
+| 🇱🇦 [Laos](../../countries/laos/) | Saleumxay Kommasith | Thongloun Sisoulith |
 | 🇲🇾 [Malaysia](../../countries/malaysia/) | Anwar Ibrahim | — |
 | 🇲🇲 [Myanmar](../../countries/myanmar/) | — | Min Aung Hlaing |
 | 🇵🇭 [Philippines](../../countries/philippines/) | Bongbong Marcos | (Same — President) |

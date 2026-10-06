@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของDeutschland / Current leaders of Germany
 >
-> Last updated: 2026-09-22
+> Last updated: 2026-10-06
 
 
 ## 🇩🇪 ผู้นำปัจจุบัน / Current Leaders
@@ -18,7 +18,7 @@
 |--|--|
 | **ชื่อ / Name** | Friedrich Merz / Friedrich Merz |
 | **Since** | 2025-05-06 |
-| **Party** | Christlich Demokratische Union / Christian Democratic Union |
+| **Party** | Christlich Demokratische Union Deutschlands / Christian Democratic Union |
 | **Born** | 1955-11-11 |
 
 

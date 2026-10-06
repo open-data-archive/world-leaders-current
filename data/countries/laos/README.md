@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของลາວ / Current leaders of Laos
 >
-> Last updated: 2026-09-22
+> Last updated: 2026-10-06
 
 
 ## 🇱🇦 ผู้นำปัจจุบัน / Current Leaders
@@ -16,15 +16,15 @@
 
 | | |
 |--|--|
-| **ชื่อ / Name** | ສອນໄຊ ສີພັນດອນ / Sonexay Siphandone |
-| **Since** | 2022-12-30 |
-| **Born** | 1966-01-26 |
+| **ชื่อ / Name** | ສະເຫຼີມໄຊ ກົມມະສິດ / Saleumxay Kommasith |
+| **Since** | 2026-10-05 |
+| **Born** | 1968-10-31 |
 
 
 
 Read more:
-- [Wikipedia ลາວ](https://lo.wikipedia.org/wiki/%E0%BA%AA%E0%BA%AD%E0%BA%99%E0%BB%84%E0%BA%8A_%E0%BA%AA%E0%BA%B5%E0%BA%9E%E0%BA%B1%E0%BA%99%E0%BA%94%E0%BA%AD%E0%BA%99)
-- [Wikipedia English](https://en.wikipedia.org/wiki/Sonexay_Siphandone)
+- [Wikipedia ลາວ](https://lo.wikipedia.org/wiki/%E0%BA%AA%E0%BA%B0%E0%BB%80%E0%BA%AB%E0%BA%BC%E0%BA%B5%E0%BA%A1%E0%BB%84%E0%BA%8A_%E0%BA%81%E0%BA%BB%E0%BA%A1%E0%BA%A1%E0%BA%B0%E0%BA%AA%E0%BA%B4%E0%BA%94)
+- [Wikipedia English](https://en.wikipedia.org/wiki/Saleumxay_Kommasith)
 
 
 
@@ -48,6 +48,15 @@ Read more:
 - [Wikipedia English](https://en.wikipedia.org/wiki/Thongloun_Sisoulith)
 
 
+
+
+
+## Recent Changes
+
+
+**2026-10-05** — Saleumxay Kommasith became Prime Minister
+
+Predecessor: Sonexay Siphandone
 
 
 

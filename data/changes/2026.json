@@ -60,6 +60,18 @@
       "new_holder_local": "Luiz Inácio Lula da Silva",
       "change_date": "2023-01-01",
       "wikipedia_link": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "detected_at": "2026-10-06T18:07:19.500Z",
+      "country": "laos",
+      "country_name_en": "Laos",
+      "position": "head_of_government",
+      "position_title": "Prime Minister",
+      "old_holder_en": "Sonexay Siphandone",
+      "new_holder_en": "Saleumxay Kommasith",
+      "new_holder_local": "ສະເຫຼີມໄຊ ກົມມະສິດ",
+      "change_date": "2026-10-05",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Saleumxay_Kommasith"
     }
   ]
 }

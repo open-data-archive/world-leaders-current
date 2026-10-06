@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของBrasil / Current leaders of Brazil
 >
-> Last updated: 2026-09-22
+> Last updated: 2026-10-06
 
 
 ## 🇧🇷 ผู้นำปัจจุบัน / Current Leaders
@@ -34,20 +34,6 @@ Read more:
 
 
 
-
-
-
-## Recent Changes
-
-
-**2023-01-01** — Luiz Inácio Lula da Silva became President
-
-Predecessor: Jair Bolsonaro
-
-
-**2023-01-01** — Luiz Inácio Lula da Silva became President
-
-Predecessor: Jair Bolsonaro
 
 
 

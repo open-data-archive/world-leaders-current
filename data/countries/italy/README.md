@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของItalia / Current leaders of Italy
 >
-> Last updated: 2026-09-22
+> Last updated: 2026-10-06
 
 
 ## 🇮🇹 ผู้นำปัจจุบัน / Current Leaders

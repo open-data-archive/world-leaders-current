@@ -2,7 +2,7 @@
 
 > All tracked countries with current leaders
 >
-> Last updated: 2026-10-04
+> Last updated: 2026-10-06
 
 ## ASEAN Countries
 
@@ -11,7 +11,7 @@
 | 🇧🇳 [Brunei](./brunei/) | Hassanal Bolkiah | (Same — Sultan and Prime Minister) | Absolute Monarchy |
 | 🇰🇭 [Cambodia](./cambodia/) | Hun Manet | Norodom Sihamoni | Parliamentary Constitutional Monarchy |
 | 🇮🇩 [Indonesia](./indonesia/) | Prabowo Subianto | (Same — President) | Presidential Republic |
-| 🇱🇦 [Laos](./laos/) | Sonexay Siphandone | Thongloun Sisoulith | Single Party Socialist Republic |
+| 🇱🇦 [Laos](./laos/) | Saleumxay Kommasith | Thongloun Sisoulith | Single Party Socialist Republic |
 | 🇲🇾 [Malaysia](./malaysia/) | Anwar Ibrahim | — | Parliamentary Constitutional Monarchy |
 | 🇲🇲 [Myanmar](./myanmar/) | — | Min Aung Hlaing | Military Government |
 | 🇵🇭 [Philippines](./philippines/) | Bongbong Marcos | (Same — President) | Presidential Republic |

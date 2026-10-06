@@ -2,7 +2,7 @@
 
 > Current leaders of African Union
 >
-> Last updated: 2026-09-22
+> Last updated: 2026-10-06
 
 
 ## 🌍 Current Leaders

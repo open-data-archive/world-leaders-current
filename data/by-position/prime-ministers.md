@@ -2,7 +2,7 @@
 
 > All prime ministers across ASEAN + G20
 >
-> Last updated: 2026-10-04
+> Last updated: 2026-10-06
 
 ## All Prime Ministers
 
@@ -10,7 +10,7 @@
 |---------|------|-------|
 | 🇧🇳 [Brunei](../countries/brunei/) | Hassanal Bolkiah | 1984-01-01 |
 | 🇰🇭 [Cambodia](../countries/cambodia/) | Hun Manet | 2023-08-22 |
-| 🇱🇦 [Laos](../countries/laos/) | Sonexay Siphandone | 2022-12-30 |
+| 🇱🇦 [Laos](../countries/laos/) | Saleumxay Kommasith | 2026-10-05 |
 | 🇲🇾 [Malaysia](../countries/malaysia/) | Anwar Ibrahim | 2022-11-24 |
 | 🇸🇬 [Singapore](../countries/singapore/) | Lawrence Wong | 2024-05-15 |
 | 🇹🇭 [Thailand](../countries/thailand/) | Anutin Charnvirakul | 2025-09-07 |

@@ -2,7 +2,7 @@
 
 > Snapshot of all tracked heads of state and government
 >
-> Last updated: **2026-10-04** | Countries: **30**
+> Last updated: **2026-10-06** | Countries: **30**
 
 ## All Leaders
 
@@ -11,7 +11,7 @@
 | 🇧🇳 [Brunei](../countries/brunei/) | Hassanal Bolkiah | 1984-01-01 | (Same — Sultan and Prime Minister) | 1984-01-01 |
 | 🇰🇭 [Cambodia](../countries/cambodia/) | Hun Manet | 2023-08-22 | Norodom Sihamoni | 2004-10-29 |
 | 🇮🇩 [Indonesia](../countries/indonesia/) | Prabowo Subianto | 2024-10-20 | (Same — President) | 2024-10-20 |
-| 🇱🇦 [Laos](../countries/laos/) | Sonexay Siphandone | 2022-12-30 | Thongloun Sisoulith | 2021-03-22 |
+| 🇱🇦 [Laos](../countries/laos/) | Saleumxay Kommasith | 2026-10-05 | Thongloun Sisoulith | 2021-03-22 |
 | 🇲🇾 [Malaysia](../countries/malaysia/) | Anwar Ibrahim | 2022-11-24 | — | — |
 | 🇲🇲 [Myanmar](../countries/myanmar/) | — | — | Min Aung Hlaing | 2026-04-10 |
 | 🇵🇭 [Philippines](../countries/philippines/) | Bongbong Marcos | 2022-06-30 | (Same — President) | 2022-06-30 |

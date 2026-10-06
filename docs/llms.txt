@@ -57,7 +57,7 @@
 - Brunei: HoG=Hassanal Bolkiah, HoS=Hassanal Bolkiah
 - Cambodia: HoG=Hun Manet, HoS=Norodom Sihamoni
 - Indonesia: HoG=Prabowo Subianto, HoS=Prabowo Subianto
-- Laos: HoG=Sonexay Siphandone, HoS=Thongloun Sisoulith
+- Laos: HoG=Saleumxay Kommasith, HoS=Thongloun Sisoulith
 - Malaysia: HoG=Anwar Ibrahim, HoS=Anwar Ibrahim
 - Myanmar: HoG=?, HoS=Min Aung Hlaing
 - Philippines: HoG=Bongbong Marcos, HoS=Bongbong Marcos

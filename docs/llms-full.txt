@@ -1,6 +1,6 @@
 # World Leaders Current — Full Summary
 
-> Generated: 2026-10-04
+> Generated: 2026-10-06
 > Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
 > Countries: 30
 
@@ -62,10 +62,10 @@ This file contains a comprehensive summary of all tracked world leaders for AI c
 
 
 ### Prime Minister
-- Name: Sonexay Siphandone / ສອນໄຊ ສີພັນດອນ
-- Since: 2022-12-30
+- Name: Saleumxay Kommasith / ສະເຫຼີມໄຊ ກົມມະສິດ
+- Since: 2026-10-05
 
-- Wikipedia: https://en.wikipedia.org/wiki/Sonexay_Siphandone
+- Wikipedia: https://en.wikipedia.org/wiki/Saleumxay_Kommasith
 
 
 
