@@ -2,7 +2,7 @@
 
 > All monarchs across ASEAN + G20
 >
-> Last updated: 2026-10-09
+> Last updated: 2026-10-10
 
 ## All Monarchs
 
