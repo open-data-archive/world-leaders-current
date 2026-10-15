@@ -4,7 +4,7 @@
     "name_en": "European Union",
     "name_local": "European Union"
   },
-  "snapshot_date": "2026-10-14",
+  "snapshot_date": "2026-10-15",
   "data_source": "Wikipedia+Wikidata",
   "positions": {
     "head_of_government": {
@@ -35,7 +35,7 @@
         "party": null,
         "party_local": null,
         "born": null,
-        "wikipedia_en": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/António_Costa",
         "wikipedia_local": null
       },
       "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_the_European_Council",

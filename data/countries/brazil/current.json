@@ -4,7 +4,7 @@
     "name_en": "Brazil",
     "name_local": "Brasil"
   },
-  "snapshot_date": "2026-10-14",
+  "snapshot_date": "2026-10-15",
   "data_source": "Wikipedia+Wikidata",
   "positions": {
     "head_of_government": {
@@ -18,7 +18,7 @@
         "party": "Workers' Party",
         "party_local": "Partido dos Trabalhadores",
         "born": "1945-10-27",
-        "wikipedia_en": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva",
         "wikipedia_local": "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
       },
       "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Brazil",
@@ -36,7 +36,7 @@
         "party": "Workers' Party",
         "party_local": "Partido dos Trabalhadores",
         "born": "1945-10-27",
-        "wikipedia_en": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva",
         "wikipedia_local": "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
       },
       "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Brazil",

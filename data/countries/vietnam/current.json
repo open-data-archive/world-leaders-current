@@ -4,7 +4,7 @@
     "name_en": "Vietnam",
     "name_local": "Việt Nam"
   },
-  "snapshot_date": "2026-10-14",
+  "snapshot_date": "2026-10-15",
   "data_source": "Wikipedia+Wikidata",
   "positions": {
     "head_of_government": {
@@ -18,7 +18,7 @@
         "party": null,
         "party_local": null,
         "born": "1970-12-11",
-        "wikipedia_en": "https://en.wikipedia.org/wiki/L%C3%AA_Minh_H%C6%B0ng",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Lê_Minh_Hưng",
         "wikipedia_local": "https://vi.wikipedia.org/wiki/L%C3%AA_Minh_H%C6%B0ng"
       },
       "office_wikipedia_en": "https://en.wikipedia.org/wiki/Prime_Minister_of_Vietnam",
@@ -35,7 +35,7 @@
         "party": "Communist Party of Vietnam",
         "party_local": "Đảng Cộng sản Việt Nam",
         "born": "1957-07-10",
-        "wikipedia_en": "https://en.wikipedia.org/wiki/T%C3%B4_L%C3%A2m",
+        "wikipedia_en": "https://en.wikipedia.org/wiki/Tô_Lâm",
         "wikipedia_local": "https://vi.wikipedia.org/wiki/T%C3%B4_L%C3%A2m"
       },
       "office_wikipedia_en": "https://en.wikipedia.org/wiki/President_of_Vietnam",
