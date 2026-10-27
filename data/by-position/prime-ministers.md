@@ -2,7 +2,7 @@
 
 > All prime ministers across ASEAN + G20
 >
-> Last updated: 2026-10-26
+> Last updated: 2026-10-27
 
 ## All Prime Ministers
 
