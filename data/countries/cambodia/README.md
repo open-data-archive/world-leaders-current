@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของកម្ពុជា / Current leaders of Cambodia
 >
-> Last updated: 2026-10-06
+> Last updated: 2026-11-11
 
 
 ## 🇰🇭 ผู้นำปัจจุบัน / Current Leaders

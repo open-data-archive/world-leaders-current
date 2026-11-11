@@ -678,14 +678,14 @@
     },
     {
       "country": "uk",
-      "name_en": "Charles III",
+      "name_en": "King Charles III",
       "name_local": null,
-      "wikidata_id": "Q43274",
+      "wikidata_id": null,
       "since": "2022-09-08",
       "party": null,
       "party_local": null,
-      "born": "1948-11-14",
-      "wikipedia_en": "https://en.wikipedia.org/wiki/Charles_III",
+      "born": null,
+      "wikipedia_en": "https://en.wikipedia.org/wiki/King_Charles_III",
       "wikipedia_local": null
     }
   ],

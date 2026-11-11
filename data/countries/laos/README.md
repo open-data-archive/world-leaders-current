@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของลາວ / Current leaders of Laos
 >
-> Last updated: 2026-10-06
+> Last updated: 2026-11-11
 
 
 ## 🇱🇦 ผู้นำปัจจุบัน / Current Leaders
@@ -48,15 +48,6 @@ Read more:
 - [Wikipedia English](https://en.wikipedia.org/wiki/Thongloun_Sisoulith)
 
 
-
-
-
-## Recent Changes
-
-
-**2026-10-05** — Saleumxay Kommasith became Prime Minister
-
-Predecessor: Sonexay Siphandone
 
 
 

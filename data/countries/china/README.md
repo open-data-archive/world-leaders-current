@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของ中国 / Current leaders of China
 >
-> Last updated: 2026-10-06
+> Last updated: 2026-11-11
 
 
 ## 🇨🇳 ผู้นำปัจจุบัน / Current Leaders

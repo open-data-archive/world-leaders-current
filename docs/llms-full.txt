@@ -1,6 +1,6 @@
 # World Leaders Current — Full Summary
 
-> Generated: 2026-11-10
+> Generated: 2026-11-11
 > Source: Wikidata + Wikipedia (CC-BY-SA-4.0)
 > Countries: 30
 
@@ -480,9 +480,9 @@ This file contains a comprehensive summary of all tracked world leaders for AI c
 
 
 ### Monarch
-- Name: Charles III
+- Name: King Charles III
 - Since: 2022-09-08
-- Wikipedia: https://en.wikipedia.org/wiki/Charles_III
+- Wikipedia: https://en.wikipedia.org/wiki/King_Charles_III
 
 
 

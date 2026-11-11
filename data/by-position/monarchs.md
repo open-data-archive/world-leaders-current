@@ -2,7 +2,7 @@
 
 > All monarchs across ASEAN + G20
 >
-> Last updated: 2026-11-10
+> Last updated: 2026-11-11
 
 ## All Monarchs
 
@@ -13,7 +13,7 @@
 | 🇦🇺 [Australia](../countries/australia/) | Charles III | 2022-09-08 |
 | 🇨🇦 [Canada](../countries/canada/) | Charles III | 2022-09-08 |
 | 🇯🇵 [Japan](../countries/japan/) | Naruhito | 2019-05-01 |
-| 🇬🇧 [United Kingdom](../countries/uk/) | Charles III | 2022-09-08 |
+| 🇬🇧 [United Kingdom](../countries/uk/) | King Charles III | 2022-09-08 |
 
 
 ## Data

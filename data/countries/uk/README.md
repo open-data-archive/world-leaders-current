@@ -2,7 +2,7 @@
 
 > Current leaders of United Kingdom
 >
-> Last updated: 2026-10-06
+> Last updated: 2026-11-11
 
 
 ## 🇬🇧 Current Leaders
@@ -36,16 +36,24 @@ Read more:
 
 | | |
 |--|--|
-| **Name** | Charles III |
+| **Name** | King Charles III |
 | **Reign Since** | 2022-09-08 |
-| **Born** | 1948-11-14 |
 
 
 
 Read more:
-- [Wikipedia English](https://en.wikipedia.org/wiki/Charles_III)
+- [Wikipedia English](https://en.wikipedia.org/wiki/King_Charles_III)
 
 
+
+
+
+## Recent Changes
+
+
+**2022-09-08** — King Charles III became Monarch
+
+Predecessor: Charles III
 
 
 
