@@ -2,7 +2,7 @@
 
 > Tracking changes in heads of state/government across ASEAN + G20 countries
 >
-> Last updated: 2026-11-11
+> Last updated: 2026-11-12
 
 
 ## 2026 Changes
@@ -17,6 +17,7 @@
 | 2023-01-01 | [Brazil](../countries/brazil/) | President | Luiz Inácio Lula da Silva | Jair Bolsonaro |
 | 2026-10-05 | [Laos](../countries/laos/) | Prime Minister | Saleumxay Kommasith | Sonexay Siphandone |
 | 2022-09-08 | [United Kingdom](../countries/uk/) | Monarch | King Charles III | Charles III |
+| 2022-09-08 | [United Kingdom](../countries/uk/) | Monarch | Charles III | King Charles III |
 
 
 

@@ -2,7 +2,7 @@
 
 > ผู้นำปัจจุบันของBrunei Darussalam / Current leaders of Brunei
 >
-> Last updated: 2026-11-11
+> Last updated: 2026-11-12
 
 
 ## 🇧🇳 ผู้นำปัจจุบัน / Current Leaders

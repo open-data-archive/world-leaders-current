@@ -84,6 +84,18 @@
       "new_holder_local": null,
       "change_date": "2022-09-08",
       "wikipedia_link": "https://en.wikipedia.org/wiki/King_Charles_III"
+    },
+    {
+      "detected_at": "2026-11-12T19:42:35.540Z",
+      "country": "uk",
+      "country_name_en": "United Kingdom",
+      "position": "head_of_state",
+      "position_title": "Monarch",
+      "old_holder_en": "King Charles III",
+      "new_holder_en": "Charles III",
+      "new_holder_local": null,
+      "change_date": "2022-09-08",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Charles_III"
     }
   ]
 }
