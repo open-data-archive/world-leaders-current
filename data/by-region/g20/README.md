@@ -2,7 +2,7 @@
 
 > Heads of government and state for G20 members
 >
-> Last updated: 2026-11-14
+> Last updated: 2026-11-15
 
 ## Current Leaders
 
