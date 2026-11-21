@@ -1,6 +1,6 @@
 # Leaders by Position
 
-> Last updated: 2026-11-20
+> Last updated: 2026-11-21
 
 - [Presidents](presidents.md) (23)
 - [Prime Ministers](prime-ministers.md) (17)
